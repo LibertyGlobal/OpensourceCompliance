@@ -1,0 +1,48 @@
+##########################################################################
+# If not stated otherwise in this file or this component's Licenses.txt
+# file the following copyright and licenses apply:
+#
+# Copyright 2016 RDK Management
+#
+# Licensed under the Apache License, Version 2.0 (the "License");
+# you may not use this file except in compliance with the License.
+# You may obtain a copy of the License at
+#
+# http://www.apache.org/licenses/LICENSE-2.0
+#
+# Unless required by applicable law or agreed to in writing, software
+# distributed under the License is distributed on an "AS IS" BASIS,
+# WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+# See the License for the specific language governing permissions and
+# limitations under the License.
+##########################################################################
+Overview:
+---------
+
+Librdkloggers is a general purpose logging mechanisam, it is based on MPEOS logging
+It has similar format as that of ocap-ri logs. It uses log4c for formatting and
+support multiple log levels, modules. The log level for each module reads from 
+configuration file debug.ini at startup.
+
+
+Build Instructions:
+-------------------
+* Checking out the rdklogger on host machine.
+ $ svn co https://svn3.teamccp.com/svn/rdk/rdk/components/comcast/rdk_logger/generic/trunk  rdklogger
+
+* Building the rdklogger module
+ $ cd trunk/rdklogger
+ $ ./build.sh
+
+* To Build and Install the rdk logger library, binaries and config files
+ $ ./build.sh install
+
+ Here, libraries are installed under "/mnt/nfs/lib/"
+ And the configuration files installed under "/mnt/nfs/env/" on target
+
+* To build Test
+ $ make test
+
+* To create the doxygen document
+ $ make doc
+ RDK logger documents in html format generated under "doc/html" folder
