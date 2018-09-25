@@ -192,7 +192,13 @@ typedef enum _SYSMgr_IMAGE_FWDNLDState_t
   IARM_BUS_SYSMGR_IMAGE_FWDNLD_FLASH_FAILED
 } IARM_Bus_SYSMGR_IMG_FWDNLDState_t;
 
-
+/*! ODH Error Codes */
+typedef enum
+{
+    SYSMGR_ODH_ERROR_REPORT_CODE_IO_ERROR = 1,
+    SYSMGR_ODH_ERROR_REPORT_CODE_INVALID_STATE,
+    SYSMGR_ODH_ERROR_REPORT_CODE_INVALID_HDCP_PROFILE
+} sysmgr_odh_error_report_code_t;
 
 /*! Event Data associated with Sys Managers */ 
 typedef struct _IARM_BUS_SYSMgr_EventData_t{
