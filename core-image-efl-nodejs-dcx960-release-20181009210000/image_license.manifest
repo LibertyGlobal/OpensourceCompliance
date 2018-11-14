@@ -1,0 +1,5 @@
+RECIPE NAME: stblinux
+VERSION: 3.14-1.14-generic-rdk
+LICENSE: GPLv2
+FILES: zImage--3.14-1.14-generic-rdk-r0-dcx960-release-20181009190659.bin modules--3.14-1.14-generic-rdk-r0-dcx960-release-20181009190659.tgz gen_init_cpio gen_initramfs_list.sh
+
