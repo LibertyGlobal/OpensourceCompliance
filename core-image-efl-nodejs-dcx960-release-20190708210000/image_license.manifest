@@ -1,0 +1,5 @@
+RECIPE NAME: stblinux
+VERSION: 3.14-1.14-generic-rdk
+LICENSE: GPLv2
+FILES: README_-_DO_NOT_DELETE_FILES_IN_THIS_DIRECTORY.txt modules--3.14-1.14-generic-rdk-r0-dcx960-release-20190708213323.tgz zImage--3.14-1.14-generic-rdk-r0-dcx960-release-20190708213323.bin gen_initramfs_list.sh gen_init_cpio
+
