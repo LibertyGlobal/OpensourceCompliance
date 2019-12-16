@@ -1,0 +1,1770 @@
+PACKAGE NAME: asconnector
+PACKAGE VERSION: 1.0
+RECIPE NAME: asconnector
+LICENSE: CLOSED
+
+PACKAGE NAME: asio
+PACKAGE VERSION: 1.10.1
+RECIPE NAME: asio
+LICENSE: BSL-1.0
+
+PACKAGE NAME: audio-fw
+PACKAGE VERSION: git+media_r37.0_PreGA
+RECIPE NAME: audio-fw
+LICENSE: INTEL
+
+PACKAGE NAME: audio-linux-kernel
+PACKAGE VERSION: git+media_r37.0_PreGA
+RECIPE NAME: audio-linux-kernel
+LICENSE: BSD | GPLv2
+
+PACKAGE NAME: auto-eas
+PACKAGE VERSION: git+media_r37.0_PreGA
+RECIPE NAME: auto-eas
+LICENSE: BSD | GPLv2
+
+PACKAGE NAME: avcap-linux-kernel
+PACKAGE VERSION: git+media_r37.0_PreGA
+RECIPE NAME: avcap-linux-kernel
+LICENSE: GPL-2.0 | BSD-3-Clause
+
+PACKAGE NAME: avcap-smd-shim-linux-kernel
+PACKAGE VERSION: git+media_r37.0_PreGA
+RECIPE NAME: avcap-smd-shim-linux-kernel
+LICENSE: BSD | GPLv2
+
+PACKAGE NAME: base-files
+PACKAGE VERSION: 3.0.14
+RECIPE NAME: base-files
+LICENSE: GPLv2
+
+PACKAGE NAME: base-passwd
+PACKAGE VERSION: 3.5.29
+RECIPE NAME: base-passwd
+LICENSE: GPLv2+
+
+PACKAGE NAME: bootsplash
+PACKAGE VERSION: 1.0
+RECIPE NAME: bootsplash
+LICENSE: BSD-3-Clause
+
+PACKAGE NAME: bridge-utils
+PACKAGE VERSION: 1.5
+RECIPE NAME: bridge-utils
+LICENSE: GPLv2
+
+PACKAGE NAME: bufmon-linux-kernel
+PACKAGE VERSION: git+media_r37.0_PreGA
+RECIPE NAME: bufmon-linux-kernel
+LICENSE: BSD | GPLv2
+
+PACKAGE NAME: busybox
+PACKAGE VERSION: 1.24.1
+RECIPE NAME: busybox
+LICENSE: GPLv2 & bzip2
+
+PACKAGE NAME: busybox-devel
+PACKAGE VERSION: 1.24.1
+RECIPE NAME: busybox-devel
+LICENSE: GPLv2 & bzip2
+
+PACKAGE NAME: busybox-udhcpc
+PACKAGE VERSION: 1.24.1
+RECIPE NAME: busybox
+LICENSE: GPLv2 & bzip2
+
+PACKAGE NAME: ca-certificates
+PACKAGE VERSION: 20160104
+RECIPE NAME: ca-certificates
+LICENSE: GPL-2.0+ & MPL-2.0
+
+PACKAGE NAME: clock-control
+PACKAGE VERSION: git+media_r37.0_PreGA
+RECIPE NAME: clock-control
+LICENSE: BSD | GPLv2
+
+PACKAGE NAME: clock-control-linux-kernel
+PACKAGE VERSION: git+media_r37.0_PreGA
+RECIPE NAME: clock-control-linux-kernel
+LICENSE: BSD | GPLv2
+
+PACKAGE NAME: clock-recovery-linux-kernel
+PACKAGE VERSION: git+media_r37.0_PreGA
+RECIPE NAME: clock-recovery-linux-kernel
+LICENSE: BSD | GPLv2
+
+PACKAGE NAME: config-databases
+PACKAGE VERSION: git+media_r37.0_PreGA
+RECIPE NAME: config-databases
+LICENSE: BSD | GPLv2
+
+PACKAGE NAME: cosai-linux-kernel
+PACKAGE VERSION: git+media_r37.0_PreGA
+RECIPE NAME: cosai-linux-kernel
+LICENSE: BSD | GPLv2
+
+PACKAGE NAME: crash-reporting
+PACKAGE VERSION: 1.0
+RECIPE NAME: crash-reporting
+LICENSE: CLOSED
+
+PACKAGE NAME: cryptodev-module
+PACKAGE VERSION: 1.6
+RECIPE NAME: cryptodev-module
+LICENSE: GPLv2
+
+PACKAGE NAME: curl
+PACKAGE VERSION: 7.51.0
+RECIPE NAME: curl
+LICENSE: MIT
+
+PACKAGE NAME: dbus
+PACKAGE VERSION: 1.10.6
+RECIPE NAME: dbus
+LICENSE: AFL-2 | GPLv2+
+
+PACKAGE NAME: dbus-client
+PACKAGE VERSION: 1.0
+RECIPE NAME: dbus-client
+LICENSE: CLOSED
+
+PACKAGE NAME: dbus-lib
+PACKAGE VERSION: 1.10.6
+RECIPE NAME: dbus
+LICENSE: AFL-2 | GPLv2+
+
+PACKAGE NAME: demux-fw
+PACKAGE VERSION: git+media_r37.0_PreGA
+RECIPE NAME: demux-fw
+LICENSE: INTEL
+
+PACKAGE NAME: demux-v3-linux-kernel
+PACKAGE VERSION: git+media_r37.0_PreGA
+RECIPE NAME: demux-v3-linux-kernel
+LICENSE: BSD | GPLv2
+
+PACKAGE NAME: devdrivers-samsung
+PACKAGE VERSION: 1.0
+RECIPE NAME: devdrivers-samsung
+LICENSE: CLOSED
+
+PACKAGE NAME: devdrivers-tools-samsung
+PACKAGE VERSION: 1.0
+RECIPE NAME: devdrivers-tools-samsung
+LICENSE: CLOSED
+
+PACKAGE NAME: devicesettings
+PACKAGE VERSION: rdkv-20170123+gitrrdkv-20170123
+RECIPE NAME: devicesettings
+LICENSE: RDK
+
+PACKAGE NAME: devicesettings-hal-intel
+PACKAGE VERSION: rdkv-20170123+git999
+RECIPE NAME: devicesettings-hal-intel
+LICENSE: CLOSED
+
+PACKAGE NAME: devmem-linux-kernel
+PACKAGE VERSION: git+media_r37.0_PreGA
+RECIPE NAME: devmem-linux-kernel
+LICENSE: BSD | (GPLv2 | BSD)
+
+PACKAGE NAME: devupdate
+PACKAGE VERSION: 1.0
+RECIPE NAME: devupdate
+LICENSE: CLOSED
+
+PACKAGE NAME: dhcp-options
+PACKAGE VERSION: 1.0
+RECIPE NAME: dhcp-options
+LICENSE: CLOSED
+
+PACKAGE NAME: dibbler-client
+PACKAGE VERSION: 1.0.1
+RECIPE NAME: dibbler
+LICENSE: GPLv2
+
+PACKAGE NAME: display
+PACKAGE VERSION: git+media_r37.0_PreGA
+RECIPE NAME: display
+LICENSE: BSD-3-Clause
+
+PACKAGE NAME: display-daemon
+PACKAGE VERSION: git+media_r37.0_PreGA
+RECIPE NAME: display-daemon
+LICENSE: INTEL
+
+PACKAGE NAME: display-linux-kernel
+PACKAGE VERSION: git+media_r37.0_PreGA
+RECIPE NAME: display-linux-kernel
+LICENSE: (GPL-2.0 | BSD-3-Clause) & BSD-3-Clause
+
+PACKAGE NAME: dnsmasq
+PACKAGE VERSION: 2.78
+RECIPE NAME: dnsmasq
+LICENSE: GPLv2
+
+PACKAGE NAME: dropbear
+PACKAGE VERSION: 2017.75
+RECIPE NAME: dropbear
+LICENSE: MIT & BSD-3-Clause & BSD-2-Clause & PD
+
+PACKAGE NAME: dscli
+PACKAGE VERSION: 1.0
+RECIPE NAME: dscli
+LICENSE: CLOSED
+
+PACKAGE NAME: dshal-samsung
+PACKAGE VERSION: 1.0
+RECIPE NAME: dshal-samsung
+LICENSE: CLOSED
+
+PACKAGE NAME: dsskwe
+PACKAGE VERSION: 1.0.3
+RECIPE NAME: dsskwe
+LICENSE: CLOSED
+
+PACKAGE NAME: ecryptfs-utils
+PACKAGE VERSION: 111
+RECIPE NAME: ecryptfs-utils
+LICENSE: GPLv2
+
+PACKAGE NAME: etherwake
+PACKAGE VERSION: 1.09
+RECIPE NAME: etherwake
+LICENSE: GPL
+
+PACKAGE NAME: expat
+PACKAGE VERSION: 2.1.0
+RECIPE NAME: expat
+LICENSE: MIT
+
+PACKAGE NAME: expbus-linux-kernel
+PACKAGE VERSION: git+media_r37.0_PreGA
+RECIPE NAME: expbus-linux-kernel
+LICENSE: BSD | (GPLv2 | BSD)
+
+PACKAGE NAME: fanctrl-samsung
+PACKAGE VERSION: 1.0
+RECIPE NAME: fanctrl-samsung
+LICENSE: CLOSED
+
+PACKAGE NAME: flash-appdata
+PACKAGE VERSION: git+media_r37.0_PreGA
+RECIPE NAME: flash-appdata
+LICENSE: INTEL
+
+PACKAGE NAME: flashmounts
+PACKAGE VERSION: 1.0
+RECIPE NAME: flashmounts
+LICENSE: CLOSED
+
+PACKAGE NAME: flashmounts-hdd
+PACKAGE VERSION: 1.0
+RECIPE NAME: flashmounts
+LICENSE: CLOSED
+
+PACKAGE NAME: flashmounts-mass-storage
+PACKAGE VERSION: 1.0
+RECIPE NAME: flashmounts
+LICENSE: CLOSED
+
+PACKAGE NAME: flashmounts-smtg7401-release
+PACKAGE VERSION: 1.0
+RECIPE NAME: flashmounts
+LICENSE: CLOSED
+
+PACKAGE NAME: flashmounts-ubifs
+PACKAGE VERSION: 1.0
+RECIPE NAME: flashmounts
+LICENSE: CLOSED
+
+PACKAGE NAME: flashtool
+PACKAGE VERSION: git+media_r37.0_PreGA
+RECIPE NAME: flashtool
+LICENSE: BSD
+
+PACKAGE NAME: flashtool-linux-kernel
+PACKAGE VERSION: git+media_r37.0_PreGA
+RECIPE NAME: flashtool-linux-kernel
+LICENSE: GPLv1
+
+PACKAGE NAME: flashtool-samsung
+PACKAGE VERSION: 1.0
+RECIPE NAME: flashtool-samsung
+LICENSE: CLOSED
+
+PACKAGE NAME: freetype
+PACKAGE VERSION: 2.6.3
+RECIPE NAME: freetype
+LICENSE: FreeType | GPLv2+
+
+PACKAGE NAME: fw-manager-linux-kernel
+PACKAGE VERSION: git+media_r37.0_PreGA
+RECIPE NAME: fw-manager-linux-kernel
+LICENSE: BSD | GPLv2
+
+PACKAGE NAME: generic-timer-linux-kernel
+PACKAGE VERSION: git+media_r37.0_PreGA
+RECIPE NAME: generic-timer-linux-kernel
+LICENSE: BSD | GPLv2
+
+PACKAGE NAME: getoui
+PACKAGE VERSION: 1.0
+RECIPE NAME: getoui
+LICENSE: CLOSED
+
+PACKAGE NAME: getproductclass
+PACKAGE VERSION: 1.0
+RECIPE NAME: getproductclass
+LICENSE: CLOSED
+
+PACKAGE NAME: getserialno
+PACKAGE VERSION: 1.0
+RECIPE NAME: getserialno
+LICENSE: CLOSED
+
+PACKAGE NAME: glib-2.0
+PACKAGE VERSION: 2.46.2
+RECIPE NAME: glib-2.0
+LICENSE: LGPLv2+ & BSD & PD
+
+PACKAGE NAME: glibc
+PACKAGE VERSION: 2.23
+RECIPE NAME: glibc
+LICENSE: GPLv2 & LGPLv2.1
+
+PACKAGE NAME: global-reboot
+PACKAGE VERSION: 1.0
+RECIPE NAME: global-reboot
+LICENSE: CLOSED
+
+PACKAGE NAME: gmp
+PACKAGE VERSION: 6.1.0
+RECIPE NAME: gmp
+LICENSE: GPLv2+
+
+PACKAGE NAME: gnutls
+PACKAGE VERSION: 3.3.27
+RECIPE NAME: gnutls
+LICENSE: LGPLv2.1+
+
+PACKAGE NAME: gpio
+PACKAGE VERSION: git+media_r37.0_PreGA
+RECIPE NAME: gpio
+LICENSE: BSD
+
+PACKAGE NAME: graphics-api
+PACKAGE VERSION: git+media_r37.0_PreGA
+RECIPE NAME: graphics-api
+LICENSE: Apache-2.0 & MIT & SGI-FreeB-2.0
+
+PACKAGE NAME: graphics-img-binaries-all
+PACKAGE VERSION: git+media_r37.0_PreGA
+RECIPE NAME: graphics-img-binaries-all
+LICENSE: Intel-Sample-Source
+
+PACKAGE NAME: graphics-img-linux-kernel
+PACKAGE VERSION: git+media_r37.0_PreGA
+RECIPE NAME: graphics-img-linux-kernel
+LICENSE: GPL-2.0 & Apache-2.0 & Intel-Sample-Source
+
+PACKAGE NAME: hdmi-hdcp
+PACKAGE VERSION: git+media_r37.0_PreGA
+RECIPE NAME: hdmi-hdcp
+LICENSE: INTEL
+
+PACKAGE NAME: hostpersistentfile
+PACKAGE VERSION: 1.0
+RECIPE NAME: hostpersistentfile
+LICENSE: CLOSED
+
+PACKAGE NAME: htuple
+PACKAGE VERSION: git+media_r37.0_PreGA
+RECIPE NAME: htuple
+LICENSE: BSD | GPLv2
+
+PACKAGE NAME: htuple-linux-kernel
+PACKAGE VERSION: git+media_r37.0_PreGA
+RECIPE NAME: htuple-linux-kernel
+LICENSE: BSD | GPLv2
+
+PACKAGE NAME: hwrevision-samsung
+PACKAGE VERSION: 1.0
+RECIPE NAME: hwrevision-samsung
+LICENSE: CLOSED
+
+PACKAGE NAME: hwrevision-tool-samsung
+PACKAGE VERSION: 1.0
+RECIPE NAME: hwrevision-tool-samsung
+LICENSE: CLOSED
+
+PACKAGE NAME: iarmbus
+PACKAGE VERSION: rdkv-20170123+gitrdkv-20170123
+RECIPE NAME: iarmbus
+LICENSE: RDK
+
+PACKAGE NAME: iarmmgrs
+PACKAGE VERSION: rdkv-20170123+gitrdkv-20170123
+RECIPE NAME: iarmmgrs
+LICENSE: RDK & SeaChange & PioneerDigital
+
+PACKAGE NAME: iarmmgrs-hal-samsung
+PACKAGE VERSION: rdkv-20170123+git999
+RECIPE NAME: iarmmgrs-hal-samsung
+LICENSE: CLOSED
+
+PACKAGE NAME: idl
+PACKAGE VERSION: git+media_r37.0_PreGA
+RECIPE NAME: idl
+LICENSE: BSD | LGPLv2.1
+
+PACKAGE NAME: idl-linux-kernel
+PACKAGE VERSION: git+media_r37.0_PreGA
+RECIPE NAME: idl-linux-kernel
+LICENSE: BSD | GPLv2
+
+PACKAGE NAME: idts-common
+PACKAGE VERSION: git+media_r37.0_PreGA
+RECIPE NAME: idts-common
+LICENSE: INTEL
+
+PACKAGE NAME: idts-core
+PACKAGE VERSION: git+media_r37.0_PreGA
+RECIPE NAME: idts-core
+LICENSE: INTEL
+
+PACKAGE NAME: idtsal-linux-kernel
+PACKAGE VERSION: git+media_r37.0_PreGA
+RECIPE NAME: idtsal-linux-kernel
+LICENSE: BSD | GPLv2
+
+PACKAGE NAME: idtsal-linux-user
+PACKAGE VERSION: git+media_r37.0_PreGA
+RECIPE NAME: idtsal-linux-user
+LICENSE: BSD | LGPLv2.1
+
+PACKAGE NAME: initramfs-cleanup
+PACKAGE VERSION: 1.0
+RECIPE NAME: initramfs-cleanup
+LICENSE: CLOSED
+
+PACKAGE NAME: intelce-nocs-csd
+PACKAGE VERSION: 1.0
+RECIPE NAME: intelce-nocs-csd
+LICENSE: CLOSED
+
+PACKAGE NAME: intelce-sec-spec01
+PACKAGE VERSION: 1.0
+RECIPE NAME: intelce-sec-spec01
+LICENSE: CLOSED
+
+PACKAGE NAME: iosf
+PACKAGE VERSION: git+media_r37.0_PreGA
+RECIPE NAME: iosf
+LICENSE: BSD | LGPLv2.1
+
+PACKAGE NAME: iosf-linux-kernel
+PACKAGE VERSION: git+media_r37.0_PreGA
+RECIPE NAME: iosf-linux-kernel
+LICENSE: BSD | GPLv2
+
+PACKAGE NAME: iptables
+PACKAGE VERSION: 1.6.0
+RECIPE NAME: iptables
+LICENSE: GPLv2+
+
+PACKAGE NAME: iptables-rules
+PACKAGE VERSION: 1.0
+RECIPE NAME: iptables-rules
+LICENSE: CLOSED
+
+PACKAGE NAME: ishddinstalled
+PACKAGE VERSION: 1.0
+RECIPE NAME: ishddinstalled
+LICENSE: CLOSED
+
+PACKAGE NAME: iupc-samsung
+PACKAGE VERSION: 1.0
+RECIPE NAME: iupc-samsung
+LICENSE: CLOSED
+
+PACKAGE NAME: jansson
+PACKAGE VERSION: 2.9
+RECIPE NAME: jansson
+LICENSE: MIT
+
+PACKAGE NAME: kernel-base
+PACKAGE VERSION: 3.12.17
+RECIPE NAME: linux-yocto-custom
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-avcap-core
+PACKAGE VERSION: git+media_r37.0_PreGA
+RECIPE NAME: avcap-linux-kernel
+LICENSE: GPL-2.0 | BSD-3-Clause
+
+PACKAGE NAME: kernel-module-avcap-synthetic
+PACKAGE VERSION: git+media_r37.0_PreGA
+RECIPE NAME: avcap-linux-kernel
+LICENSE: GPL-2.0 | BSD-3-Clause
+
+PACKAGE NAME: kernel-module-ce5xx-spi-slv
+PACKAGE VERSION: 3.12.17
+RECIPE NAME: linux-yocto-custom
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-clock-control
+PACKAGE VERSION: git+media_r37.0_PreGA
+RECIPE NAME: clock-control-linux-kernel
+LICENSE: BSD | GPLv2
+
+PACKAGE NAME: kernel-module-cosai-irqproxy
+PACKAGE VERSION: git+media_r37.0_PreGA
+RECIPE NAME: cosai-linux-kernel
+LICENSE: BSD | GPLv2
+
+PACKAGE NAME: kernel-module-cosai-soc-utils
+PACKAGE VERSION: git+media_r37.0_PreGA
+RECIPE NAME: cosai-linux-kernel
+LICENSE: BSD | GPLv2
+
+PACKAGE NAME: kernel-module-cryptodev
+PACKAGE VERSION: 1.6
+RECIPE NAME: cryptodev-module
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-devmem
+PACKAGE VERSION: git+media_r37.0_PreGA
+RECIPE NAME: devmem-linux-kernel
+LICENSE: BSD | (GPLv2 | BSD)
+
+PACKAGE NAME: kernel-module-expbus
+PACKAGE VERSION: git+media_r37.0_PreGA
+RECIPE NAME: expbus-linux-kernel
+LICENSE: BSD | (GPLv2 | BSD)
+
+PACKAGE NAME: kernel-module-gdl-server
+PACKAGE VERSION: git+media_r37.0_PreGA
+RECIPE NAME: display-linux-kernel
+LICENSE: (GPL-2.0 | BSD-3-Clause) & BSD-3-Clause
+
+PACKAGE NAME: kernel-module-gen-timer
+PACKAGE VERSION: git+media_r37.0_PreGA
+RECIPE NAME: generic-timer-linux-kernel
+LICENSE: BSD | GPLv2
+
+PACKAGE NAME: kernel-module-gpio-ich
+PACKAGE VERSION: 3.12.17
+RECIPE NAME: linux-yocto-custom
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-gpio-sch
+PACKAGE VERSION: 3.12.17
+RECIPE NAME: linux-yocto-custom
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-i2c-algo-pca
+PACKAGE VERSION: 3.12.17
+RECIPE NAME: linux-yocto-custom
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-i2c-dev
+PACKAGE VERSION: 3.12.17
+RECIPE NAME: linux-yocto-custom
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-i2c-pxa
+PACKAGE VERSION: 3.12.17
+RECIPE NAME: linux-yocto-custom
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-i2c-pxa-pci
+PACKAGE VERSION: 3.12.17
+RECIPE NAME: linux-yocto-custom
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-idl-gpio-shim
+PACKAGE VERSION: git+media_r37.0_PreGA
+RECIPE NAME: idl-linux-kernel
+LICENSE: BSD | GPLv2
+
+PACKAGE NAME: kernel-module-idl-i2c
+PACKAGE VERSION: git+media_r37.0_PreGA
+RECIPE NAME: idl-linux-kernel
+LICENSE: BSD | GPLv2
+
+PACKAGE NAME: kernel-module-idl-smartcard
+PACKAGE VERSION: git+media_r37.0_PreGA
+RECIPE NAME: idl-linux-kernel
+LICENSE: BSD | GPLv2
+
+PACKAGE NAME: kernel-module-idl-spi
+PACKAGE VERSION: git+media_r37.0_PreGA
+RECIPE NAME: idl-linux-kernel
+LICENSE: BSD | GPLv2
+
+PACKAGE NAME: kernel-module-idtsal-linux-driver
+PACKAGE VERSION: git+media_r37.0_PreGA
+RECIPE NAME: idtsal-linux-kernel
+LICENSE: BSD | GPLv2
+
+PACKAGE NAME: kernel-module-intel-ce-flash
+PACKAGE VERSION: git+media_r37.0_PreGA
+RECIPE NAME: flashtool-linux-kernel
+LICENSE: GPLv1
+
+PACKAGE NAME: kernel-module-intel-ce-pm
+PACKAGE VERSION: git+media_r37.0_PreGA
+RECIPE NAME: pm-linux-kernel
+LICENSE: BSD | GPLv2
+
+PACKAGE NAME: kernel-module-intel-pic-uart
+PACKAGE VERSION: git+media_r37.0_PreGA
+RECIPE NAME: pic24-uart-linux-kernel
+LICENSE: BSD | (GPLv2 | BSD)
+
+PACKAGE NAME: kernel-module-intelce-gpio
+PACKAGE VERSION: 3.12.17
+RECIPE NAME: linux-yocto-custom
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-intelce-wdt
+PACKAGE VERSION: 3.12.17
+RECIPE NAME: linux-yocto-custom
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-ioctl-module
+PACKAGE VERSION: git+media_r37.0_PreGA
+RECIPE NAME: smd-core-linux-kernel
+LICENSE: BSD | GPLv2
+
+PACKAGE NAME: kernel-module-iosf-wrap
+PACKAGE VERSION: git+media_r37.0_PreGA
+RECIPE NAME: iosf-linux-kernel
+LICENSE: BSD | GPLv2
+
+PACKAGE NAME: kernel-module-ismdaudio
+PACKAGE VERSION: git+media_r37.0_PreGA
+RECIPE NAME: audio-linux-kernel
+LICENSE: BSD | GPLv2
+
+PACKAGE NAME: kernel-module-ismdavcap-shim
+PACKAGE VERSION: git+media_r37.0_PreGA
+RECIPE NAME: avcap-smd-shim-linux-kernel
+LICENSE: BSD | GPLv2
+
+PACKAGE NAME: kernel-module-ismdbufmon
+PACKAGE VERSION: git+media_r37.0_PreGA
+RECIPE NAME: bufmon-linux-kernel
+LICENSE: BSD | GPLv2
+
+PACKAGE NAME: kernel-module-ismdces-router
+PACKAGE VERSION: git+media_r37.0_PreGA
+RECIPE NAME: video-ces-router-linux-kernel
+LICENSE: BSD | GPLv2
+
+PACKAGE NAME: kernel-module-ismdces-vidcodec-mux
+PACKAGE VERSION: git+media_r37.0_PreGA
+RECIPE NAME: video-ces-services-decode-mux-gen5-linux-kernel
+LICENSE: BSD | GPLv2
+
+PACKAGE NAME: kernel-module-ismdces-viddec-mux
+PACKAGE VERSION: git+media_r37.0_PreGA
+RECIPE NAME: video-ces-services-decode-mux-linux-kernel
+LICENSE: BSD | GPLv2
+
+PACKAGE NAME: kernel-module-ismdces-vidparse-vidcodec
+PACKAGE VERSION: git+media_r37.0_PreGA
+RECIPE NAME: video-ces-services-parse-encode-gen5-linux-kernel
+LICENSE: BSD | GPLv2
+
+PACKAGE NAME: kernel-module-ismdces-vidparse-videnc
+PACKAGE VERSION: git+media_r37.0_PreGA
+RECIPE NAME: video-ces-services-parse-encode-linux-kernel
+LICENSE: BSD | GPLv2
+
+PACKAGE NAME: kernel-module-ismdclock
+PACKAGE VERSION: git+media_r37.0_PreGA
+RECIPE NAME: smd-clock-linux-kernel
+LICENSE: BSD | GPLv2
+
+PACKAGE NAME: kernel-module-ismdclock-recovery
+PACKAGE VERSION: git+media_r37.0_PreGA
+RECIPE NAME: clock-recovery-linux-kernel
+LICENSE: BSD | GPLv2
+
+PACKAGE NAME: kernel-module-ismdcore
+PACKAGE VERSION: git+media_r37.0_PreGA
+RECIPE NAME: smd-core-linux-kernel
+LICENSE: BSD | GPLv2
+
+PACKAGE NAME: kernel-module-ismdfw-manager
+PACKAGE VERSION: git+media_r37.0_PreGA
+RECIPE NAME: fw-manager-linux-kernel
+LICENSE: BSD | GPLv2
+
+PACKAGE NAME: kernel-module-ismdviddec-v3
+PACKAGE VERSION: git+media_r37.0_PreGA
+RECIPE NAME: viddec-v3-linux-kernel
+LICENSE: BSD | GPLv2
+
+PACKAGE NAME: kernel-module-ismdvidenc
+PACKAGE VERSION: git+media_r37.0_PreGA
+RECIPE NAME: videnc-linux-kernel
+LICENSE: BSD | GPLv2
+
+PACKAGE NAME: kernel-module-ismdvidpproc
+PACKAGE VERSION: git+media_r37.0_PreGA
+RECIPE NAME: vidpproc-linux-kernel
+LICENSE: BSD | GPLv2
+
+PACKAGE NAME: kernel-module-ismdvidrend
+PACKAGE VERSION: git+media_r37.0_PreGA
+RECIPE NAME: vidrend-linux-kernel
+LICENSE: BSD | GPLv2
+
+PACKAGE NAME: kernel-module-lgigetpassk
+PACKAGE VERSION: 1.0
+RECIPE NAME: lgigetpassk
+LICENSE: CLOSED
+
+PACKAGE NAME: kernel-module-lpc-ich
+PACKAGE VERSION: 3.12.17
+RECIPE NAME: linux-yocto-custom
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-lpddr-cmds
+PACKAGE VERSION: 3.12.17
+RECIPE NAME: linux-yocto-custom
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-mem-layout
+PACKAGE VERSION: git+media_r37.0_PreGA
+RECIPE NAME: platform-config-linux-kernel
+LICENSE: BSD | (GPLv2 | BSD)
+
+PACKAGE NAME: kernel-module-mfd-core
+PACKAGE VERSION: 3.12.17
+RECIPE NAME: linux-yocto-custom
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-mspod-drv
+PACKAGE VERSION: git+media_r37.0_PreGA
+RECIPE NAME: mspod-linux-kernel
+LICENSE: BSD | GPLv2
+
+PACKAGE NAME: kernel-module-osal-linux
+PACKAGE VERSION: git+media_r37.0_PreGA
+RECIPE NAME: osal-linux-kernel
+LICENSE: BSD | (GPLv2 | BSD)
+
+PACKAGE NAME: kernel-module-pal-linux
+PACKAGE VERSION: git+media_r37.0_PreGA
+RECIPE NAME: pal-linux-kernel
+LICENSE: BSD | (GPLv2 | BSD)
+
+PACKAGE NAME: kernel-module-pd-hdmi
+PACKAGE VERSION: git+media_r37.0_PreGA
+RECIPE NAME: display-linux-kernel
+LICENSE: (GPL-2.0 | BSD-3-Clause) & BSD-3-Clause
+
+PACKAGE NAME: kernel-module-pd-inttvenc-comp
+PACKAGE VERSION: git+media_r37.0_PreGA
+RECIPE NAME: display-linux-kernel
+LICENSE: (GPL-2.0 | BSD-3-Clause) & BSD-3-Clause
+
+PACKAGE NAME: kernel-module-pd-inttvenc-cvbs
+PACKAGE VERSION: git+media_r37.0_PreGA
+RECIPE NAME: display-linux-kernel
+LICENSE: (GPL-2.0 | BSD-3-Clause) & BSD-3-Clause
+
+PACKAGE NAME: kernel-module-pd-null
+PACKAGE VERSION: git+media_r37.0_PreGA
+RECIPE NAME: display-linux-kernel
+LICENSE: (GPL-2.0 | BSD-3-Clause) & BSD-3-Clause
+
+PACKAGE NAME: kernel-module-platform-config
+PACKAGE VERSION: git+media_r37.0_PreGA
+RECIPE NAME: platform-config-linux-kernel
+LICENSE: BSD | (GPLv2 | BSD)
+
+PACKAGE NAME: kernel-module-punit-fw-upgrade-drv
+PACKAGE VERSION: git+media_r37.0_PreGA
+RECIPE NAME: punit-fw-upgrade-linux-kernel
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-pvrsrvkm
+PACKAGE VERSION: git+media_r37.0_PreGA
+RECIPE NAME: graphics-img-linux-kernel
+LICENSE: GPL-2.0 & Apache-2.0 & Intel-Sample-Source
+
+PACKAGE NAME: kernel-module-pwm
+PACKAGE VERSION: git+media_r37.0_PreGA
+RECIPE NAME: pwm-linux-kernel
+LICENSE: GPLv2 | BSD
+
+PACKAGE NAME: kernel-module-qinfo-probe
+PACKAGE VERSION: 3.12.17
+RECIPE NAME: linux-yocto-custom
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-sec-kernel
+PACKAGE VERSION: git+media_r37.0_PreGA
+RECIPE NAME: sec-linux-kernel
+LICENSE: BSD | GPLv2
+
+PACKAGE NAME: kernel-module-sii9xxx
+PACKAGE VERSION: git+media_r37.0_PreGA
+RECIPE NAME: avcap-linux-kernel
+LICENSE: GPL-2.0 | BSD-3-Clause
+
+PACKAGE NAME: kernel-module-spi-pxa2xx-pci
+PACKAGE VERSION: 3.12.17
+RECIPE NAME: linux-yocto-custom
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-spi-pxa2xx-platform
+PACKAGE VERSION: 3.12.17
+RECIPE NAME: linux-yocto-custom
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-spidev
+PACKAGE VERSION: 3.12.17
+RECIPE NAME: linux-yocto-custom
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-sven-linux
+PACKAGE VERSION: git+media_r37.0_PreGA
+RECIPE NAME: sven-linux-kernel
+LICENSE: BSD | GPLv2
+
+PACKAGE NAME: kernel-module-system-utils-linux
+PACKAGE VERSION: git+media_r37.0_PreGA
+RECIPE NAME: system-utils-linux-kernel
+LICENSE: BSD | GPLv2
+
+PACKAGE NAME: kernel-module-thermal
+PACKAGE VERSION: git+media_r37.0_PreGA
+RECIPE NAME: thermal-linux-kernel
+LICENSE: BSD | GPLv2
+
+PACKAGE NAME: kernel-module-vidcap-ce4x00
+PACKAGE VERSION: git+media_r37.0_PreGA
+RECIPE NAME: avcap-linux-kernel
+LICENSE: GPL-2.0 | BSD-3-Clause
+
+PACKAGE NAME: kernel-modules
+PACKAGE VERSION: 3.12.17
+RECIPE NAME: linux-yocto-custom
+LICENSE: GPLv2
+
+PACKAGE NAME: keyutils
+PACKAGE VERSION: 1.5.9
+RECIPE NAME: keyutils
+LICENSE: GPLv2
+
+PACKAGE NAME: kmod
+PACKAGE VERSION: 22+gitAUTOINC+42f32b8ae4
+RECIPE NAME: kmod
+LICENSE: GPL-2.0+ & LGPL-2.1+
+
+PACKAGE NAME: lgiencryptkey
+PACKAGE VERSION: 1.0
+RECIPE NAME: lgiencryptkey
+LICENSE: CLOSED
+
+PACKAGE NAME: lgigetpass
+PACKAGE VERSION: 1.0
+RECIPE NAME: lgigetpass
+LICENSE: CLOSED
+
+PACKAGE NAME: lgigetpassk
+PACKAGE VERSION: 1.0
+RECIPE NAME: lgigetpassk
+LICENSE: CLOSED
+
+PACKAGE NAME: libarchive
+PACKAGE VERSION: 3.1.2
+RECIPE NAME: libarchive
+LICENSE: BSD
+
+PACKAGE NAME: libattr
+PACKAGE VERSION: 2.4.47
+RECIPE NAME: attr
+LICENSE: LGPLv2.1+
+
+PACKAGE NAME: libbz2
+PACKAGE VERSION: 1.0.6
+RECIPE NAME: bzip2
+LICENSE: bzip2
+
+PACKAGE NAME: libcap
+PACKAGE VERSION: 2.24
+RECIPE NAME: libcap
+LICENSE: BSD | GPLv2
+
+PACKAGE NAME: libcrypto
+PACKAGE VERSION: 1.0.2l
+RECIPE NAME: openssl
+LICENSE: openssl
+
+PACKAGE NAME: libcurl
+PACKAGE VERSION: 7.51.0
+RECIPE NAME: curl
+LICENSE: MIT
+
+PACKAGE NAME: libdrm
+PACKAGE VERSION: 2.4.67
+RECIPE NAME: libdrm
+LICENSE: MIT
+
+PACKAGE NAME: libffi
+PACKAGE VERSION: 3.2.1
+RECIPE NAME: libffi
+LICENSE: MIT
+
+PACKAGE NAME: libgcc
+PACKAGE VERSION: 5.3.0
+RECIPE NAME: libgcc
+LICENSE: GPL-3.0-with-GCC-exception
+
+PACKAGE NAME: libgcrypt
+PACKAGE VERSION: 1.6.5
+RECIPE NAME: libgcrypt
+LICENSE: LGPLv2.1+
+
+PACKAGE NAME: libgpg-error
+PACKAGE VERSION: 1.21
+RECIPE NAME: libgpg-error
+LICENSE: GPLv2+ & LGPLv2.1+
+
+PACKAGE NAME: libkmod
+PACKAGE VERSION: 22+gitAUTOINC+42f32b8ae4
+RECIPE NAME: kmod
+LICENSE: LGPL-2.1+
+
+PACKAGE NAME: liblgicerttools
+PACKAGE VERSION: 1.0
+RECIPE NAME: liblgicerttools
+LICENSE: CLOSED
+
+PACKAGE NAME: liblzma
+PACKAGE VERSION: 5.2.2
+RECIPE NAME: xz
+LICENSE: PD
+
+PACKAGE NAME: libmozjs
+PACKAGE VERSION: 17.0.0
+RECIPE NAME: mozjs
+LICENSE: MPL-2.0
+
+PACKAGE NAME: libnl
+PACKAGE VERSION: 1.1.4
+RECIPE NAME: libnl
+LICENSE: LGPLv2.1
+
+PACKAGE NAME: libodherr
+PACKAGE VERSION: 1.0
+RECIPE NAME: libodherr
+LICENSE: CLOSED
+
+PACKAGE NAME: libpam
+PACKAGE VERSION: 1.2.1
+RECIPE NAME: libpam
+LICENSE: GPLv2+ | BSD
+
+PACKAGE NAME: libpam-runtime
+PACKAGE VERSION: 1.2.1
+RECIPE NAME: libpam
+LICENSE: GPLv2+ | BSD
+
+PACKAGE NAME: libpcre
+PACKAGE VERSION: 8.38
+RECIPE NAME: libpcre
+LICENSE: BSD
+
+PACKAGE NAME: libpng
+PACKAGE VERSION: 1.6.21
+RECIPE NAME: libpng
+LICENSE: Libpng
+
+PACKAGE NAME: libssl
+PACKAGE VERSION: 1.0.2l
+RECIPE NAME: openssl
+LICENSE: openssl
+
+PACKAGE NAME: libstdc++
+PACKAGE VERSION: 5.3.0
+RECIPE NAME: gcc-runtime
+LICENSE: GPL-3.0-with-GCC-exception
+
+PACKAGE NAME: libsysfs
+PACKAGE VERSION: 2.1.0
+RECIPE NAME: sysfsutils
+LICENSE: LGPLv2.1
+
+PACKAGE NAME: libsystemd
+PACKAGE VERSION: 229+gitAUTOINC+714c62b463
+RECIPE NAME: systemd
+LICENSE: GPLv2 & LGPLv2.1
+
+PACKAGE NAME: libtirpc
+PACKAGE VERSION: 1.0.1
+RECIPE NAME: libtirpc
+LICENSE: BSD
+
+PACKAGE NAME: libuv
+PACKAGE VERSION: 1.10.2
+RECIPE NAME: libuv
+LICENSE: MIT
+
+PACKAGE NAME: libxml2
+PACKAGE VERSION: 2.9.4
+RECIPE NAME: libxml2
+LICENSE: MIT
+
+PACKAGE NAME: loaddrivers
+PACKAGE VERSION: git
+RECIPE NAME: loaddrivers
+LICENSE: CLOSED
+
+PACKAGE NAME: log4c
+PACKAGE VERSION: 1.2.3
+RECIPE NAME: log4c
+LICENSE: GPLv2
+
+PACKAGE NAME: logcfg
+PACKAGE VERSION: 1.0
+RECIPE NAME: logcfg
+LICENSE: CLOSED
+
+PACKAGE NAME: lxc
+PACKAGE VERSION: 2.0.6
+RECIPE NAME: lxc
+LICENSE: LGPLv2.1
+
+PACKAGE NAME: lxccpid
+PACKAGE VERSION: 1.0
+RECIPE NAME: lxccpid
+LICENSE: Apache-2.0
+
+PACKAGE NAME: mcu-config
+PACKAGE VERSION: git+media_r37.0_PreGA
+RECIPE NAME: mcu-config
+LICENSE: INTEL
+
+PACKAGE NAME: mfh
+PACKAGE VERSION: git+media_r37.0_PreGA
+RECIPE NAME: mfh
+LICENSE: INTEL
+
+PACKAGE NAME: mfrlib-samsung
+PACKAGE VERSION: 1.0
+RECIPE NAME: mfrlib-samsung
+LICENSE: CLOSED
+
+PACKAGE NAME: mfrmgrcli
+PACKAGE VERSION: 1.0
+RECIPE NAME: mfrmgrcli
+LICENSE: CLOSED
+
+PACKAGE NAME: mspod-linux-kernel
+PACKAGE VERSION: git+media_r37.0_PreGA
+RECIPE NAME: mspod-linux-kernel
+LICENSE: BSD | GPLv2
+
+PACKAGE NAME: mtd-utils
+PACKAGE VERSION: 1.5.2
+RECIPE NAME: mtd-utils
+LICENSE: GPLv2+
+
+PACKAGE NAME: mtd-utils-misc
+PACKAGE VERSION: 1.5.2
+RECIPE NAME: mtd-utils
+LICENSE: GPLv2+
+
+PACKAGE NAME: mtd-utils-ubifs
+PACKAGE VERSION: 1.5.2
+RECIPE NAME: mtd-utils
+LICENSE: GPLv2+
+
+PACKAGE NAME: nagra7storage
+PACKAGE VERSION: 1.0
+RECIPE NAME: nagra7storage
+LICENSE: CLOSED
+
+PACKAGE NAME: nand-config
+PACKAGE VERSION: git+media_r37.0_PreGA
+RECIPE NAME: nand-config
+LICENSE: INTEL
+
+PACKAGE NAME: ncurses-libtinfo
+PACKAGE VERSION: 6.0+20160213
+RECIPE NAME: ncurses
+LICENSE: MIT
+
+PACKAGE NAME: ncurses-terminfo-base
+PACKAGE VERSION: 6.0+20160213
+RECIPE NAME: ncurses
+LICENSE: MIT
+
+PACKAGE NAME: ndisc6-rdnssd
+PACKAGE VERSION: 1.0.3
+RECIPE NAME: ndisc6
+LICENSE: GPL-2.0
+
+PACKAGE NAME: netbase
+PACKAGE VERSION: 5.3
+RECIPE NAME: netbase
+LICENSE: GPLv2
+
+PACKAGE NAME: nettle
+PACKAGE VERSION: 2.7.1
+RECIPE NAME: nettle
+LICENSE: LGPLv2.1+
+
+PACKAGE NAME: ngi-samsung
+PACKAGE VERSION: 1.0
+RECIPE NAME: ngi-samsung
+LICENSE: CLOSED
+
+PACKAGE NAME: nopoll
+PACKAGE VERSION: 0.3.2.b232
+RECIPE NAME: nopoll
+LICENSE: LGPL-2.1
+
+PACKAGE NAME: nspr
+PACKAGE VERSION: 4.12
+RECIPE NAME: nspr
+LICENSE: GPL-2.0 | MPL-2.0 | LGPL-2.1
+
+PACKAGE NAME: oemdatatool-samsung
+PACKAGE VERSION: 1.0
+RECIPE NAME: oemdatatool-samsung
+LICENSE: CLOSED
+
+PACKAGE NAME: om-netconfig
+PACKAGE VERSION: 1.0
+RECIPE NAME: om-netconfig
+LICENSE: CLOSED
+
+PACKAGE NAME: oneconfig-tool-samsung
+PACKAGE VERSION: 1.0
+RECIPE NAME: oneconfig-tool-samsung
+LICENSE: CLOSED
+
+PACKAGE NAME: onenand-tools-samsung
+PACKAGE VERSION: 1.0
+RECIPE NAME: onenand-tools-samsung
+LICENSE: CLOSED
+
+PACKAGE NAME: openntpd
+PACKAGE VERSION: 6.1p1
+RECIPE NAME: openntpd
+LICENSE: BSD
+
+PACKAGE NAME: openssl
+PACKAGE VERSION: 1.0.2l
+RECIPE NAME: openssl
+LICENSE: openssl
+
+PACKAGE NAME: openssl-conf
+PACKAGE VERSION: 1.0.2l
+RECIPE NAME: openssl
+LICENSE: openssl
+
+PACKAGE NAME: os-release
+PACKAGE VERSION: 1.0
+RECIPE NAME: os-release
+LICENSE: MIT
+
+PACKAGE NAME: osal-linux-kernel
+PACKAGE VERSION: git+media_r37.0_PreGA
+RECIPE NAME: osal-linux-kernel
+LICENSE: BSD | (GPLv2 | BSD)
+
+PACKAGE NAME: osal-linux-user
+PACKAGE VERSION: git+media_r37.0_PreGA
+RECIPE NAME: osal-linux-user
+LICENSE: BSD | (LGPLv2.1 | BSD)
+
+PACKAGE NAME: osal-scripts
+PACKAGE VERSION: git+media_r37.0_PreGA
+RECIPE NAME: osal-scripts
+LICENSE: BSD
+
+PACKAGE NAME: packagegroup-base
+PACKAGE VERSION: 1.0
+RECIPE NAME: packagegroup-base
+LICENSE: MIT
+
+PACKAGE NAME: packagegroup-base-extended
+PACKAGE VERSION: 1.0
+RECIPE NAME: packagegroup-base
+LICENSE: MIT
+
+PACKAGE NAME: packagegroup-base-ipv6
+PACKAGE VERSION: 1.0
+RECIPE NAME: packagegroup-base
+LICENSE: MIT
+
+PACKAGE NAME: packagegroup-base-nfs
+PACKAGE VERSION: 1.0
+RECIPE NAME: packagegroup-base
+LICENSE: MIT
+
+PACKAGE NAME: packagegroup-core-boot
+PACKAGE VERSION: 1.0
+RECIPE NAME: packagegroup-core-boot
+LICENSE: MIT
+
+PACKAGE NAME: packagegroup-distro-base
+PACKAGE VERSION: 1.0
+RECIPE NAME: packagegroup-base
+LICENSE: MIT
+
+PACKAGE NAME: packagegroup-intelce-drivers
+PACKAGE VERSION: 1.0
+RECIPE NAME: packagegroup-intelce-drivers
+LICENSE: MIT
+
+PACKAGE NAME: packagegroup-machine-base
+PACKAGE VERSION: 1.0
+RECIPE NAME: packagegroup-base
+LICENSE: MIT
+
+PACKAGE NAME: pal
+PACKAGE VERSION: git+media_r37.0_PreGA
+RECIPE NAME: pal
+LICENSE: BSD | (LGPLv2.1 | BSD)
+
+PACKAGE NAME: pal-linux-kernel
+PACKAGE VERSION: git+media_r37.0_PreGA
+RECIPE NAME: pal-linux-kernel
+LICENSE: BSD | (GPLv2 | BSD)
+
+PACKAGE NAME: pam-plugin-deny
+PACKAGE VERSION: 1.2.1
+RECIPE NAME: libpam
+LICENSE: GPLv2+ | BSD
+
+PACKAGE NAME: pam-plugin-env
+PACKAGE VERSION: 1.2.1
+RECIPE NAME: libpam
+LICENSE: GPLv2+ | BSD
+
+PACKAGE NAME: pam-plugin-faildelay
+PACKAGE VERSION: 1.2.1
+RECIPE NAME: libpam
+LICENSE: GPLv2+ | BSD
+
+PACKAGE NAME: pam-plugin-group
+PACKAGE VERSION: 1.2.1
+RECIPE NAME: libpam
+LICENSE: GPLv2+ | BSD
+
+PACKAGE NAME: pam-plugin-lastlog
+PACKAGE VERSION: 1.2.1
+RECIPE NAME: libpam
+LICENSE: GPLv2+ | BSD
+
+PACKAGE NAME: pam-plugin-limits
+PACKAGE VERSION: 1.2.1
+RECIPE NAME: libpam
+LICENSE: GPLv2+ | BSD
+
+PACKAGE NAME: pam-plugin-mail
+PACKAGE VERSION: 1.2.1
+RECIPE NAME: libpam
+LICENSE: GPLv2+ | BSD
+
+PACKAGE NAME: pam-plugin-motd
+PACKAGE VERSION: 1.2.1
+RECIPE NAME: libpam
+LICENSE: GPLv2+ | BSD
+
+PACKAGE NAME: pam-plugin-nologin
+PACKAGE VERSION: 1.2.1
+RECIPE NAME: libpam
+LICENSE: GPLv2+ | BSD
+
+PACKAGE NAME: pam-plugin-permit
+PACKAGE VERSION: 1.2.1
+RECIPE NAME: libpam
+LICENSE: GPLv2+ | BSD
+
+PACKAGE NAME: pam-plugin-rootok
+PACKAGE VERSION: 1.2.1
+RECIPE NAME: libpam
+LICENSE: GPLv2+ | BSD
+
+PACKAGE NAME: pam-plugin-securetty
+PACKAGE VERSION: 1.2.1
+RECIPE NAME: libpam
+LICENSE: GPLv2+ | BSD
+
+PACKAGE NAME: pam-plugin-shells
+PACKAGE VERSION: 1.2.1
+RECIPE NAME: libpam
+LICENSE: GPLv2+ | BSD
+
+PACKAGE NAME: pam-plugin-unix
+PACKAGE VERSION: 1.2.1
+RECIPE NAME: libpam
+LICENSE: GPLv2+ | BSD
+
+PACKAGE NAME: pam-plugin-warn
+PACKAGE VERSION: 1.2.1
+RECIPE NAME: libpam
+LICENSE: GPLv2+ | BSD
+
+PACKAGE NAME: passphrase-proxy
+PACKAGE VERSION: 1.0
+RECIPE NAME: passphrase-proxy
+LICENSE: CLOSED
+
+PACKAGE NAME: pic24-uart-linux-kernel
+PACKAGE VERSION: git+media_r37.0_PreGA
+RECIPE NAME: pic24-uart-linux-kernel
+LICENSE: BSD | (GPLv2 | BSD)
+
+PACKAGE NAME: platform-config
+PACKAGE VERSION: git+media_r37.0_PreGA
+RECIPE NAME: platform-config
+LICENSE: BSD | (LGPLv2.1 | BSD)
+
+PACKAGE NAME: platform-config-linux-kernel
+PACKAGE VERSION: git+media_r37.0_PreGA
+RECIPE NAME: platform-config-linux-kernel
+LICENSE: BSD | (GPLv2 | BSD)
+
+PACKAGE NAME: platform-drivers
+PACKAGE VERSION: 1.0
+RECIPE NAME: platform-drivers
+LICENSE: CLOSED
+
+PACKAGE NAME: platform-utils
+PACKAGE VERSION: 1.0
+RECIPE NAME: platform-utils
+LICENSE: CLOSED
+
+PACKAGE NAME: pm-linux-kernel
+PACKAGE VERSION: git+media_r37.0_PreGA
+RECIPE NAME: pm-linux-kernel
+LICENSE: BSD | GPLv2
+
+PACKAGE NAME: polkit
+PACKAGE VERSION: 0.113
+RECIPE NAME: polkit
+LICENSE: LGPLv2+
+
+PACKAGE NAME: prmdecrypt-bin
+PACKAGE VERSION: 1.0.2
+RECIPE NAME: prmdecrypt-bin
+LICENSE: CLOSED
+
+PACKAGE NAME: procps
+PACKAGE VERSION: 3.3.11
+RECIPE NAME: procps
+LICENSE: GPLv2+ & LGPLv2+
+
+PACKAGE NAME: punit-fw-upgrade-linux-kernel
+PACKAGE VERSION: git+media_r37.0_PreGA
+RECIPE NAME: punit-fw-upgrade-linux-kernel
+LICENSE: GPLv2
+
+PACKAGE NAME: pwm
+PACKAGE VERSION: git+media_r37.0_PreGA
+RECIPE NAME: pwm
+LICENSE: BSD | (LGPLv2.1 | BSD)
+
+PACKAGE NAME: pwm-linux-kernel
+PACKAGE VERSION: git+media_r37.0_PreGA
+RECIPE NAME: pwm-linux-kernel
+LICENSE: GPLv2 | BSD
+
+PACKAGE NAME: rdk-logger
+PACKAGE VERSION: rdkv-20170123+gitrdkv-20170123
+RECIPE NAME: rdk-logger
+LICENSE: LGPLv2.1+
+
+PACKAGE NAME: rdnssd
+PACKAGE VERSION: 1.0
+RECIPE NAME: rdnssd
+LICENSE: CLOSED
+
+PACKAGE NAME: read-only-mounts
+PACKAGE VERSION: 1.0
+RECIPE NAME: read-only-mounts
+LICENSE: CLOSED
+
+PACKAGE NAME: rf4ce-srv-samsung
+PACKAGE VERSION: 1.0
+RECIPE NAME: rf4ce-srv-samsung
+LICENSE: CLOSED
+
+PACKAGE NAME: rfrcu-pal
+PACKAGE VERSION: 0.0
+RECIPE NAME: rfrcu-pal
+LICENSE: CLOSED
+
+PACKAGE NAME: rpcbind
+PACKAGE VERSION: 0.2.3
+RECIPE NAME: rpcbind
+LICENSE: BSD
+
+PACKAGE NAME: rtuner-samsung
+PACKAGE VERSION: 1.0
+RECIPE NAME: rtuner-samsung
+LICENSE: CLOSED
+
+PACKAGE NAME: rtunermgr-samsung
+PACKAGE VERSION: 1.0
+RECIPE NAME: rtunermgr-samsung
+LICENSE: CLOSED
+
+PACKAGE NAME: run-postinsts
+PACKAGE VERSION: 1.0
+RECIPE NAME: run-postinsts
+LICENSE: MIT
+
+PACKAGE NAME: samsung-oal
+PACKAGE VERSION: 1.0.2
+RECIPE NAME: samsung-oal
+LICENSE: CLOSED
+
+PACKAGE NAME: samsung-prebuilt
+PACKAGE VERSION: 1.0.10
+RECIPE NAME: samsung-prebuilt
+LICENSE: CLOSED
+
+PACKAGE NAME: sec-lib
+PACKAGE VERSION: git+media_r37.0_PreGA
+RECIPE NAME: sec-lib
+LICENSE: INTEL
+
+PACKAGE NAME: sec-linux-kernel
+PACKAGE VERSION: git+media_r37.0_PreGA
+RECIPE NAME: sec-linux-kernel
+LICENSE: BSD | GPLv2
+
+PACKAGE NAME: sec-scripts
+PACKAGE VERSION: git+media_r37.0_PreGA
+RECIPE NAME: sec-scripts
+LICENSE: BSD | GPLv2
+
+PACKAGE NAME: selene-remote-serialization
+PACKAGE VERSION: 1.0
+RECIPE NAME: selene-remote-serialization
+LICENSE: CLOSED
+
+PACKAGE NAME: setup-bridge
+PACKAGE VERSION: 1.0
+RECIPE NAME: setup-bridge
+LICENSE: CLOSED
+
+PACKAGE NAME: shadow
+PACKAGE VERSION: 4.2.1
+RECIPE NAME: shadow
+LICENSE: BSD | Artistic-1.0
+
+PACKAGE NAME: shadow-base
+PACKAGE VERSION: 4.2.1
+RECIPE NAME: shadow
+LICENSE: BSD | Artistic-1.0
+
+PACKAGE NAME: shadow-securetty
+PACKAGE VERSION: 4.2.1
+RECIPE NAME: shadow-securetty
+LICENSE: MIT
+
+PACKAGE NAME: shell-executor
+PACKAGE VERSION: 1.0
+RECIPE NAME: shell-executor
+LICENSE: CLOSED
+
+PACKAGE NAME: smd-clock-linux-kernel
+PACKAGE VERSION: git+media_r37.0_PreGA
+RECIPE NAME: smd-clock-linux-kernel
+LICENSE: BSD | GPLv2
+
+PACKAGE NAME: smd-core-lib
+PACKAGE VERSION: git+media_r37.0_PreGA
+RECIPE NAME: smd-core-lib
+LICENSE: BSD | GPLv2
+
+PACKAGE NAME: smd-core-linux-kernel
+PACKAGE VERSION: git+media_r37.0_PreGA
+RECIPE NAME: smd-core-linux-kernel
+LICENSE: BSD | GPLv2
+
+PACKAGE NAME: smd-demux-v3-lib
+PACKAGE VERSION: git+media_r37.0_PreGA
+RECIPE NAME: smd-demux-v3-lib
+LICENSE: BSD | GPLv2
+
+PACKAGE NAME: smd-libs
+PACKAGE VERSION: git+media_r37.0_PreGA
+RECIPE NAME: smd-libs
+LICENSE: BSD | GPLv2
+
+PACKAGE NAME: sven
+PACKAGE VERSION: git+media_r37.0_PreGA
+RECIPE NAME: sven
+LICENSE: BSD | GPLv2
+
+PACKAGE NAME: sven-linux-kernel
+PACKAGE VERSION: git+media_r37.0_PreGA
+RECIPE NAME: sven-linux-kernel
+LICENSE: BSD | GPLv2
+
+PACKAGE NAME: swupdate-logger
+PACKAGE VERSION: 1.0
+RECIPE NAME: swupdate-logger
+LICENSE: CLOSED
+
+PACKAGE NAME: sysfsutils
+PACKAGE VERSION: 2.1.0
+RECIPE NAME: sysfsutils
+LICENSE: GPLv2
+
+PACKAGE NAME: sysint
+PACKAGE VERSION: rdkv-20170123+gitrdkv-20170123
+RECIPE NAME: sysint
+LICENSE: RDK & SeaChange
+
+PACKAGE NAME: system-time-service
+PACKAGE VERSION: 1.0
+RECIPE NAME: system-time-service
+LICENSE: CLOSED
+
+PACKAGE NAME: system-utils
+PACKAGE VERSION: git+media_r37.0_PreGA
+RECIPE NAME: system-utils
+LICENSE: BSD | GPLv2
+
+PACKAGE NAME: system-utils-linux-kernel
+PACKAGE VERSION: git+media_r37.0_PreGA
+RECIPE NAME: system-utils-linux-kernel
+LICENSE: BSD | GPLv2
+
+PACKAGE NAME: systemd
+PACKAGE VERSION: 229+gitAUTOINC+714c62b463
+RECIPE NAME: systemd
+LICENSE: GPLv2 & LGPLv2.1
+
+PACKAGE NAME: systemd-compat-units
+PACKAGE VERSION: 1.0
+RECIPE NAME: systemd-compat-units
+LICENSE: MIT
+
+PACKAGE NAME: systemd-extra-utils
+PACKAGE VERSION: 229+gitAUTOINC+714c62b463
+RECIPE NAME: systemd
+LICENSE: GPLv2 & LGPLv2.1
+
+PACKAGE NAME: thermal-linux-kernel
+PACKAGE VERSION: git+media_r37.0_PreGA
+RECIPE NAME: thermal-linux-kernel
+LICENSE: BSD | GPLv2
+
+PACKAGE NAME: tunerctrl-samsung
+PACKAGE VERSION: 1.0
+RECIPE NAME: tunerctrl-samsung
+LICENSE: CLOSED
+
+PACKAGE NAME: tz-update
+PACKAGE VERSION: 1.0
+RECIPE NAME: tz-update
+LICENSE: CLOSED
+
+PACKAGE NAME: tzdata
+PACKAGE VERSION: 2019a
+RECIPE NAME: tzdata
+LICENSE: PD & BSD & BSD-3-Clause
+
+PACKAGE NAME: udev
+PACKAGE VERSION: 229+gitAUTOINC+714c62b463
+RECIPE NAME: systemd
+LICENSE: GPLv2 & LGPLv2.1
+
+PACKAGE NAME: udhcpc
+PACKAGE VERSION: 1.0
+RECIPE NAME: udhcpc
+LICENSE: CLOSED
+
+PACKAGE NAME: uniq-dump
+PACKAGE VERSION: 0.1.0
+RECIPE NAME: uniq-dump
+LICENSE: CLOSED
+
+PACKAGE NAME: uniqdata-samsung
+PACKAGE VERSION: 1.0
+RECIPE NAME: uniqdata-samsung
+LICENSE: CLOSED
+
+PACKAGE NAME: uniqdata-tool-samsung
+PACKAGE VERSION: 1.0
+RECIPE NAME: uniqdata-tool-samsung
+LICENSE: CLOSED
+
+PACKAGE NAME: update-alternatives-opkg
+PACKAGE VERSION: 0.1.8+gitAUTOINC+53274f0875
+RECIPE NAME: opkg-utils
+LICENSE: GPLv2+
+
+PACKAGE NAME: update-rc.d
+PACKAGE VERSION: 0.7
+RECIPE NAME: update-rc.d
+LICENSE: GPLv2+
+
+PACKAGE NAME: util-linux-fdisk
+PACKAGE VERSION: 2.27.1
+RECIPE NAME: util-linux
+LICENSE: GPLv2+ & LGPLv2.1+ & BSD
+
+PACKAGE NAME: util-linux-fsck
+PACKAGE VERSION: 2.27.1
+RECIPE NAME: util-linux
+LICENSE: GPLv2+ & LGPLv2.1+ & BSD
+
+PACKAGE NAME: util-linux-libblkid
+PACKAGE VERSION: 2.27.1
+RECIPE NAME: util-linux
+LICENSE: GPLv2+ & LGPLv2.1+ & BSD
+
+PACKAGE NAME: util-linux-libfdisk
+PACKAGE VERSION: 2.27.1
+RECIPE NAME: util-linux
+LICENSE: GPLv2+ & LGPLv2.1+ & BSD
+
+PACKAGE NAME: util-linux-libmount
+PACKAGE VERSION: 2.27.1
+RECIPE NAME: util-linux
+LICENSE: GPLv2+ & LGPLv2.1+ & BSD
+
+PACKAGE NAME: util-linux-libsmartcols
+PACKAGE VERSION: 2.27.1
+RECIPE NAME: util-linux
+LICENSE: GPLv2+ & LGPLv2.1+ & BSD
+
+PACKAGE NAME: util-linux-libuuid
+PACKAGE VERSION: 2.27.1
+RECIPE NAME: util-linux
+LICENSE: GPLv2+ & LGPLv2.1+ & BSD
+
+PACKAGE NAME: util-linux-mount
+PACKAGE VERSION: 2.27.1
+RECIPE NAME: util-linux
+LICENSE: GPLv2+ & LGPLv2.1+ & BSD
+
+PACKAGE NAME: version-marker
+PACKAGE VERSION: 1.0
+RECIPE NAME: version-marker
+LICENSE: CLOSED
+
+PACKAGE NAME: viddec-fw
+PACKAGE VERSION: git+media_r37.0_PreGA
+RECIPE NAME: viddec-fw
+LICENSE: INTEL
+
+PACKAGE NAME: viddec-v3-linux-kernel
+PACKAGE VERSION: git+media_r37.0_PreGA
+RECIPE NAME: viddec-v3-linux-kernel
+LICENSE: BSD | GPLv2
+
+PACKAGE NAME: videnc-linux-kernel
+PACKAGE VERSION: git+media_r37.0_PreGA
+RECIPE NAME: videnc-linux-kernel
+LICENSE: BSD | GPLv2
+
+PACKAGE NAME: video-ces-fw
+PACKAGE VERSION: git+media_r37.0_PreGA
+RECIPE NAME: video-ces-fw
+LICENSE: INTEL
+
+PACKAGE NAME: video-ces-router-linux-kernel
+PACKAGE VERSION: git+media_r37.0_PreGA
+RECIPE NAME: video-ces-router-linux-kernel
+LICENSE: BSD | GPLv2
+
+PACKAGE NAME: video-ces-services-decode-mux-gen5-linux-kernel
+PACKAGE VERSION: git+media_r37.0_PreGA
+RECIPE NAME: video-ces-services-decode-mux-gen5-linux-kernel
+LICENSE: BSD | GPLv2
+
+PACKAGE NAME: video-ces-services-decode-mux-linux-kernel
+PACKAGE VERSION: git+media_r37.0_PreGA
+RECIPE NAME: video-ces-services-decode-mux-linux-kernel
+LICENSE: BSD | GPLv2
+
+PACKAGE NAME: video-ces-services-parse-encode-gen5-linux-kernel
+PACKAGE VERSION: git+media_r37.0_PreGA
+RECIPE NAME: video-ces-services-parse-encode-gen5-linux-kernel
+LICENSE: BSD | GPLv2
+
+PACKAGE NAME: video-ces-services-parse-encode-linux-kernel
+PACKAGE VERSION: git+media_r37.0_PreGA
+RECIPE NAME: video-ces-services-parse-encode-linux-kernel
+LICENSE: BSD | GPLv2
+
+PACKAGE NAME: vidpproc-fw
+PACKAGE VERSION: git+media_r37.0_PreGA
+RECIPE NAME: vidpproc-fw
+LICENSE: INTEL
+
+PACKAGE NAME: vidpproc-linux-kernel
+PACKAGE VERSION: git+media_r37.0_PreGA
+RECIPE NAME: vidpproc-linux-kernel
+LICENSE: BSD | GPLv2
+
+PACKAGE NAME: vidrend-linux-kernel
+PACKAGE VERSION: git+media_r37.0_PreGA
+RECIPE NAME: vidrend-linux-kernel
+LICENSE: BSD | GPLv2
+
+PACKAGE NAME: vidsink-linux-user
+PACKAGE VERSION: git+media_r37.0_PreGA
+RECIPE NAME: vidsink-linux-user
+LICENSE: BSD | GPLv2
+
+PACKAGE NAME: volatile-binds
+PACKAGE VERSION: 1.0
+RECIPE NAME: volatile-binds
+LICENSE: MIT
+
+PACKAGE NAME: vvs-devupdate
+PACKAGE VERSION: 1.0
+RECIPE NAME: vvs-devupdate
+LICENSE: CLOSED
+
+PACKAGE NAME: xfsprogs-fsck
+PACKAGE VERSION: 3.2.3
+RECIPE NAME: xfsprogs
+LICENSE: GPLv2 & LGPLv2.1
+
+PACKAGE NAME: xfsprogs-mkfs
+PACKAGE VERSION: 3.2.3
+RECIPE NAME: xfsprogs
+LICENSE: GPLv2 & LGPLv2.1
+
+PACKAGE NAME: xfsprogs-xfsrepair
+PACKAGE VERSION: 3.2.3
+RECIPE NAME: xfsprogs
+LICENSE: GPLv2 & LGPLv2.1
+
+PACKAGE NAME: yajl
+PACKAGE VERSION: 1.0.9
+RECIPE NAME: yajl
+LICENSE: MIT
+
+PACKAGE NAME: yajl-tools
+PACKAGE VERSION: 1.0.9
+RECIPE NAME: yajl
+LICENSE: MIT
+
+PACKAGE NAME: zlib
+PACKAGE VERSION: 1.2.11.1
+RECIPE NAME: zlib
+LICENSE: Zlib
+
