@@ -1,0 +1,265 @@
+PACKAGE NAME: auto-eas
+PACKAGE VERSION: git+media-r37.0-GA-Rel
+RECIPE NAME: auto-eas
+LICENSE: BSD | GPLv2
+
+PACKAGE NAME: base-files
+PACKAGE VERSION: 3.0.14
+RECIPE NAME: base-files
+LICENSE: GPLv2
+
+PACKAGE NAME: bash
+PACKAGE VERSION: 3.2.48
+RECIPE NAME: bash
+LICENSE: GPLv2+
+
+PACKAGE NAME: busybox
+PACKAGE VERSION: 1.24.1
+RECIPE NAME: busybox
+LICENSE: GPLv2 & bzip2
+
+PACKAGE NAME: busybox-udhcpc
+PACKAGE VERSION: 1.24.1
+RECIPE NAME: busybox
+LICENSE: GPLv2 & bzip2
+
+PACKAGE NAME: cryptsetup
+PACKAGE VERSION: 1.7.2
+RECIPE NAME: cryptsetup
+LICENSE: GPL-2.0-with-OpenSSL-exception
+
+PACKAGE NAME: devdrivers-samsung
+PACKAGE VERSION: 1.0
+RECIPE NAME: devdrivers-samsung
+LICENSE: CLOSED
+
+PACKAGE NAME: devdrivers-tools-samsung
+PACKAGE VERSION: 1.0
+RECIPE NAME: devdrivers-tools-samsung
+LICENSE: CLOSED
+
+PACKAGE NAME: flashtool-samsung
+PACKAGE VERSION: 1.0
+RECIPE NAME: flashtool-samsung
+LICENSE: CLOSED
+
+PACKAGE NAME: glibc
+PACKAGE VERSION: 2.23
+RECIPE NAME: glibc
+LICENSE: GPLv2 & LGPLv2.1
+
+PACKAGE NAME: gpio
+PACKAGE VERSION: git+media-r37.0-GA-Rel
+RECIPE NAME: gpio
+LICENSE: BSD
+
+PACKAGE NAME: htuple
+PACKAGE VERSION: git+media-r37.0-GA-Rel
+RECIPE NAME: htuple
+LICENSE: BSD | GPLv2
+
+PACKAGE NAME: hwrevision-samsung
+PACKAGE VERSION: 1.0
+RECIPE NAME: hwrevision-samsung
+LICENSE: CLOSED
+
+PACKAGE NAME: hwrevision-tool-samsung
+PACKAGE VERSION: 1.0
+RECIPE NAME: hwrevision-tool-samsung
+LICENSE: CLOSED
+
+PACKAGE NAME: idl
+PACKAGE VERSION: git+media-r37.0-GA-Rel
+RECIPE NAME: idl
+LICENSE: BSD | LGPLv2.1
+
+PACKAGE NAME: idl-linux-kernel
+PACKAGE VERSION: git+media-r37.0-GA-Rel
+RECIPE NAME: idl-linux-kernel
+LICENSE: BSD | GPLv2
+
+PACKAGE NAME: idts-common
+PACKAGE VERSION: git+media-r37.0-GA-Rel
+RECIPE NAME: idts-common
+LICENSE: INTEL
+
+PACKAGE NAME: idts-core
+PACKAGE VERSION: git+media-r37.0-GA-Rel
+RECIPE NAME: idts-core
+LICENSE: INTEL
+
+PACKAGE NAME: idtsal-linux-user
+PACKAGE VERSION: git+media-r37.0-GA-Rel
+RECIPE NAME: idtsal-linux-user
+LICENSE: BSD | LGPLv2.1
+
+PACKAGE NAME: initramfs-reboot
+PACKAGE VERSION: 1.0
+RECIPE NAME: initramfs-reboot
+LICENSE: CLOSED
+
+PACKAGE NAME: iosf
+PACKAGE VERSION: git+media-r37.0-GA-Rel
+RECIPE NAME: iosf
+LICENSE: BSD | LGPLv2.1
+
+PACKAGE NAME: kernel-base
+PACKAGE VERSION: 3.12.17
+RECIPE NAME: linux-yocto-custom
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-idl-gpio-shim
+PACKAGE VERSION: git+media-r37.0-GA-Rel
+RECIPE NAME: idl-linux-kernel
+LICENSE: BSD | GPLv2
+
+PACKAGE NAME: kernel-module-idl-i2c
+PACKAGE VERSION: git+media-r37.0-GA-Rel
+RECIPE NAME: idl-linux-kernel
+LICENSE: BSD | GPLv2
+
+PACKAGE NAME: kernel-module-idl-smartcard
+PACKAGE VERSION: git+media-r37.0-GA-Rel
+RECIPE NAME: idl-linux-kernel
+LICENSE: BSD | GPLv2
+
+PACKAGE NAME: kernel-module-idl-spi
+PACKAGE VERSION: git+media-r37.0-GA-Rel
+RECIPE NAME: idl-linux-kernel
+LICENSE: BSD | GPLv2
+
+PACKAGE NAME: kernel-module-intelce-gpio
+PACKAGE VERSION: 3.12.17
+RECIPE NAME: linux-yocto-custom
+LICENSE: GPLv2
+
+PACKAGE NAME: kmod
+PACKAGE VERSION: 22+gitAUTOINC+42f32b8ae4
+RECIPE NAME: kmod
+LICENSE: GPL-2.0+ & LGPL-2.1+
+
+PACKAGE NAME: libattr
+PACKAGE VERSION: 2.4.47
+RECIPE NAME: attr
+LICENSE: LGPLv2.1+
+
+PACKAGE NAME: libcap
+PACKAGE VERSION: 2.24
+RECIPE NAME: libcap
+LICENSE: BSD | GPLv2
+
+PACKAGE NAME: libcrypto
+PACKAGE VERSION: 1.0.2l
+RECIPE NAME: openssl
+LICENSE: openssl
+
+PACKAGE NAME: libgcc
+PACKAGE VERSION: 5.3.0
+RECIPE NAME: libgcc
+LICENSE: GPL-3.0-with-GCC-exception
+
+PACKAGE NAME: libssl
+PACKAGE VERSION: 1.0.2l
+RECIPE NAME: openssl
+LICENSE: openssl
+
+PACKAGE NAME: libstdc++
+PACKAGE VERSION: 5.3.0
+RECIPE NAME: gcc-runtime
+LICENSE: GPL-3.0-with-GCC-exception
+
+PACKAGE NAME: libudev
+PACKAGE VERSION: 229+gitAUTOINC+714c62b463
+RECIPE NAME: systemd
+LICENSE: GPLv2 & LGPLv2.1
+
+PACKAGE NAME: loaddrivers
+PACKAGE VERSION: git
+RECIPE NAME: loaddrivers
+LICENSE: CLOSED
+
+PACKAGE NAME: lvm2
+PACKAGE VERSION: 2.02.138
+RECIPE NAME: lvm2
+LICENSE: GPLv2 & LGPLv2
+
+PACKAGE NAME: ncurses-libtinfo
+PACKAGE VERSION: 6.0+20160213
+RECIPE NAME: ncurses
+LICENSE: MIT
+
+PACKAGE NAME: ncurses-terminfo-base
+PACKAGE VERSION: 6.0+20160213
+RECIPE NAME: ncurses
+LICENSE: MIT
+
+PACKAGE NAME: oneconfig-tool-samsung
+PACKAGE VERSION: 1.0
+RECIPE NAME: oneconfig-tool-samsung
+LICENSE: CLOSED
+
+PACKAGE NAME: onenand-tools-samsung
+PACKAGE VERSION: 1.0
+RECIPE NAME: onenand-tools-samsung
+LICENSE: CLOSED
+
+PACKAGE NAME: openssl-conf
+PACKAGE VERSION: 1.0.2l
+RECIPE NAME: openssl
+LICENSE: openssl
+
+PACKAGE NAME: osal-linux-user
+PACKAGE VERSION: git+media-r37.0-GA-Rel
+RECIPE NAME: osal-linux-user
+LICENSE: BSD | (LGPLv2.1 | BSD)
+
+PACKAGE NAME: pal
+PACKAGE VERSION: git+media-r37.0-GA-Rel
+RECIPE NAME: pal
+LICENSE: BSD | (LGPLv2.1 | BSD)
+
+PACKAGE NAME: platform-config
+PACKAGE VERSION: git+media-r37.0-GA-Rel
+RECIPE NAME: platform-config
+LICENSE: BSD | (LGPLv2.1 | BSD)
+
+PACKAGE NAME: popt
+PACKAGE VERSION: 1.16
+RECIPE NAME: popt
+LICENSE: MIT
+
+PACKAGE NAME: pwm
+PACKAGE VERSION: git+media-r37.0-GA-Rel
+RECIPE NAME: pwm
+LICENSE: BSD | (LGPLv2.1 | BSD)
+
+PACKAGE NAME: sven
+PACKAGE VERSION: git+media-r37.0-GA-Rel
+RECIPE NAME: sven
+LICENSE: BSD | GPLv2
+
+PACKAGE NAME: uniqdata-samsung
+PACKAGE VERSION: 1.0
+RECIPE NAME: uniqdata-samsung
+LICENSE: CLOSED
+
+PACKAGE NAME: update-alternatives-opkg
+PACKAGE VERSION: 0.1.8+gitAUTOINC+53274f0875
+RECIPE NAME: opkg-utils
+LICENSE: GPLv2+
+
+PACKAGE NAME: util-linux-libblkid
+PACKAGE VERSION: 2.27.1
+RECIPE NAME: util-linux
+LICENSE: GPLv2+ & LGPLv2.1+ & BSD
+
+PACKAGE NAME: util-linux-libuuid
+PACKAGE VERSION: 2.27.1
+RECIPE NAME: util-linux
+LICENSE: GPLv2+ & LGPLv2.1+ & BSD
+
+PACKAGE NAME: zlib
+PACKAGE VERSION: 1.2.11.1
+RECIPE NAME: zlib
+LICENSE: Zlib
+

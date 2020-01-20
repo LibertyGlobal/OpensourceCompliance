@@ -1,0 +1,10 @@
+RECIPE NAME: linux-yocto-custom
+VERSION: 3.12.17
+LICENSE: GPLv2
+FILES: bzImage--3.12.17-r1.0-smtg7401-release-20200118002751.bin README_-_DO_NOT_DELETE_FILES_IN_THIS_DIRECTORY.txt bzImage-bzImage--3.12.17-r1.0-smtg7401-release-20200118002751.bin.swdl gen_initramfs_list.sh gen_init_cpio
+
+RECIPE NAME: pm8051-sdk
+VERSION: git+media-r37.0-GA-Rel
+LICENSE: INTEL
+FILES: pm8051_gen5_nec_ct_stb.bin pm8051_gen5_nec.bin pm8051_gen4_5_nec.bin pm8051_gen5_ReleaseNotes.rtf pm8051_gen4_5_ReleaseNotes.rtf
+
