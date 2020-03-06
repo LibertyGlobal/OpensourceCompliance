@@ -1,0 +1,5 @@
+RECIPE NAME: stblinux
+VERSION: 4.9-1.10-generic-rdk
+LICENSE: GPLv2
+FILES: zImage--4.9-1.10-generic-rdk-r0-apollo-release-20200305230400.bin README_-_DO_NOT_DELETE_FILES_IN_THIS_DIRECTORY.txt zImage-initramfs-4.9-1.10-generic-rdk-r0-apollo-release-20200305230400.bin modules--4.9-1.10-generic-rdk-r0-apollo-release-20200305230400.tgz
+
