@@ -1,5 +1,0 @@
-RECIPE NAME: stblinux
-VERSION: 4.1-1.21-generic-rdk
-LICENSE: GPLv2
-FILES: zImage--4.1-1.21-generic-rdk-r0-dcx960-release-20201102234730.bin README_-_DO_NOT_DELETE_FILES_IN_THIS_DIRECTORY.txt modules--4.1-1.21-generic-rdk-r0-dcx960-release-20201102234730.tgz gen_initramfs_list.sh gen_init_cpio
-
