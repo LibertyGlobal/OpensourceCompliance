@@ -1,0 +1,10 @@
+RECIPE NAME: lib32-version-marker
+VERSION: 1.0
+LICENSE: CLOSED
+FILES: build-id.txt build.id
+
+RECIPE NAME: stblinux
+VERSION: 5.4-1.10-64-generic-rdk
+LICENSE: GPLv2
+FILES: Image--5.4-1.10-64-generic-rdk-r0-vip7002w-release-20230406083531.bin modules--5.4-1.10-64-generic-rdk-r0-vip7002w-release-20230406083531.tgz
+

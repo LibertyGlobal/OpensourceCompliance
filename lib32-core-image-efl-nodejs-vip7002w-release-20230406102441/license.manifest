@@ -1,0 +1,3875 @@
+PACKAGE NAME: asix-standalone-driver
+PACKAGE VERSION: 1.0
+RECIPE NAME: asix-standalone-driver
+LICENSE: GPLv2
+
+PACKAGE NAME: broadcom-refsw-driver
+PACKAGE VERSION: unified-23.0-generic-rdk
+RECIPE NAME: broadcom-refsw-driver
+LICENSE: CLOSED
+
+PACKAGE NAME: kernel-base
+PACKAGE VERSION: 5.4-1.10-64-generic-rdk
+RECIPE NAME: stblinux
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-hardening-settings
+PACKAGE VERSION: 0.0
+RECIPE NAME: kernel-hardening-settings
+LICENSE: CLOSED
+
+PACKAGE NAME: kernel-module-act-mirred-5.4.221-1.10
+PACKAGE VERSION: 5.4-1.10-64-generic-rdk
+RECIPE NAME: stblinux
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-aes-arm64-5.4.221-1.10
+PACKAGE VERSION: 5.4-1.10-64-generic-rdk
+RECIPE NAME: stblinux
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-aes-ce-blk-5.4.221-1.10
+PACKAGE VERSION: 5.4-1.10-64-generic-rdk
+RECIPE NAME: stblinux
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-aes-ce-ccm-5.4.221-1.10
+PACKAGE VERSION: 5.4-1.10-64-generic-rdk
+RECIPE NAME: stblinux
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-aes-ce-cipher-5.4.221-1.10
+PACKAGE VERSION: 5.4-1.10-64-generic-rdk
+RECIPE NAME: stblinux
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-aes-neon-blk-5.4.221-1.10
+PACKAGE VERSION: 5.4-1.10-64-generic-rdk
+RECIPE NAME: stblinux
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-asix-5.4.221-1.10
+PACKAGE VERSION: 1.0
+RECIPE NAME: asix-standalone-driver
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-cls-u32-5.4.221-1.10
+PACKAGE VERSION: 5.4-1.10-64-generic-rdk
+RECIPE NAME: stblinux
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-cryptd-5.4.221-1.10
+PACKAGE VERSION: 5.4-1.10-64-generic-rdk
+RECIPE NAME: stblinux
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-crypto-simd-5.4.221-1.10
+PACKAGE VERSION: 5.4-1.10-64-generic-rdk
+RECIPE NAME: stblinux
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-gf128mul-5.4.221-1.10
+PACKAGE VERSION: 5.4-1.10-64-generic-rdk
+RECIPE NAME: stblinux
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-ghash-ce-5.4.221-1.10
+PACKAGE VERSION: 5.4-1.10-64-generic-rdk
+RECIPE NAME: stblinux
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-kernel-oops-proc-5.4.221-1.10
+PACKAGE VERSION: 1.0
+RECIPE NAME: kernel-oops-proc
+LICENSE: CLOSED
+
+PACKAGE NAME: kernel-module-lgigetpassk-5.4.221-1.10
+PACKAGE VERSION: 1.0
+RECIPE NAME: lgigetpassk
+LICENSE: CLOSED
+
+PACKAGE NAME: kernel-module-sch-ingress-5.4.221-1.10
+PACKAGE VERSION: 5.4-1.10-64-generic-rdk
+RECIPE NAME: stblinux
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-sha1-ce-5.4.221-1.10
+PACKAGE VERSION: 5.4-1.10-64-generic-rdk
+RECIPE NAME: stblinux
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-sha2-ce-5.4.221-1.10
+PACKAGE VERSION: 5.4-1.10-64-generic-rdk
+RECIPE NAME: stblinux
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-sha256-arm64-5.4.221-1.10
+PACKAGE VERSION: 5.4-1.10-64-generic-rdk
+RECIPE NAME: stblinux
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-wobt-5.4.221-1.10
+PACKAGE VERSION: 1.0
+RECIPE NAME: wobt
+LICENSE: CLOSED
+
+PACKAGE NAME: kernel-modules
+PACKAGE VERSION: 5.4-1.10-64-generic-rdk
+RECIPE NAME: stblinux
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-oops-proc
+PACKAGE VERSION: 1.0
+RECIPE NAME: kernel-oops-proc
+LICENSE: CLOSED
+
+PACKAGE NAME: lgigetpassk
+PACKAGE VERSION: 1.0
+RECIPE NAME: lgigetpassk
+LICENSE: CLOSED
+
+PACKAGE NAME: lib32-aamp
+PACKAGE VERSION: rdkv-2022q3-dunfell
+RECIPE NAME: lib32-aamp
+LICENSE: RDK
+
+PACKAGE NAME: lib32-aampabr
+PACKAGE VERSION: rdkv-2022q3-dunfell
+RECIPE NAME: lib32-aampabr
+LICENSE: Apache-2.0
+
+PACKAGE NAME: lib32-aampmetrics
+PACKAGE VERSION: rdkv-2022q3-dunfell+gitAUTOINC+18a2771681
+RECIPE NAME: lib32-aampmetrics
+LICENSE: Apache-2.0
+
+PACKAGE NAME: lib32-airp
+PACKAGE VERSION: 0.0
+RECIPE NAME: lib32-airp
+LICENSE: CLOSED
+
+PACKAGE NAME: lib32-ami
+PACKAGE VERSION: 1.0
+RECIPE NAME: lib32-ami
+LICENSE: CLOSED
+
+PACKAGE NAME: lib32-asconnector
+PACKAGE VERSION: 1.0
+RECIPE NAME: lib32-asconnector
+LICENSE: CLOSED
+
+PACKAGE NAME: lib32-asio
+PACKAGE VERSION: 1.12.2
+RECIPE NAME: lib32-asio
+LICENSE: BSL-1.0
+
+PACKAGE NAME: lib32-axact
+PACKAGE VERSION: 3.2.7
+RECIPE NAME: lib32-axact
+LICENSE: CLOSED
+
+PACKAGE NAME: lib32-base-files
+PACKAGE VERSION: 3.0.14
+RECIPE NAME: lib32-base-files
+LICENSE: GPLv2
+
+PACKAGE NAME: lib32-base-passwd
+PACKAGE VERSION: 3.5.29
+RECIPE NAME: lib32-base-passwd
+LICENSE: GPLv2
+
+PACKAGE NAME: lib32-base64argsdemangle
+PACKAGE VERSION: 1.0
+RECIPE NAME: lib32-base64argsdemangle
+LICENSE: CLOSED
+
+PACKAGE NAME: lib32-bash
+PACKAGE VERSION: 3.2.57
+RECIPE NAME: lib32-bash
+LICENSE: GPLv2+
+
+PACKAGE NAME: lib32-bluez-tools
+PACKAGE VERSION: 5.52
+RECIPE NAME: lib32-bluez-tools
+LICENSE: GPLv2+ & LGPLv2.1+
+
+PACKAGE NAME: lib32-boost
+PACKAGE VERSION: 1.72.0
+RECIPE NAME: lib32-boost
+LICENSE: BSL-1.0 & MIT & Python-2.0
+
+PACKAGE NAME: lib32-boost-chrono
+PACKAGE VERSION: 1.72.0
+RECIPE NAME: lib32-boost
+LICENSE: BSL-1.0 & MIT & Python-2.0
+
+PACKAGE NAME: lib32-boost-contract
+PACKAGE VERSION: 1.72.0
+RECIPE NAME: lib32-boost
+LICENSE: BSL-1.0 & MIT & Python-2.0
+
+PACKAGE NAME: lib32-boost-filesystem
+PACKAGE VERSION: 1.72.0
+RECIPE NAME: lib32-boost
+LICENSE: BSL-1.0 & MIT & Python-2.0
+
+PACKAGE NAME: lib32-boost-program-options
+PACKAGE VERSION: 1.72.0
+RECIPE NAME: lib32-boost
+LICENSE: BSL-1.0 & MIT & Python-2.0
+
+PACKAGE NAME: lib32-boost-random
+PACKAGE VERSION: 1.72.0
+RECIPE NAME: lib32-boost
+LICENSE: BSL-1.0 & MIT & Python-2.0
+
+PACKAGE NAME: lib32-boost-regex
+PACKAGE VERSION: 1.72.0
+RECIPE NAME: lib32-boost
+LICENSE: BSL-1.0 & MIT & Python-2.0
+
+PACKAGE NAME: lib32-boost-system
+PACKAGE VERSION: 1.72.0
+RECIPE NAME: lib32-boost
+LICENSE: BSL-1.0 & MIT & Python-2.0
+
+PACKAGE NAME: lib32-boost-thread
+PACKAGE VERSION: 1.72.0
+RECIPE NAME: lib32-boost
+LICENSE: BSL-1.0 & MIT & Python-2.0
+
+PACKAGE NAME: lib32-broadcom-btflrdriver
+PACKAGE VERSION: 9.0.0.00.01
+RECIPE NAME: lib32-broadcom-btflrdriver
+LICENSE: CLOSED
+
+PACKAGE NAME: lib32-broadcom-refsw
+PACKAGE VERSION: unified-23.0-generic-rdk
+RECIPE NAME: lib32-broadcom-refsw
+LICENSE: CLOSED
+
+PACKAGE NAME: lib32-btrcu-pal
+PACKAGE VERSION: 0.0
+RECIPE NAME: lib32-btrcu-pal
+LICENSE: CLOSED
+
+PACKAGE NAME: lib32-bupload
+PACKAGE VERSION: 1.0
+RECIPE NAME: lib32-bupload
+LICENSE: CLOSED
+
+PACKAGE NAME: lib32-busybox
+PACKAGE VERSION: 1.31.1
+RECIPE NAME: lib32-busybox
+LICENSE: GPLv2 & bzip2-1.0.4
+
+PACKAGE NAME: lib32-busybox-devel
+PACKAGE VERSION: 1.31.1
+RECIPE NAME: lib32-busybox-devel
+LICENSE: GPLv2 & bzip2-1.0.4
+
+PACKAGE NAME: lib32-busybox-udhcpc
+PACKAGE VERSION: 1.31.1
+RECIPE NAME: lib32-busybox
+LICENSE: GPLv2 & bzip2-1.0.4
+
+PACKAGE NAME: lib32-c-ares
+PACKAGE VERSION: 1.12.0
+RECIPE NAME: lib32-c-ares
+LICENSE: MIT
+
+PACKAGE NAME: lib32-ca-certificates
+PACKAGE VERSION: 20211016
+RECIPE NAME: lib32-ca-certificates
+LICENSE: GPL-2.0+ & MPL-2.0
+
+PACKAGE NAME: lib32-cairo
+PACKAGE VERSION: 1.16.0
+RECIPE NAME: lib32-cairo
+LICENSE: MPL-1.1 | LGPLv2.1
+
+PACKAGE NAME: lib32-cgroup-settings
+PACKAGE VERSION: 1.0
+RECIPE NAME: lib32-cgroup-settings
+LICENSE: Apache-2.0
+
+PACKAGE NAME: lib32-civetweb
+PACKAGE VERSION: 1.10+gitAUTOINC+19f31ba8dd
+RECIPE NAME: lib32-civetweb
+LICENSE: MIT
+
+PACKAGE NAME: lib32-cjose
+PACKAGE VERSION: 0.6.1
+RECIPE NAME: lib32-cjose
+LICENSE: MIT
+
+PACKAGE NAME: lib32-cjson
+PACKAGE VERSION: 1.7.13
+RECIPE NAME: lib32-cjson
+LICENSE: MIT
+
+PACKAGE NAME: lib32-cobalt-evergreen-pbt
+PACKAGE VERSION: 3.3.9
+RECIPE NAME: lib32-cobalt-evergreen-pbt
+LICENSE: BSD-3-Clause
+
+PACKAGE NAME: lib32-cobalt-launcher
+PACKAGE VERSION: 30.01.23
+RECIPE NAME: lib32-cobalt-launcher
+LICENSE: Apache-2.0
+
+PACKAGE NAME: lib32-cobalt-rdk-appmodule
+PACKAGE VERSION: 1.0.0
+RECIPE NAME: lib32-cobalt-rdk-appmodule
+LICENSE: CLOSED
+
+PACKAGE NAME: lib32-collectd
+PACKAGE VERSION: 5.11.0
+RECIPE NAME: lib32-collectd
+LICENSE: GPLv2 & MIT
+
+PACKAGE NAME: lib32-crash-reporting
+PACKAGE VERSION: 1.0
+RECIPE NAME: lib32-crash-reporting
+LICENSE: CLOSED
+
+PACKAGE NAME: lib32-cryptsetup
+PACKAGE VERSION: 2.3.2
+RECIPE NAME: lib32-cryptsetup
+LICENSE: GPL-2.0-with-OpenSSL-exception
+
+PACKAGE NAME: lib32-curl
+PACKAGE VERSION: 7.83.0
+RECIPE NAME: lib32-curl
+LICENSE: MIT-open-group
+
+PACKAGE NAME: lib32-dbus
+PACKAGE VERSION: 1.12.20
+RECIPE NAME: lib32-dbus
+LICENSE: AFL-2.1 | GPLv2+
+
+PACKAGE NAME: lib32-dbus-client
+PACKAGE VERSION: 1.0
+RECIPE NAME: lib32-dbus-client
+LICENSE: CLOSED
+
+PACKAGE NAME: lib32-dbus-configuration
+PACKAGE VERSION: 1.0
+RECIPE NAME: lib32-dbus-configuration
+LICENSE: CLOSED
+
+PACKAGE NAME: lib32-dbus-glib
+PACKAGE VERSION: 0.110
+RECIPE NAME: lib32-dbus-glib
+LICENSE: AFL-2.1 | GPLv2+
+
+PACKAGE NAME: lib32-dbus-lib
+PACKAGE VERSION: 1.12.20
+RECIPE NAME: lib32-dbus
+LICENSE: AFL-2.1 | GPLv2+
+
+PACKAGE NAME: lib32-dbus-wait
+PACKAGE VERSION: 0.1+gitAUTOINC+6cc6077a36
+RECIPE NAME: lib32-dbus-wait
+LICENSE: GPLv2
+
+PACKAGE NAME: lib32-decrypt-cert
+PACKAGE VERSION: 1.0
+RECIPE NAME: lib32-decrypt-cert
+LICENSE: CLOSED
+
+PACKAGE NAME: lib32-devicesettings
+PACKAGE VERSION: RDKV_2022Q3_DUNFELL
+RECIPE NAME: lib32-devicesettings
+LICENSE: Apache-2.0
+
+PACKAGE NAME: lib32-devicesettings-hal-brcm
+PACKAGE VERSION: stable2
+RECIPE NAME: lib32-devicesettings-hal-brcm
+LICENSE: CLOSED
+
+PACKAGE NAME: lib32-devupdate
+PACKAGE VERSION: 1.0
+RECIPE NAME: lib32-devupdate
+LICENSE: CLOSED
+
+PACKAGE NAME: lib32-dhcp-options
+PACKAGE VERSION: 1.0
+RECIPE NAME: lib32-dhcp-options
+LICENSE: CLOSED
+
+PACKAGE NAME: lib32-dial-mrdiscovery
+PACKAGE VERSION: 1.0.6-72ab437
+RECIPE NAME: lib32-dial
+LICENSE: BSD-2-Clause
+
+PACKAGE NAME: lib32-dibbler-client
+PACKAGE VERSION: 1.0.1
+RECIPE NAME: lib32-dibbler
+LICENSE: GPLv2
+
+PACKAGE NAME: lib32-disk-usage
+PACKAGE VERSION: 1.0
+RECIPE NAME: lib32-disk-usage
+LICENSE: CLOSED
+
+PACKAGE NAME: lib32-dnsmasq
+PACKAGE VERSION: 2.78
+RECIPE NAME: lib32-dnsmasq
+LICENSE: GPLv2
+
+PACKAGE NAME: lib32-download-lab-hosts
+PACKAGE VERSION: 1.0
+RECIPE NAME: lib32-download-lab-hosts
+LICENSE: CLOSED
+
+PACKAGE NAME: lib32-drmfactory
+PACKAGE VERSION: 1.0
+RECIPE NAME: lib32-drmfactory
+LICENSE: CLOSED
+
+PACKAGE NAME: lib32-dropbear
+PACKAGE VERSION: 2017.75
+RECIPE NAME: lib32-dropbear
+LICENSE: MIT & BSD-3-Clause & BSD-2-Clause & PD
+
+PACKAGE NAME: lib32-dscli
+PACKAGE VERSION: 1.0
+RECIPE NAME: lib32-dscli
+LICENSE: CLOSED
+
+PACKAGE NAME: lib32-dtcpmgr-noop
+PACKAGE VERSION: RDKV_2022Q3_DUNFELL
+RECIPE NAME: lib32-dtcpmgr-noop
+LICENSE: Apache-2.0
+
+PACKAGE NAME: lib32-duktape
+PACKAGE VERSION: 2.7.0
+RECIPE NAME: lib32-duktape
+LICENSE: MIT
+
+PACKAGE NAME: lib32-dvbsubdecoder
+PACKAGE VERSION: 1.0
+RECIPE NAME: lib32-dvbsubdecoder
+LICENSE: CLOSED
+
+PACKAGE NAME: lib32-dvrmgr
+PACKAGE VERSION: git
+RECIPE NAME: lib32-dvrmgr
+LICENSE: RDK
+
+PACKAGE NAME: lib32-dvrmgr-hal-broadcom
+PACKAGE VERSION: stable2
+RECIPE NAME: lib32-dvrmgr-hal-broadcom
+LICENSE: CLOSED
+
+PACKAGE NAME: lib32-e2fsprogs-e2fsck
+PACKAGE VERSION: 1.45.7
+RECIPE NAME: lib32-e2fsprogs
+LICENSE: GPLv2
+
+PACKAGE NAME: lib32-ecore
+PACKAGE VERSION: 1.18.0
+RECIPE NAME: lib32-efl
+LICENSE: MIT & BSD
+
+PACKAGE NAME: lib32-ecore-evas
+PACKAGE VERSION: 1.18.0
+RECIPE NAME: lib32-efl
+LICENSE: MIT & BSD
+
+PACKAGE NAME: lib32-ecore-file
+PACKAGE VERSION: 1.18.0
+RECIPE NAME: lib32-efl
+LICENSE: MIT & BSD
+
+PACKAGE NAME: lib32-ecore-wayland
+PACKAGE VERSION: 1.18.0
+RECIPE NAME: lib32-efl
+LICENSE: MIT & BSD
+
+PACKAGE NAME: lib32-ecryptfs-utils
+PACKAGE VERSION: 111
+RECIPE NAME: lib32-ecryptfs-utils
+LICENSE: GPLv2
+
+PACKAGE NAME: lib32-edid-decode
+PACKAGE VERSION: 1.0.0
+RECIPE NAME: lib32-edid-decode
+LICENSE: GPLv2
+
+PACKAGE NAME: lib32-efl
+PACKAGE VERSION: 1.18.0
+RECIPE NAME: lib32-efl
+LICENSE: MIT & BSD
+
+PACKAGE NAME: lib32-eina
+PACKAGE VERSION: 1.18.0
+RECIPE NAME: lib32-efl
+LICENSE: MIT & BSD
+
+PACKAGE NAME: lib32-elev8-plugins
+PACKAGE VERSION: 1.0
+RECIPE NAME: lib32-elev8-plugins
+LICENSE: CLOSED
+
+PACKAGE NAME: lib32-eo
+PACKAGE VERSION: 1.18.0
+RECIPE NAME: lib32-efl
+LICENSE: MIT & BSD
+
+PACKAGE NAME: lib32-essos
+PACKAGE VERSION: 1.0
+RECIPE NAME: lib32-essos
+LICENSE: Apache-2.0
+
+PACKAGE NAME: lib32-etherwake
+PACKAGE VERSION: 1.09
+RECIPE NAME: lib32-etherwake
+LICENSE: GPL-2.0
+
+PACKAGE NAME: lib32-ethtool
+PACKAGE VERSION: 5.4
+RECIPE NAME: lib32-ethtool
+LICENSE: GPLv2+
+
+PACKAGE NAME: lib32-evas
+PACKAGE VERSION: 1.18.0
+RECIPE NAME: lib32-efl
+LICENSE: MIT & BSD
+
+PACKAGE NAME: lib32-expat
+PACKAGE VERSION: 2.2.9
+RECIPE NAME: lib32-expat
+LICENSE: MIT
+
+PACKAGE NAME: lib32-fanctrl
+PACKAGE VERSION: 1.0
+RECIPE NAME: lib32-fanctrl
+LICENSE: CLOSED
+
+PACKAGE NAME: lib32-fanctrl-vip7002w
+PACKAGE VERSION: 0.2
+RECIPE NAME: lib32-fanctrl-vip7002w
+LICENSE: CLOSED
+
+PACKAGE NAME: lib32-featuretracker
+PACKAGE VERSION: 1.0
+RECIPE NAME: lib32-featuretracker
+LICENSE: CLOSED
+
+PACKAGE NAME: lib32-flash-health-monitor
+PACKAGE VERSION: 1.0
+RECIPE NAME: lib32-flash-health-monitor
+LICENSE: CLOSED
+
+PACKAGE NAME: lib32-flash-health-monitor-emmc-read
+PACKAGE VERSION: 1.0
+RECIPE NAME: lib32-flash-health-monitor
+LICENSE: CLOSED
+
+PACKAGE NAME: lib32-flashmounts
+PACKAGE VERSION: 1.0
+RECIPE NAME: lib32-flashmounts
+LICENSE: CLOSED
+
+PACKAGE NAME: lib32-flashmounts-label
+PACKAGE VERSION: 1.0
+RECIPE NAME: lib32-flashmounts-label
+LICENSE: CLOSED
+
+PACKAGE NAME: lib32-flashmounts-mass-storage
+PACKAGE VERSION: 1.0
+RECIPE NAME: lib32-flashmounts
+LICENSE: CLOSED
+
+PACKAGE NAME: lib32-flashmounts-vip7002w-release
+PACKAGE VERSION: 1.0
+RECIPE NAME: lib32-flashmounts
+LICENSE: CLOSED
+
+PACKAGE NAME: lib32-fontconfig
+PACKAGE VERSION: 2.13.1
+RECIPE NAME: lib32-fontconfig
+LICENSE: MIT-style & MIT & PD
+
+PACKAGE NAME: lib32-fontconfig-utils
+PACKAGE VERSION: 2.13.1
+RECIPE NAME: lib32-fontconfig
+LICENSE: MIT-style & MIT & PD
+
+PACKAGE NAME: lib32-framestats
+PACKAGE VERSION: 1.0
+RECIPE NAME: lib32-framestats
+LICENSE: CLOSED
+
+PACKAGE NAME: lib32-freetype
+PACKAGE VERSION: 2.10.1
+RECIPE NAME: lib32-freetype
+LICENSE: FreeType | GPLv2+
+
+PACKAGE NAME: lib32-fribidi
+PACKAGE VERSION: 1.0.9
+RECIPE NAME: lib32-fribidi
+LICENSE: LGPLv2.1+
+
+PACKAGE NAME: lib32-fsmaintainer
+PACKAGE VERSION: 1.0
+RECIPE NAME: lib32-fsmaintainer
+LICENSE: CLOSED
+
+PACKAGE NAME: lib32-fsmgetcapacity
+PACKAGE VERSION: 1.0
+RECIPE NAME: lib32-fsmgetcapacity
+LICENSE: CLOSED
+
+PACKAGE NAME: lib32-fuse
+PACKAGE VERSION: 2.9.9
+RECIPE NAME: lib32-fuse
+LICENSE: GPLv2 & LGPLv2
+
+PACKAGE NAME: lib32-fuse-utils
+PACKAGE VERSION: 2.9.9
+RECIPE NAME: lib32-fuse
+LICENSE: GPLv2 & LGPLv2
+
+PACKAGE NAME: lib32-gdbus-client
+PACKAGE VERSION: 1.0
+RECIPE NAME: lib32-gdbus-client
+LICENSE: Apache-2.0
+
+PACKAGE NAME: lib32-gdk-pixbuf
+PACKAGE VERSION: 2.40.0
+RECIPE NAME: lib32-gdk-pixbuf
+LICENSE: LGPLv2.1
+
+PACKAGE NAME: lib32-gencert
+PACKAGE VERSION: 1.0
+RECIPE NAME: lib32-gencert
+LICENSE: CLOSED
+
+PACKAGE NAME: lib32-genhdcp
+PACKAGE VERSION: 1.0
+RECIPE NAME: lib32-genhdcp
+LICENSE: CLOSED
+
+PACKAGE NAME: lib32-gensoclicense
+PACKAGE VERSION: 1.0
+RECIPE NAME: lib32-gensoclicense
+LICENSE: CLOSED
+
+PACKAGE NAME: lib32-getbluetoothmac
+PACKAGE VERSION: 1.0
+RECIPE NAME: lib32-getbluetoothmac
+LICENSE: CLOSED
+
+PACKAGE NAME: lib32-getcontainersinfo
+PACKAGE VERSION: 0.0
+RECIPE NAME: lib32-getcontainersinfo
+LICENSE: CLOSED
+
+PACKAGE NAME: lib32-getloadersversion
+PACKAGE VERSION: 1.0
+RECIPE NAME: lib32-getloadersversion
+LICENSE: CLOSED
+
+PACKAGE NAME: lib32-getoui
+PACKAGE VERSION: 1.0
+RECIPE NAME: lib32-getoui
+LICENSE: CLOSED
+
+PACKAGE NAME: lib32-getproductclass
+PACKAGE VERSION: 1.0
+RECIPE NAME: lib32-getproductclass
+LICENSE: CLOSED
+
+PACKAGE NAME: lib32-getserialno
+PACKAGE VERSION: 1.0
+RECIPE NAME: lib32-getserialno
+LICENSE: CLOSED
+
+PACKAGE NAME: lib32-getwifimac
+PACKAGE VERSION: 1.0
+RECIPE NAME: lib32-getwifimac
+LICENSE: CLOSED
+
+PACKAGE NAME: lib32-glib-2.0
+PACKAGE VERSION: 2.62.6
+RECIPE NAME: lib32-glib-2.0
+LICENSE: LGPLv2.1+ & BSD-3-Clause & PD
+
+PACKAGE NAME: lib32-glib-networking
+PACKAGE VERSION: 2.62.4
+RECIPE NAME: lib32-glib-networking
+LICENSE: LGPLv2.1
+
+PACKAGE NAME: lib32-glibc
+PACKAGE VERSION: 2.31+gitAUTOINC+3ef8be9b89
+RECIPE NAME: lib32-glibc
+LICENSE: GPLv2 & LGPLv2.1
+
+PACKAGE NAME: lib32-gptfdisk
+PACKAGE VERSION: 1.0.4
+RECIPE NAME: lib32-gptfdisk
+LICENSE: GPLv2
+
+PACKAGE NAME: lib32-gpttool
+PACKAGE VERSION: 1.0
+RECIPE NAME: lib32-gpttool
+LICENSE: CLOSED
+
+PACKAGE NAME: lib32-gssdp
+PACKAGE VERSION: 1.2.3
+RECIPE NAME: lib32-gssdp
+LICENSE: LGPLv2
+
+PACKAGE NAME: lib32-gst-plugins-rdk
+PACKAGE VERSION: RDKV_2022Q3_DUNFELL
+RECIPE NAME: lib32-gst-plugins-rdk
+LICENSE: LGPL-2.0
+
+PACKAGE NAME: lib32-gst-plugins-rdk-aamp
+PACKAGE VERSION: rdkv-2022q3-dunfell
+RECIPE NAME: lib32-gst-plugins-rdk-aamp
+LICENSE: LGPLv2.1+
+
+PACKAGE NAME: lib32-gst-plugins-rdk-dvr
+PACKAGE VERSION: git
+RECIPE NAME: lib32-gst-plugins-rdk-dvr
+LICENSE: RDK
+
+PACKAGE NAME: lib32-gstreamer-decrypt-plugins
+PACKAGE VERSION: 1.0
+RECIPE NAME: lib32-gstreamer-decrypt-plugins
+LICENSE: CLOSED
+
+PACKAGE NAME: lib32-gstreamer-plugins-soc
+PACKAGE VERSION: generic_rdk
+RECIPE NAME: lib32-gstreamer-plugins-soc
+LICENSE: CLOSED
+
+PACKAGE NAME: lib32-gstreamer-plugins-soc-subtec
+PACKAGE VERSION: 1.0
+RECIPE NAME: lib32-gstreamer-plugins-soc-subtec
+LICENSE: CLOSED
+
+PACKAGE NAME: lib32-gstreamer1.0
+PACKAGE VERSION: 1.18.5
+RECIPE NAME: lib32-gstreamer1.0
+LICENSE: LGPLv2+
+
+PACKAGE NAME: lib32-gstreamer1.0-plugins-bad
+PACKAGE VERSION: 1.18.5
+RECIPE NAME: lib32-gstreamer1.0-plugins-bad
+LICENSE: GPLv2+ & LGPLv2+ & LGPLv2.1+
+
+PACKAGE NAME: lib32-gstreamer1.0-plugins-bad-accurip
+PACKAGE VERSION: 1.18.5
+RECIPE NAME: lib32-gstreamer1.0-plugins-bad
+LICENSE: GPLv2+ & LGPLv2+ & LGPLv2.1+
+
+PACKAGE NAME: lib32-gstreamer1.0-plugins-bad-adpcmdec
+PACKAGE VERSION: 1.18.5
+RECIPE NAME: lib32-gstreamer1.0-plugins-bad
+LICENSE: GPLv2+ & LGPLv2+ & LGPLv2.1+
+
+PACKAGE NAME: lib32-gstreamer1.0-plugins-bad-adpcmenc
+PACKAGE VERSION: 1.18.5
+RECIPE NAME: lib32-gstreamer1.0-plugins-bad
+LICENSE: GPLv2+ & LGPLv2+ & LGPLv2.1+
+
+PACKAGE NAME: lib32-gstreamer1.0-plugins-bad-aiff
+PACKAGE VERSION: 1.18.5
+RECIPE NAME: lib32-gstreamer1.0-plugins-bad
+LICENSE: GPLv2+ & LGPLv2+ & LGPLv2.1+
+
+PACKAGE NAME: lib32-gstreamer1.0-plugins-bad-apps
+PACKAGE VERSION: 1.18.5
+RECIPE NAME: lib32-gstreamer1.0-plugins-bad
+LICENSE: GPLv2+ & LGPLv2+ & LGPLv2.1+
+
+PACKAGE NAME: lib32-gstreamer1.0-plugins-bad-asfmux
+PACKAGE VERSION: 1.18.5
+RECIPE NAME: lib32-gstreamer1.0-plugins-bad
+LICENSE: GPLv2+ & LGPLv2+ & LGPLv2.1+
+
+PACKAGE NAME: lib32-gstreamer1.0-plugins-bad-audiobuffersplit
+PACKAGE VERSION: 1.18.5
+RECIPE NAME: lib32-gstreamer1.0-plugins-bad
+LICENSE: GPLv2+ & LGPLv2+ & LGPLv2.1+
+
+PACKAGE NAME: lib32-gstreamer1.0-plugins-bad-audiofxbad
+PACKAGE VERSION: 1.18.5
+RECIPE NAME: lib32-gstreamer1.0-plugins-bad
+LICENSE: GPLv2+ & LGPLv2+ & LGPLv2.1+
+
+PACKAGE NAME: lib32-gstreamer1.0-plugins-bad-audiolatency
+PACKAGE VERSION: 1.18.5
+RECIPE NAME: lib32-gstreamer1.0-plugins-bad
+LICENSE: GPLv2+ & LGPLv2+ & LGPLv2.1+
+
+PACKAGE NAME: lib32-gstreamer1.0-plugins-bad-audiomixmatrix
+PACKAGE VERSION: 1.18.5
+RECIPE NAME: lib32-gstreamer1.0-plugins-bad
+LICENSE: GPLv2+ & LGPLv2+ & LGPLv2.1+
+
+PACKAGE NAME: lib32-gstreamer1.0-plugins-bad-audiovisualizers
+PACKAGE VERSION: 1.18.5
+RECIPE NAME: lib32-gstreamer1.0-plugins-bad
+LICENSE: GPLv2+ & LGPLv2+ & LGPLv2.1+
+
+PACKAGE NAME: lib32-gstreamer1.0-plugins-bad-autoconvert
+PACKAGE VERSION: 1.18.5
+RECIPE NAME: lib32-gstreamer1.0-plugins-bad
+LICENSE: GPLv2+ & LGPLv2+ & LGPLv2.1+
+
+PACKAGE NAME: lib32-gstreamer1.0-plugins-bad-bayer
+PACKAGE VERSION: 1.18.5
+RECIPE NAME: lib32-gstreamer1.0-plugins-bad
+LICENSE: GPLv2+ & LGPLv2+ & LGPLv2.1+
+
+PACKAGE NAME: lib32-gstreamer1.0-plugins-bad-bz2
+PACKAGE VERSION: 1.18.5
+RECIPE NAME: lib32-gstreamer1.0-plugins-bad
+LICENSE: GPLv2+ & LGPLv2+ & LGPLv2.1+
+
+PACKAGE NAME: lib32-gstreamer1.0-plugins-bad-camerabin
+PACKAGE VERSION: 1.18.5
+RECIPE NAME: lib32-gstreamer1.0-plugins-bad
+LICENSE: GPLv2+ & LGPLv2+ & LGPLv2.1+
+
+PACKAGE NAME: lib32-gstreamer1.0-plugins-bad-coloreffects
+PACKAGE VERSION: 1.18.5
+RECIPE NAME: lib32-gstreamer1.0-plugins-bad
+LICENSE: GPLv2+ & LGPLv2+ & LGPLv2.1+
+
+PACKAGE NAME: lib32-gstreamer1.0-plugins-bad-curl
+PACKAGE VERSION: 1.18.5
+RECIPE NAME: lib32-gstreamer1.0-plugins-bad
+LICENSE: GPLv2+ & LGPLv2+ & LGPLv2.1+
+
+PACKAGE NAME: lib32-gstreamer1.0-plugins-bad-dash
+PACKAGE VERSION: 1.18.5
+RECIPE NAME: lib32-gstreamer1.0-plugins-bad
+LICENSE: GPLv2+ & LGPLv2+ & LGPLv2.1+
+
+PACKAGE NAME: lib32-gstreamer1.0-plugins-bad-debugutilsbad
+PACKAGE VERSION: 1.18.5
+RECIPE NAME: lib32-gstreamer1.0-plugins-bad
+LICENSE: GPLv2+ & LGPLv2+ & LGPLv2.1+
+
+PACKAGE NAME: lib32-gstreamer1.0-plugins-bad-decklink
+PACKAGE VERSION: 1.18.5
+RECIPE NAME: lib32-gstreamer1.0-plugins-bad
+LICENSE: GPLv2+ & LGPLv2+ & LGPLv2.1+
+
+PACKAGE NAME: lib32-gstreamer1.0-plugins-bad-dtls
+PACKAGE VERSION: 1.18.5
+RECIPE NAME: lib32-gstreamer1.0-plugins-bad
+LICENSE: GPLv2+ & LGPLv2+ & LGPLv2.1+
+
+PACKAGE NAME: lib32-gstreamer1.0-plugins-bad-dvb
+PACKAGE VERSION: 1.18.5
+RECIPE NAME: lib32-gstreamer1.0-plugins-bad
+LICENSE: GPLv2+ & LGPLv2+ & LGPLv2.1+
+
+PACKAGE NAME: lib32-gstreamer1.0-plugins-bad-dvbsubenc
+PACKAGE VERSION: 1.18.5
+RECIPE NAME: lib32-gstreamer1.0-plugins-bad
+LICENSE: GPLv2+ & LGPLv2+ & LGPLv2.1+
+
+PACKAGE NAME: lib32-gstreamer1.0-plugins-bad-dvbsuboverlay
+PACKAGE VERSION: 1.18.5
+RECIPE NAME: lib32-gstreamer1.0-plugins-bad
+LICENSE: GPLv2+ & LGPLv2+ & LGPLv2.1+
+
+PACKAGE NAME: lib32-gstreamer1.0-plugins-bad-dvdspu
+PACKAGE VERSION: 1.18.5
+RECIPE NAME: lib32-gstreamer1.0-plugins-bad
+LICENSE: GPLv2+ & LGPLv2+ & LGPLv2.1+
+
+PACKAGE NAME: lib32-gstreamer1.0-plugins-bad-faceoverlay
+PACKAGE VERSION: 1.18.5
+RECIPE NAME: lib32-gstreamer1.0-plugins-bad
+LICENSE: GPLv2+ & LGPLv2+ & LGPLv2.1+
+
+PACKAGE NAME: lib32-gstreamer1.0-plugins-bad-fbdevsink
+PACKAGE VERSION: 1.18.5
+RECIPE NAME: lib32-gstreamer1.0-plugins-bad
+LICENSE: GPLv2+ & LGPLv2+ & LGPLv2.1+
+
+PACKAGE NAME: lib32-gstreamer1.0-plugins-bad-festival
+PACKAGE VERSION: 1.18.5
+RECIPE NAME: lib32-gstreamer1.0-plugins-bad
+LICENSE: GPLv2+ & LGPLv2+ & LGPLv2.1+
+
+PACKAGE NAME: lib32-gstreamer1.0-plugins-bad-fieldanalysis
+PACKAGE VERSION: 1.18.5
+RECIPE NAME: lib32-gstreamer1.0-plugins-bad
+LICENSE: GPLv2+ & LGPLv2+ & LGPLv2.1+
+
+PACKAGE NAME: lib32-gstreamer1.0-plugins-bad-freeverb
+PACKAGE VERSION: 1.18.5
+RECIPE NAME: lib32-gstreamer1.0-plugins-bad
+LICENSE: GPLv2+ & LGPLv2+ & LGPLv2.1+
+
+PACKAGE NAME: lib32-gstreamer1.0-plugins-bad-frei0r
+PACKAGE VERSION: 1.18.5
+RECIPE NAME: lib32-gstreamer1.0-plugins-bad
+LICENSE: GPLv2+ & LGPLv2+ & LGPLv2.1+
+
+PACKAGE NAME: lib32-gstreamer1.0-plugins-bad-gaudieffects
+PACKAGE VERSION: 1.18.5
+RECIPE NAME: lib32-gstreamer1.0-plugins-bad
+LICENSE: GPLv2+ & LGPLv2+ & LGPLv2.1+
+
+PACKAGE NAME: lib32-gstreamer1.0-plugins-bad-gdp
+PACKAGE VERSION: 1.18.5
+RECIPE NAME: lib32-gstreamer1.0-plugins-bad
+LICENSE: GPLv2+ & LGPLv2+ & LGPLv2.1+
+
+PACKAGE NAME: lib32-gstreamer1.0-plugins-bad-geometrictransform
+PACKAGE VERSION: 1.18.5
+RECIPE NAME: lib32-gstreamer1.0-plugins-bad
+LICENSE: GPLv2+ & LGPLv2+ & LGPLv2.1+
+
+PACKAGE NAME: lib32-gstreamer1.0-plugins-bad-hls
+PACKAGE VERSION: 1.18.5
+RECIPE NAME: lib32-gstreamer1.0-plugins-bad
+LICENSE: GPLv2+ & LGPLv2+ & LGPLv2.1+
+
+PACKAGE NAME: lib32-gstreamer1.0-plugins-bad-id3tag
+PACKAGE VERSION: 1.18.5
+RECIPE NAME: lib32-gstreamer1.0-plugins-bad
+LICENSE: GPLv2+ & LGPLv2+ & LGPLv2.1+
+
+PACKAGE NAME: lib32-gstreamer1.0-plugins-bad-inter
+PACKAGE VERSION: 1.18.5
+RECIPE NAME: lib32-gstreamer1.0-plugins-bad
+LICENSE: GPLv2+ & LGPLv2+ & LGPLv2.1+
+
+PACKAGE NAME: lib32-gstreamer1.0-plugins-bad-interlace
+PACKAGE VERSION: 1.18.5
+RECIPE NAME: lib32-gstreamer1.0-plugins-bad
+LICENSE: GPLv2+ & LGPLv2+ & LGPLv2.1+
+
+PACKAGE NAME: lib32-gstreamer1.0-plugins-bad-ipcpipeline
+PACKAGE VERSION: 1.18.5
+RECIPE NAME: lib32-gstreamer1.0-plugins-bad
+LICENSE: GPLv2+ & LGPLv2+ & LGPLv2.1+
+
+PACKAGE NAME: lib32-gstreamer1.0-plugins-bad-ivfparse
+PACKAGE VERSION: 1.18.5
+RECIPE NAME: lib32-gstreamer1.0-plugins-bad
+LICENSE: GPLv2+ & LGPLv2+ & LGPLv2.1+
+
+PACKAGE NAME: lib32-gstreamer1.0-plugins-bad-ivtc
+PACKAGE VERSION: 1.18.5
+RECIPE NAME: lib32-gstreamer1.0-plugins-bad
+LICENSE: GPLv2+ & LGPLv2+ & LGPLv2.1+
+
+PACKAGE NAME: lib32-gstreamer1.0-plugins-bad-jp2kdecimator
+PACKAGE VERSION: 1.18.5
+RECIPE NAME: lib32-gstreamer1.0-plugins-bad
+LICENSE: GPLv2+ & LGPLv2+ & LGPLv2.1+
+
+PACKAGE NAME: lib32-gstreamer1.0-plugins-bad-jpegformat
+PACKAGE VERSION: 1.18.5
+RECIPE NAME: lib32-gstreamer1.0-plugins-bad
+LICENSE: GPLv2+ & LGPLv2+ & LGPLv2.1+
+
+PACKAGE NAME: lib32-gstreamer1.0-plugins-bad-legacyrawparse
+PACKAGE VERSION: 1.18.5
+RECIPE NAME: lib32-gstreamer1.0-plugins-bad
+LICENSE: GPLv2+ & LGPLv2+ & LGPLv2.1+
+
+PACKAGE NAME: lib32-gstreamer1.0-plugins-bad-meta
+PACKAGE VERSION: 1.18.5
+RECIPE NAME: lib32-gstreamer1.0-plugins-bad
+LICENSE: GPLv2+ & LGPLv2+ & LGPLv2.1+
+
+PACKAGE NAME: lib32-gstreamer1.0-plugins-bad-midi
+PACKAGE VERSION: 1.18.5
+RECIPE NAME: lib32-gstreamer1.0-plugins-bad
+LICENSE: GPLv2+ & LGPLv2+ & LGPLv2.1+
+
+PACKAGE NAME: lib32-gstreamer1.0-plugins-bad-mpegpsdemux
+PACKAGE VERSION: 1.18.5
+RECIPE NAME: lib32-gstreamer1.0-plugins-bad
+LICENSE: GPLv2+ & LGPLv2+ & LGPLv2.1+
+
+PACKAGE NAME: lib32-gstreamer1.0-plugins-bad-mpegpsmux
+PACKAGE VERSION: 1.18.5
+RECIPE NAME: lib32-gstreamer1.0-plugins-bad
+LICENSE: GPLv2+ & LGPLv2+ & LGPLv2.1+
+
+PACKAGE NAME: lib32-gstreamer1.0-plugins-bad-mpegtsdemux
+PACKAGE VERSION: 1.18.5
+RECIPE NAME: lib32-gstreamer1.0-plugins-bad
+LICENSE: GPLv2+ & LGPLv2+ & LGPLv2.1+
+
+PACKAGE NAME: lib32-gstreamer1.0-plugins-bad-mpegtsmux
+PACKAGE VERSION: 1.18.5
+RECIPE NAME: lib32-gstreamer1.0-plugins-bad
+LICENSE: GPLv2+ & LGPLv2+ & LGPLv2.1+
+
+PACKAGE NAME: lib32-gstreamer1.0-plugins-bad-netsim
+PACKAGE VERSION: 1.18.5
+RECIPE NAME: lib32-gstreamer1.0-plugins-bad
+LICENSE: GPLv2+ & LGPLv2+ & LGPLv2.1+
+
+PACKAGE NAME: lib32-gstreamer1.0-plugins-bad-pcapparse
+PACKAGE VERSION: 1.18.5
+RECIPE NAME: lib32-gstreamer1.0-plugins-bad
+LICENSE: GPLv2+ & LGPLv2+ & LGPLv2.1+
+
+PACKAGE NAME: lib32-gstreamer1.0-plugins-bad-pnm
+PACKAGE VERSION: 1.18.5
+RECIPE NAME: lib32-gstreamer1.0-plugins-bad
+LICENSE: GPLv2+ & LGPLv2+ & LGPLv2.1+
+
+PACKAGE NAME: lib32-gstreamer1.0-plugins-bad-proxy
+PACKAGE VERSION: 1.18.5
+RECIPE NAME: lib32-gstreamer1.0-plugins-bad
+LICENSE: GPLv2+ & LGPLv2+ & LGPLv2.1+
+
+PACKAGE NAME: lib32-gstreamer1.0-plugins-bad-removesilence
+PACKAGE VERSION: 1.18.5
+RECIPE NAME: lib32-gstreamer1.0-plugins-bad
+LICENSE: GPLv2+ & LGPLv2+ & LGPLv2.1+
+
+PACKAGE NAME: lib32-gstreamer1.0-plugins-bad-rfbsrc
+PACKAGE VERSION: 1.18.5
+RECIPE NAME: lib32-gstreamer1.0-plugins-bad
+LICENSE: GPLv2+ & LGPLv2+ & LGPLv2.1+
+
+PACKAGE NAME: lib32-gstreamer1.0-plugins-bad-rist
+PACKAGE VERSION: 1.18.5
+RECIPE NAME: lib32-gstreamer1.0-plugins-bad
+LICENSE: GPLv2+ & LGPLv2+ & LGPLv2.1+
+
+PACKAGE NAME: lib32-gstreamer1.0-plugins-bad-rtmp2
+PACKAGE VERSION: 1.18.5
+RECIPE NAME: lib32-gstreamer1.0-plugins-bad
+LICENSE: GPLv2+ & LGPLv2+ & LGPLv2.1+
+
+PACKAGE NAME: lib32-gstreamer1.0-plugins-bad-rtpmanagerbad
+PACKAGE VERSION: 1.18.5
+RECIPE NAME: lib32-gstreamer1.0-plugins-bad
+LICENSE: GPLv2+ & LGPLv2+ & LGPLv2.1+
+
+PACKAGE NAME: lib32-gstreamer1.0-plugins-bad-rtponvif
+PACKAGE VERSION: 1.18.5
+RECIPE NAME: lib32-gstreamer1.0-plugins-bad
+LICENSE: GPLv2+ & LGPLv2+ & LGPLv2.1+
+
+PACKAGE NAME: lib32-gstreamer1.0-plugins-bad-sbc
+PACKAGE VERSION: 1.18.5
+RECIPE NAME: lib32-gstreamer1.0-plugins-bad
+LICENSE: GPLv2+ & LGPLv2+ & LGPLv2.1+
+
+PACKAGE NAME: lib32-gstreamer1.0-plugins-bad-sdpelem
+PACKAGE VERSION: 1.18.5
+RECIPE NAME: lib32-gstreamer1.0-plugins-bad
+LICENSE: GPLv2+ & LGPLv2+ & LGPLv2.1+
+
+PACKAGE NAME: lib32-gstreamer1.0-plugins-bad-segmentclip
+PACKAGE VERSION: 1.18.5
+RECIPE NAME: lib32-gstreamer1.0-plugins-bad
+LICENSE: GPLv2+ & LGPLv2+ & LGPLv2.1+
+
+PACKAGE NAME: lib32-gstreamer1.0-plugins-bad-shm
+PACKAGE VERSION: 1.18.5
+RECIPE NAME: lib32-gstreamer1.0-plugins-bad
+LICENSE: GPLv2+ & LGPLv2+ & LGPLv2.1+
+
+PACKAGE NAME: lib32-gstreamer1.0-plugins-bad-siren
+PACKAGE VERSION: 1.18.5
+RECIPE NAME: lib32-gstreamer1.0-plugins-bad
+LICENSE: GPLv2+ & LGPLv2+ & LGPLv2.1+
+
+PACKAGE NAME: lib32-gstreamer1.0-plugins-bad-smooth
+PACKAGE VERSION: 1.18.5
+RECIPE NAME: lib32-gstreamer1.0-plugins-bad
+LICENSE: GPLv2+ & LGPLv2+ & LGPLv2.1+
+
+PACKAGE NAME: lib32-gstreamer1.0-plugins-bad-smoothstreaming
+PACKAGE VERSION: 1.18.5
+RECIPE NAME: lib32-gstreamer1.0-plugins-bad
+LICENSE: GPLv2+ & LGPLv2+ & LGPLv2.1+
+
+PACKAGE NAME: lib32-gstreamer1.0-plugins-bad-speed
+PACKAGE VERSION: 1.18.5
+RECIPE NAME: lib32-gstreamer1.0-plugins-bad
+LICENSE: GPLv2+ & LGPLv2+ & LGPLv2.1+
+
+PACKAGE NAME: lib32-gstreamer1.0-plugins-bad-subenc
+PACKAGE VERSION: 1.18.5
+RECIPE NAME: lib32-gstreamer1.0-plugins-bad
+LICENSE: GPLv2+ & LGPLv2+ & LGPLv2.1+
+
+PACKAGE NAME: lib32-gstreamer1.0-plugins-bad-switchbin
+PACKAGE VERSION: 1.18.5
+RECIPE NAME: lib32-gstreamer1.0-plugins-bad
+LICENSE: GPLv2+ & LGPLv2+ & LGPLv2.1+
+
+PACKAGE NAME: lib32-gstreamer1.0-plugins-bad-timecode
+PACKAGE VERSION: 1.18.5
+RECIPE NAME: lib32-gstreamer1.0-plugins-bad
+LICENSE: GPLv2+ & LGPLv2+ & LGPLv2.1+
+
+PACKAGE NAME: lib32-gstreamer1.0-plugins-bad-transcode
+PACKAGE VERSION: 1.18.5
+RECIPE NAME: lib32-gstreamer1.0-plugins-bad
+LICENSE: GPLv2+ & LGPLv2+ & LGPLv2.1+
+
+PACKAGE NAME: lib32-gstreamer1.0-plugins-bad-uvch264
+PACKAGE VERSION: 1.18.5
+RECIPE NAME: lib32-gstreamer1.0-plugins-bad
+LICENSE: GPLv2+ & LGPLv2+ & LGPLv2.1+
+
+PACKAGE NAME: lib32-gstreamer1.0-plugins-bad-videofiltersbad
+PACKAGE VERSION: 1.18.5
+RECIPE NAME: lib32-gstreamer1.0-plugins-bad
+LICENSE: GPLv2+ & LGPLv2+ & LGPLv2.1+
+
+PACKAGE NAME: lib32-gstreamer1.0-plugins-bad-videoframe-audiolevel
+PACKAGE VERSION: 1.18.5
+RECIPE NAME: lib32-gstreamer1.0-plugins-bad
+LICENSE: GPLv2+ & LGPLv2+ & LGPLv2.1+
+
+PACKAGE NAME: lib32-gstreamer1.0-plugins-bad-videoparsersbad
+PACKAGE VERSION: 1.18.5
+RECIPE NAME: lib32-gstreamer1.0-plugins-bad
+LICENSE: GPLv2+ & LGPLv2+ & LGPLv2.1+
+
+PACKAGE NAME: lib32-gstreamer1.0-plugins-bad-videosignal
+PACKAGE VERSION: 1.18.5
+RECIPE NAME: lib32-gstreamer1.0-plugins-bad
+LICENSE: GPLv2+ & LGPLv2+ & LGPLv2.1+
+
+PACKAGE NAME: lib32-gstreamer1.0-plugins-bad-vmnc
+PACKAGE VERSION: 1.18.5
+RECIPE NAME: lib32-gstreamer1.0-plugins-bad
+LICENSE: GPLv2+ & LGPLv2+ & LGPLv2.1+
+
+PACKAGE NAME: lib32-gstreamer1.0-plugins-bad-webp
+PACKAGE VERSION: 1.18.5
+RECIPE NAME: lib32-gstreamer1.0-plugins-bad
+LICENSE: GPLv2+ & LGPLv2+ & LGPLv2.1+
+
+PACKAGE NAME: lib32-gstreamer1.0-plugins-bad-y4mdec
+PACKAGE VERSION: 1.18.5
+RECIPE NAME: lib32-gstreamer1.0-plugins-bad
+LICENSE: GPLv2+ & LGPLv2+ & LGPLv2.1+
+
+PACKAGE NAME: lib32-gstreamer1.0-plugins-base
+PACKAGE VERSION: 1.18.5
+RECIPE NAME: lib32-gstreamer1.0-plugins-base
+LICENSE: GPLv2+ & LGPLv2+
+
+PACKAGE NAME: lib32-gstreamer1.0-plugins-base-adder
+PACKAGE VERSION: 1.18.5
+RECIPE NAME: lib32-gstreamer1.0-plugins-base
+LICENSE: GPLv2+ & LGPLv2+
+
+PACKAGE NAME: lib32-gstreamer1.0-plugins-base-app
+PACKAGE VERSION: 1.18.5
+RECIPE NAME: lib32-gstreamer1.0-plugins-base
+LICENSE: GPLv2+ & LGPLv2+
+
+PACKAGE NAME: lib32-gstreamer1.0-plugins-base-apps
+PACKAGE VERSION: 1.18.5
+RECIPE NAME: lib32-gstreamer1.0-plugins-base
+LICENSE: GPLv2+ & LGPLv2+
+
+PACKAGE NAME: lib32-gstreamer1.0-plugins-base-audioconvert
+PACKAGE VERSION: 1.18.5
+RECIPE NAME: lib32-gstreamer1.0-plugins-base
+LICENSE: GPLv2+ & LGPLv2+
+
+PACKAGE NAME: lib32-gstreamer1.0-plugins-base-audiomixer
+PACKAGE VERSION: 1.18.5
+RECIPE NAME: lib32-gstreamer1.0-plugins-base
+LICENSE: GPLv2+ & LGPLv2+
+
+PACKAGE NAME: lib32-gstreamer1.0-plugins-base-audiorate
+PACKAGE VERSION: 1.18.5
+RECIPE NAME: lib32-gstreamer1.0-plugins-base
+LICENSE: GPLv2+ & LGPLv2+
+
+PACKAGE NAME: lib32-gstreamer1.0-plugins-base-audioresample
+PACKAGE VERSION: 1.18.5
+RECIPE NAME: lib32-gstreamer1.0-plugins-base
+LICENSE: GPLv2+ & LGPLv2+
+
+PACKAGE NAME: lib32-gstreamer1.0-plugins-base-audiotestsrc
+PACKAGE VERSION: 1.18.5
+RECIPE NAME: lib32-gstreamer1.0-plugins-base
+LICENSE: GPLv2+ & LGPLv2+
+
+PACKAGE NAME: lib32-gstreamer1.0-plugins-base-compositor
+PACKAGE VERSION: 1.18.5
+RECIPE NAME: lib32-gstreamer1.0-plugins-base
+LICENSE: GPLv2+ & LGPLv2+
+
+PACKAGE NAME: lib32-gstreamer1.0-plugins-base-encoding
+PACKAGE VERSION: 1.18.5
+RECIPE NAME: lib32-gstreamer1.0-plugins-base
+LICENSE: GPLv2+ & LGPLv2+
+
+PACKAGE NAME: lib32-gstreamer1.0-plugins-base-gio
+PACKAGE VERSION: 1.18.5
+RECIPE NAME: lib32-gstreamer1.0-plugins-base
+LICENSE: GPLv2+ & LGPLv2+
+
+PACKAGE NAME: lib32-gstreamer1.0-plugins-base-meta
+PACKAGE VERSION: 1.18.5
+RECIPE NAME: lib32-gstreamer1.0-plugins-base
+LICENSE: GPLv2+ & LGPLv2+
+
+PACKAGE NAME: lib32-gstreamer1.0-plugins-base-opus
+PACKAGE VERSION: 1.18.5
+RECIPE NAME: lib32-gstreamer1.0-plugins-base
+LICENSE: GPLv2+ & LGPLv2+
+
+PACKAGE NAME: lib32-gstreamer1.0-plugins-base-overlaycomposition
+PACKAGE VERSION: 1.18.5
+RECIPE NAME: lib32-gstreamer1.0-plugins-base
+LICENSE: GPLv2+ & LGPLv2+
+
+PACKAGE NAME: lib32-gstreamer1.0-plugins-base-pbtypes
+PACKAGE VERSION: 1.18.5
+RECIPE NAME: lib32-gstreamer1.0-plugins-base
+LICENSE: GPLv2+ & LGPLv2+
+
+PACKAGE NAME: lib32-gstreamer1.0-plugins-base-playback
+PACKAGE VERSION: 1.18.5
+RECIPE NAME: lib32-gstreamer1.0-plugins-base
+LICENSE: GPLv2+ & LGPLv2+
+
+PACKAGE NAME: lib32-gstreamer1.0-plugins-base-rawparse
+PACKAGE VERSION: 1.18.5
+RECIPE NAME: lib32-gstreamer1.0-plugins-base
+LICENSE: GPLv2+ & LGPLv2+
+
+PACKAGE NAME: lib32-gstreamer1.0-plugins-base-subparse
+PACKAGE VERSION: 1.18.5
+RECIPE NAME: lib32-gstreamer1.0-plugins-base
+LICENSE: GPLv2+ & LGPLv2+
+
+PACKAGE NAME: lib32-gstreamer1.0-plugins-base-tcp
+PACKAGE VERSION: 1.18.5
+RECIPE NAME: lib32-gstreamer1.0-plugins-base
+LICENSE: GPLv2+ & LGPLv2+
+
+PACKAGE NAME: lib32-gstreamer1.0-plugins-base-typefindfunctions
+PACKAGE VERSION: 1.18.5
+RECIPE NAME: lib32-gstreamer1.0-plugins-base
+LICENSE: GPLv2+ & LGPLv2+
+
+PACKAGE NAME: lib32-gstreamer1.0-plugins-base-videoconvert
+PACKAGE VERSION: 1.18.5
+RECIPE NAME: lib32-gstreamer1.0-plugins-base
+LICENSE: GPLv2+ & LGPLv2+
+
+PACKAGE NAME: lib32-gstreamer1.0-plugins-base-videorate
+PACKAGE VERSION: 1.18.5
+RECIPE NAME: lib32-gstreamer1.0-plugins-base
+LICENSE: GPLv2+ & LGPLv2+
+
+PACKAGE NAME: lib32-gstreamer1.0-plugins-base-videoscale
+PACKAGE VERSION: 1.18.5
+RECIPE NAME: lib32-gstreamer1.0-plugins-base
+LICENSE: GPLv2+ & LGPLv2+
+
+PACKAGE NAME: lib32-gstreamer1.0-plugins-base-videotestsrc
+PACKAGE VERSION: 1.18.5
+RECIPE NAME: lib32-gstreamer1.0-plugins-base
+LICENSE: GPLv2+ & LGPLv2+
+
+PACKAGE NAME: lib32-gstreamer1.0-plugins-base-volume
+PACKAGE VERSION: 1.18.5
+RECIPE NAME: lib32-gstreamer1.0-plugins-base
+LICENSE: GPLv2+ & LGPLv2+
+
+PACKAGE NAME: lib32-gstreamer1.0-plugins-good
+PACKAGE VERSION: 1.18.5
+RECIPE NAME: lib32-gstreamer1.0-plugins-good
+LICENSE: GPLv2+ & LGPLv2.1+
+
+PACKAGE NAME: lib32-gstreamer1.0-plugins-good-alaw
+PACKAGE VERSION: 1.18.5
+RECIPE NAME: lib32-gstreamer1.0-plugins-good
+LICENSE: GPLv2+ & LGPLv2.1+
+
+PACKAGE NAME: lib32-gstreamer1.0-plugins-good-alpha
+PACKAGE VERSION: 1.18.5
+RECIPE NAME: lib32-gstreamer1.0-plugins-good
+LICENSE: GPLv2+ & LGPLv2.1+
+
+PACKAGE NAME: lib32-gstreamer1.0-plugins-good-alphacolor
+PACKAGE VERSION: 1.18.5
+RECIPE NAME: lib32-gstreamer1.0-plugins-good
+LICENSE: GPLv2+ & LGPLv2.1+
+
+PACKAGE NAME: lib32-gstreamer1.0-plugins-good-apetag
+PACKAGE VERSION: 1.18.5
+RECIPE NAME: lib32-gstreamer1.0-plugins-good
+LICENSE: GPLv2+ & LGPLv2.1+
+
+PACKAGE NAME: lib32-gstreamer1.0-plugins-good-audiofx
+PACKAGE VERSION: 1.18.5
+RECIPE NAME: lib32-gstreamer1.0-plugins-good
+LICENSE: GPLv2+ & LGPLv2.1+
+
+PACKAGE NAME: lib32-gstreamer1.0-plugins-good-audioparsers
+PACKAGE VERSION: 1.18.5
+RECIPE NAME: lib32-gstreamer1.0-plugins-good
+LICENSE: GPLv2+ & LGPLv2.1+
+
+PACKAGE NAME: lib32-gstreamer1.0-plugins-good-auparse
+PACKAGE VERSION: 1.18.5
+RECIPE NAME: lib32-gstreamer1.0-plugins-good
+LICENSE: GPLv2+ & LGPLv2.1+
+
+PACKAGE NAME: lib32-gstreamer1.0-plugins-good-autodetect
+PACKAGE VERSION: 1.18.5
+RECIPE NAME: lib32-gstreamer1.0-plugins-good
+LICENSE: GPLv2+ & LGPLv2.1+
+
+PACKAGE NAME: lib32-gstreamer1.0-plugins-good-avi
+PACKAGE VERSION: 1.18.5
+RECIPE NAME: lib32-gstreamer1.0-plugins-good
+LICENSE: GPLv2+ & LGPLv2.1+
+
+PACKAGE NAME: lib32-gstreamer1.0-plugins-good-cutter
+PACKAGE VERSION: 1.18.5
+RECIPE NAME: lib32-gstreamer1.0-plugins-good
+LICENSE: GPLv2+ & LGPLv2.1+
+
+PACKAGE NAME: lib32-gstreamer1.0-plugins-good-debug
+PACKAGE VERSION: 1.18.5
+RECIPE NAME: lib32-gstreamer1.0-plugins-good
+LICENSE: GPLv2+ & LGPLv2.1+
+
+PACKAGE NAME: lib32-gstreamer1.0-plugins-good-deinterlace
+PACKAGE VERSION: 1.18.5
+RECIPE NAME: lib32-gstreamer1.0-plugins-good
+LICENSE: GPLv2+ & LGPLv2.1+
+
+PACKAGE NAME: lib32-gstreamer1.0-plugins-good-dtmf
+PACKAGE VERSION: 1.18.5
+RECIPE NAME: lib32-gstreamer1.0-plugins-good
+LICENSE: GPLv2+ & LGPLv2.1+
+
+PACKAGE NAME: lib32-gstreamer1.0-plugins-good-effectv
+PACKAGE VERSION: 1.18.5
+RECIPE NAME: lib32-gstreamer1.0-plugins-good
+LICENSE: GPLv2+ & LGPLv2.1+
+
+PACKAGE NAME: lib32-gstreamer1.0-plugins-good-equalizer
+PACKAGE VERSION: 1.18.5
+RECIPE NAME: lib32-gstreamer1.0-plugins-good
+LICENSE: GPLv2+ & LGPLv2.1+
+
+PACKAGE NAME: lib32-gstreamer1.0-plugins-good-flac
+PACKAGE VERSION: 1.18.5
+RECIPE NAME: lib32-gstreamer1.0-plugins-good
+LICENSE: GPLv2+ & LGPLv2.1+
+
+PACKAGE NAME: lib32-gstreamer1.0-plugins-good-flv
+PACKAGE VERSION: 1.18.5
+RECIPE NAME: lib32-gstreamer1.0-plugins-good
+LICENSE: GPLv2+ & LGPLv2.1+
+
+PACKAGE NAME: lib32-gstreamer1.0-plugins-good-flxdec
+PACKAGE VERSION: 1.18.5
+RECIPE NAME: lib32-gstreamer1.0-plugins-good
+LICENSE: GPLv2+ & LGPLv2.1+
+
+PACKAGE NAME: lib32-gstreamer1.0-plugins-good-gdkpixbuf
+PACKAGE VERSION: 1.18.5
+RECIPE NAME: lib32-gstreamer1.0-plugins-good
+LICENSE: GPLv2+ & LGPLv2.1+
+
+PACKAGE NAME: lib32-gstreamer1.0-plugins-good-goom
+PACKAGE VERSION: 1.18.5
+RECIPE NAME: lib32-gstreamer1.0-plugins-good
+LICENSE: GPLv2+ & LGPLv2.1+
+
+PACKAGE NAME: lib32-gstreamer1.0-plugins-good-goom2k1
+PACKAGE VERSION: 1.18.5
+RECIPE NAME: lib32-gstreamer1.0-plugins-good
+LICENSE: GPLv2+ & LGPLv2.1+
+
+PACKAGE NAME: lib32-gstreamer1.0-plugins-good-icydemux
+PACKAGE VERSION: 1.18.5
+RECIPE NAME: lib32-gstreamer1.0-plugins-good
+LICENSE: GPLv2+ & LGPLv2.1+
+
+PACKAGE NAME: lib32-gstreamer1.0-plugins-good-id3demux
+PACKAGE VERSION: 1.18.5
+RECIPE NAME: lib32-gstreamer1.0-plugins-good
+LICENSE: GPLv2+ & LGPLv2.1+
+
+PACKAGE NAME: lib32-gstreamer1.0-plugins-good-imagefreeze
+PACKAGE VERSION: 1.18.5
+RECIPE NAME: lib32-gstreamer1.0-plugins-good
+LICENSE: GPLv2+ & LGPLv2.1+
+
+PACKAGE NAME: lib32-gstreamer1.0-plugins-good-interleave
+PACKAGE VERSION: 1.18.5
+RECIPE NAME: lib32-gstreamer1.0-plugins-good
+LICENSE: GPLv2+ & LGPLv2.1+
+
+PACKAGE NAME: lib32-gstreamer1.0-plugins-good-isomp4
+PACKAGE VERSION: 1.18.5
+RECIPE NAME: lib32-gstreamer1.0-plugins-good
+LICENSE: GPLv2+ & LGPLv2.1+
+
+PACKAGE NAME: lib32-gstreamer1.0-plugins-good-jpeg
+PACKAGE VERSION: 1.18.5
+RECIPE NAME: lib32-gstreamer1.0-plugins-good
+LICENSE: GPLv2+ & LGPLv2.1+
+
+PACKAGE NAME: lib32-gstreamer1.0-plugins-good-level
+PACKAGE VERSION: 1.18.5
+RECIPE NAME: lib32-gstreamer1.0-plugins-good
+LICENSE: GPLv2+ & LGPLv2.1+
+
+PACKAGE NAME: lib32-gstreamer1.0-plugins-good-matroska
+PACKAGE VERSION: 1.18.5
+RECIPE NAME: lib32-gstreamer1.0-plugins-good
+LICENSE: GPLv2+ & LGPLv2.1+
+
+PACKAGE NAME: lib32-gstreamer1.0-plugins-good-meta
+PACKAGE VERSION: 1.18.5
+RECIPE NAME: lib32-gstreamer1.0-plugins-good
+LICENSE: GPLv2+ & LGPLv2.1+
+
+PACKAGE NAME: lib32-gstreamer1.0-plugins-good-monoscope
+PACKAGE VERSION: 1.18.5
+RECIPE NAME: lib32-gstreamer1.0-plugins-good
+LICENSE: GPLv2+ & LGPLv2.1+
+
+PACKAGE NAME: lib32-gstreamer1.0-plugins-good-mpg123
+PACKAGE VERSION: 1.18.5
+RECIPE NAME: lib32-gstreamer1.0-plugins-good
+LICENSE: GPLv2+ & LGPLv2.1+
+
+PACKAGE NAME: lib32-gstreamer1.0-plugins-good-mulaw
+PACKAGE VERSION: 1.18.5
+RECIPE NAME: lib32-gstreamer1.0-plugins-good
+LICENSE: GPLv2+ & LGPLv2.1+
+
+PACKAGE NAME: lib32-gstreamer1.0-plugins-good-multifile
+PACKAGE VERSION: 1.18.5
+RECIPE NAME: lib32-gstreamer1.0-plugins-good
+LICENSE: GPLv2+ & LGPLv2.1+
+
+PACKAGE NAME: lib32-gstreamer1.0-plugins-good-multipart
+PACKAGE VERSION: 1.18.5
+RECIPE NAME: lib32-gstreamer1.0-plugins-good
+LICENSE: GPLv2+ & LGPLv2.1+
+
+PACKAGE NAME: lib32-gstreamer1.0-plugins-good-navigationtest
+PACKAGE VERSION: 1.18.5
+RECIPE NAME: lib32-gstreamer1.0-plugins-good
+LICENSE: GPLv2+ & LGPLv2.1+
+
+PACKAGE NAME: lib32-gstreamer1.0-plugins-good-ossaudio
+PACKAGE VERSION: 1.18.5
+RECIPE NAME: lib32-gstreamer1.0-plugins-good
+LICENSE: GPLv2+ & LGPLv2.1+
+
+PACKAGE NAME: lib32-gstreamer1.0-plugins-good-png
+PACKAGE VERSION: 1.18.5
+RECIPE NAME: lib32-gstreamer1.0-plugins-good
+LICENSE: GPLv2+ & LGPLv2.1+
+
+PACKAGE NAME: lib32-gstreamer1.0-plugins-good-replaygain
+PACKAGE VERSION: 1.18.5
+RECIPE NAME: lib32-gstreamer1.0-plugins-good
+LICENSE: GPLv2+ & LGPLv2.1+
+
+PACKAGE NAME: lib32-gstreamer1.0-plugins-good-rtp
+PACKAGE VERSION: 1.18.5
+RECIPE NAME: lib32-gstreamer1.0-plugins-good
+LICENSE: GPLv2+ & LGPLv2.1+
+
+PACKAGE NAME: lib32-gstreamer1.0-plugins-good-rtsp
+PACKAGE VERSION: 1.18.5
+RECIPE NAME: lib32-gstreamer1.0-plugins-good
+LICENSE: GPLv2+ & LGPLv2.1+
+
+PACKAGE NAME: lib32-gstreamer1.0-plugins-good-shapewipe
+PACKAGE VERSION: 1.18.5
+RECIPE NAME: lib32-gstreamer1.0-plugins-good
+LICENSE: GPLv2+ & LGPLv2.1+
+
+PACKAGE NAME: lib32-gstreamer1.0-plugins-good-smpte
+PACKAGE VERSION: 1.18.5
+RECIPE NAME: lib32-gstreamer1.0-plugins-good
+LICENSE: GPLv2+ & LGPLv2.1+
+
+PACKAGE NAME: lib32-gstreamer1.0-plugins-good-soup
+PACKAGE VERSION: 1.18.5
+RECIPE NAME: lib32-gstreamer1.0-plugins-good
+LICENSE: GPLv2+ & LGPLv2.1+
+
+PACKAGE NAME: lib32-gstreamer1.0-plugins-good-spectrum
+PACKAGE VERSION: 1.18.5
+RECIPE NAME: lib32-gstreamer1.0-plugins-good
+LICENSE: GPLv2+ & LGPLv2.1+
+
+PACKAGE NAME: lib32-gstreamer1.0-plugins-good-speex
+PACKAGE VERSION: 1.18.5
+RECIPE NAME: lib32-gstreamer1.0-plugins-good
+LICENSE: GPLv2+ & LGPLv2.1+
+
+PACKAGE NAME: lib32-gstreamer1.0-plugins-good-udp
+PACKAGE VERSION: 1.18.5
+RECIPE NAME: lib32-gstreamer1.0-plugins-good
+LICENSE: GPLv2+ & LGPLv2.1+
+
+PACKAGE NAME: lib32-gstreamer1.0-plugins-good-videobox
+PACKAGE VERSION: 1.18.5
+RECIPE NAME: lib32-gstreamer1.0-plugins-good
+LICENSE: GPLv2+ & LGPLv2.1+
+
+PACKAGE NAME: lib32-gstreamer1.0-plugins-good-videocrop
+PACKAGE VERSION: 1.18.5
+RECIPE NAME: lib32-gstreamer1.0-plugins-good
+LICENSE: GPLv2+ & LGPLv2.1+
+
+PACKAGE NAME: lib32-gstreamer1.0-plugins-good-videofilter
+PACKAGE VERSION: 1.18.5
+RECIPE NAME: lib32-gstreamer1.0-plugins-good
+LICENSE: GPLv2+ & LGPLv2.1+
+
+PACKAGE NAME: lib32-gstreamer1.0-plugins-good-videomixer
+PACKAGE VERSION: 1.18.5
+RECIPE NAME: lib32-gstreamer1.0-plugins-good
+LICENSE: GPLv2+ & LGPLv2.1+
+
+PACKAGE NAME: lib32-gstreamer1.0-plugins-good-wavenc
+PACKAGE VERSION: 1.18.5
+RECIPE NAME: lib32-gstreamer1.0-plugins-good
+LICENSE: GPLv2+ & LGPLv2.1+
+
+PACKAGE NAME: lib32-gstreamer1.0-plugins-good-wavparse
+PACKAGE VERSION: 1.18.5
+RECIPE NAME: lib32-gstreamer1.0-plugins-good
+LICENSE: GPLv2+ & LGPLv2.1+
+
+PACKAGE NAME: lib32-gstreamer1.0-plugins-good-y4menc
+PACKAGE VERSION: 1.18.5
+RECIPE NAME: lib32-gstreamer1.0-plugins-good
+LICENSE: GPLv2+ & LGPLv2.1+
+
+PACKAGE NAME: lib32-gstreamer1.0-plugins-ugly
+PACKAGE VERSION: 1.18.5
+RECIPE NAME: lib32-gstreamer1.0-plugins-ugly
+LICENSE: GPLv2+ & LGPLv2.1+ & LGPLv2+
+
+PACKAGE NAME: lib32-gstreamer1.0-plugins-ugly-asf
+PACKAGE VERSION: 1.18.5
+RECIPE NAME: lib32-gstreamer1.0-plugins-ugly
+LICENSE: GPLv2+ & LGPLv2.1+ & LGPLv2+
+
+PACKAGE NAME: lib32-gstreamer1.0-plugins-ugly-dvdlpcmdec
+PACKAGE VERSION: 1.18.5
+RECIPE NAME: lib32-gstreamer1.0-plugins-ugly
+LICENSE: GPLv2+ & LGPLv2.1+ & LGPLv2+
+
+PACKAGE NAME: lib32-gstreamer1.0-plugins-ugly-dvdsub
+PACKAGE VERSION: 1.18.5
+RECIPE NAME: lib32-gstreamer1.0-plugins-ugly
+LICENSE: GPLv2+ & LGPLv2.1+ & LGPLv2+
+
+PACKAGE NAME: lib32-gstreamer1.0-plugins-ugly-meta
+PACKAGE VERSION: 1.18.5
+RECIPE NAME: lib32-gstreamer1.0-plugins-ugly
+LICENSE: GPLv2+ & LGPLv2.1+ & LGPLv2+
+
+PACKAGE NAME: lib32-gstreamer1.0-plugins-ugly-realmedia
+PACKAGE VERSION: 1.18.5
+RECIPE NAME: lib32-gstreamer1.0-plugins-ugly
+LICENSE: GPLv2+ & LGPLv2.1+ & LGPLv2+
+
+PACKAGE NAME: lib32-gstreamer1.0-plugins-ugly-xingmux
+PACKAGE VERSION: 1.18.5
+RECIPE NAME: lib32-gstreamer1.0-plugins-ugly
+LICENSE: GPLv2+ & LGPLv2.1+ & LGPLv2+
+
+PACKAGE NAME: lib32-gupnp
+PACKAGE VERSION: 1.2.4
+RECIPE NAME: lib32-gupnp
+LICENSE: LGPLv2+
+
+PACKAGE NAME: lib32-gupnp-av
+PACKAGE VERSION: 0.12.11
+RECIPE NAME: lib32-gupnp-av
+LICENSE: LGPLv2
+
+PACKAGE NAME: lib32-happy-eyeballs-checker
+PACKAGE VERSION: 1.0
+RECIPE NAME: lib32-happy-eyeballs-checker
+LICENSE: CLOSED
+
+PACKAGE NAME: lib32-harfbuzz
+PACKAGE VERSION: 2.6.4
+RECIPE NAME: lib32-harfbuzz
+LICENSE: MIT
+
+PACKAGE NAME: lib32-harfbuzz-icu
+PACKAGE VERSION: 2.6.4
+RECIPE NAME: lib32-harfbuzz
+LICENSE: MIT
+
+PACKAGE NAME: lib32-hdmicec
+PACKAGE VERSION: RDKV_2022Q3_DUNFELL
+RECIPE NAME: lib32-hdmicec
+LICENSE: Apache-2.0
+
+PACKAGE NAME: lib32-hdmicec-hal-broadcom
+PACKAGE VERSION: stable2
+RECIPE NAME: lib32-hdmicec-hal-broadcom
+LICENSE: CLOSED
+
+PACKAGE NAME: lib32-hdrtool
+PACKAGE VERSION: 1.0
+RECIPE NAME: lib32-hdrtool
+LICENSE: CLOSED
+
+PACKAGE NAME: lib32-hidden-screens
+PACKAGE VERSION: 1.0
+RECIPE NAME: lib32-hidden-screens
+LICENSE: CLOSED
+
+PACKAGE NAME: lib32-hostpersistentfile
+PACKAGE VERSION: 1.0
+RECIPE NAME: lib32-hostpersistentfile
+LICENSE: CLOSED
+
+PACKAGE NAME: lib32-hsfs
+PACKAGE VERSION: 1.0
+RECIPE NAME: lib32-hsfs
+LICENSE: CLOSED
+
+PACKAGE NAME: lib32-iarmbus
+PACKAGE VERSION: RDKV_2022Q3_DUNFELL
+RECIPE NAME: lib32-iarmbus
+LICENSE: Apache-2.0
+
+PACKAGE NAME: lib32-iarmmgrs
+PACKAGE VERSION: rdkv-2022q3-dunfell
+RECIPE NAME: lib32-iarmmgrs
+LICENSE: Apache-2.0 & ISC
+
+PACKAGE NAME: lib32-iarmmgrs-hal-broadcom
+PACKAGE VERSION: stable2
+RECIPE NAME: lib32-iarmmgrs-hal-broadcom
+LICENSE: CLOSED
+
+PACKAGE NAME: lib32-init-hal-broadcom
+PACKAGE VERSION: stable2
+RECIPE NAME: lib32-init-hal-broadcom
+LICENSE: CLOSED
+
+PACKAGE NAME: lib32-iptables
+PACKAGE VERSION: 1.8.4
+RECIPE NAME: lib32-iptables
+LICENSE: GPLv2+
+
+PACKAGE NAME: lib32-iptables-module-ip6t-ah
+PACKAGE VERSION: 1.8.4
+RECIPE NAME: lib32-iptables
+LICENSE: GPLv2+
+
+PACKAGE NAME: lib32-iptables-module-ip6t-dnat
+PACKAGE VERSION: 1.8.4
+RECIPE NAME: lib32-iptables
+LICENSE: GPLv2+
+
+PACKAGE NAME: lib32-iptables-module-ip6t-dnpt
+PACKAGE VERSION: 1.8.4
+RECIPE NAME: lib32-iptables
+LICENSE: GPLv2+
+
+PACKAGE NAME: lib32-iptables-module-ip6t-dst
+PACKAGE VERSION: 1.8.4
+RECIPE NAME: lib32-iptables
+LICENSE: GPLv2+
+
+PACKAGE NAME: lib32-iptables-module-ip6t-eui64
+PACKAGE VERSION: 1.8.4
+RECIPE NAME: lib32-iptables
+LICENSE: GPLv2+
+
+PACKAGE NAME: lib32-iptables-module-ip6t-frag
+PACKAGE VERSION: 1.8.4
+RECIPE NAME: lib32-iptables
+LICENSE: GPLv2+
+
+PACKAGE NAME: lib32-iptables-module-ip6t-hbh
+PACKAGE VERSION: 1.8.4
+RECIPE NAME: lib32-iptables
+LICENSE: GPLv2+
+
+PACKAGE NAME: lib32-iptables-module-ip6t-hl
+PACKAGE VERSION: 1.8.4
+RECIPE NAME: lib32-iptables
+LICENSE: GPLv2+
+
+PACKAGE NAME: lib32-iptables-module-ip6t-icmp6
+PACKAGE VERSION: 1.8.4
+RECIPE NAME: lib32-iptables
+LICENSE: GPLv2+
+
+PACKAGE NAME: lib32-iptables-module-ip6t-ipv6header
+PACKAGE VERSION: 1.8.4
+RECIPE NAME: lib32-iptables
+LICENSE: GPLv2+
+
+PACKAGE NAME: lib32-iptables-module-ip6t-log
+PACKAGE VERSION: 1.8.4
+RECIPE NAME: lib32-iptables
+LICENSE: GPLv2+
+
+PACKAGE NAME: lib32-iptables-module-ip6t-masquerade
+PACKAGE VERSION: 1.8.4
+RECIPE NAME: lib32-iptables
+LICENSE: GPLv2+
+
+PACKAGE NAME: lib32-iptables-module-ip6t-mh
+PACKAGE VERSION: 1.8.4
+RECIPE NAME: lib32-iptables
+LICENSE: GPLv2+
+
+PACKAGE NAME: lib32-iptables-module-ip6t-netmap
+PACKAGE VERSION: 1.8.4
+RECIPE NAME: lib32-iptables
+LICENSE: GPLv2+
+
+PACKAGE NAME: lib32-iptables-module-ip6t-redirect
+PACKAGE VERSION: 1.8.4
+RECIPE NAME: lib32-iptables
+LICENSE: GPLv2+
+
+PACKAGE NAME: lib32-iptables-module-ip6t-reject
+PACKAGE VERSION: 1.8.4
+RECIPE NAME: lib32-iptables
+LICENSE: GPLv2+
+
+PACKAGE NAME: lib32-iptables-module-ip6t-rt
+PACKAGE VERSION: 1.8.4
+RECIPE NAME: lib32-iptables
+LICENSE: GPLv2+
+
+PACKAGE NAME: lib32-iptables-module-ip6t-snat
+PACKAGE VERSION: 1.8.4
+RECIPE NAME: lib32-iptables
+LICENSE: GPLv2+
+
+PACKAGE NAME: lib32-iptables-module-ip6t-snpt
+PACKAGE VERSION: 1.8.4
+RECIPE NAME: lib32-iptables
+LICENSE: GPLv2+
+
+PACKAGE NAME: lib32-iptables-module-ip6t-srh
+PACKAGE VERSION: 1.8.4
+RECIPE NAME: lib32-iptables
+LICENSE: GPLv2+
+
+PACKAGE NAME: lib32-iptables-module-ipt-ah
+PACKAGE VERSION: 1.8.4
+RECIPE NAME: lib32-iptables
+LICENSE: GPLv2+
+
+PACKAGE NAME: lib32-iptables-module-ipt-clusterip
+PACKAGE VERSION: 1.8.4
+RECIPE NAME: lib32-iptables
+LICENSE: GPLv2+
+
+PACKAGE NAME: lib32-iptables-module-ipt-dnat
+PACKAGE VERSION: 1.8.4
+RECIPE NAME: lib32-iptables
+LICENSE: GPLv2+
+
+PACKAGE NAME: lib32-iptables-module-ipt-ecn
+PACKAGE VERSION: 1.8.4
+RECIPE NAME: lib32-iptables
+LICENSE: GPLv2+
+
+PACKAGE NAME: lib32-iptables-module-ipt-icmp
+PACKAGE VERSION: 1.8.4
+RECIPE NAME: lib32-iptables
+LICENSE: GPLv2+
+
+PACKAGE NAME: lib32-iptables-module-ipt-log
+PACKAGE VERSION: 1.8.4
+RECIPE NAME: lib32-iptables
+LICENSE: GPLv2+
+
+PACKAGE NAME: lib32-iptables-module-ipt-masquerade
+PACKAGE VERSION: 1.8.4
+RECIPE NAME: lib32-iptables
+LICENSE: GPLv2+
+
+PACKAGE NAME: lib32-iptables-module-ipt-netmap
+PACKAGE VERSION: 1.8.4
+RECIPE NAME: lib32-iptables
+LICENSE: GPLv2+
+
+PACKAGE NAME: lib32-iptables-module-ipt-realm
+PACKAGE VERSION: 1.8.4
+RECIPE NAME: lib32-iptables
+LICENSE: GPLv2+
+
+PACKAGE NAME: lib32-iptables-module-ipt-redirect
+PACKAGE VERSION: 1.8.4
+RECIPE NAME: lib32-iptables
+LICENSE: GPLv2+
+
+PACKAGE NAME: lib32-iptables-module-ipt-reject
+PACKAGE VERSION: 1.8.4
+RECIPE NAME: lib32-iptables
+LICENSE: GPLv2+
+
+PACKAGE NAME: lib32-iptables-module-ipt-snat
+PACKAGE VERSION: 1.8.4
+RECIPE NAME: lib32-iptables
+LICENSE: GPLv2+
+
+PACKAGE NAME: lib32-iptables-module-ipt-ttl
+PACKAGE VERSION: 1.8.4
+RECIPE NAME: lib32-iptables
+LICENSE: GPLv2+
+
+PACKAGE NAME: lib32-iptables-module-ipt-ulog
+PACKAGE VERSION: 1.8.4
+RECIPE NAME: lib32-iptables
+LICENSE: GPLv2+
+
+PACKAGE NAME: lib32-iptables-module-xt-addrtype
+PACKAGE VERSION: 1.8.4
+RECIPE NAME: lib32-iptables
+LICENSE: GPLv2+
+
+PACKAGE NAME: lib32-iptables-module-xt-audit
+PACKAGE VERSION: 1.8.4
+RECIPE NAME: lib32-iptables
+LICENSE: GPLv2+
+
+PACKAGE NAME: lib32-iptables-module-xt-bpf
+PACKAGE VERSION: 1.8.4
+RECIPE NAME: lib32-iptables
+LICENSE: GPLv2+
+
+PACKAGE NAME: lib32-iptables-module-xt-cgroup
+PACKAGE VERSION: 1.8.4
+RECIPE NAME: lib32-iptables
+LICENSE: GPLv2+
+
+PACKAGE NAME: lib32-iptables-module-xt-checksum
+PACKAGE VERSION: 1.8.4
+RECIPE NAME: lib32-iptables
+LICENSE: GPLv2+
+
+PACKAGE NAME: lib32-iptables-module-xt-classify
+PACKAGE VERSION: 1.8.4
+RECIPE NAME: lib32-iptables
+LICENSE: GPLv2+
+
+PACKAGE NAME: lib32-iptables-module-xt-cluster
+PACKAGE VERSION: 1.8.4
+RECIPE NAME: lib32-iptables
+LICENSE: GPLv2+
+
+PACKAGE NAME: lib32-iptables-module-xt-comment
+PACKAGE VERSION: 1.8.4
+RECIPE NAME: lib32-iptables
+LICENSE: GPLv2+
+
+PACKAGE NAME: lib32-iptables-module-xt-connbytes
+PACKAGE VERSION: 1.8.4
+RECIPE NAME: lib32-iptables
+LICENSE: GPLv2+
+
+PACKAGE NAME: lib32-iptables-module-xt-connlimit
+PACKAGE VERSION: 1.8.4
+RECIPE NAME: lib32-iptables
+LICENSE: GPLv2+
+
+PACKAGE NAME: lib32-iptables-module-xt-connmark
+PACKAGE VERSION: 1.8.4
+RECIPE NAME: lib32-iptables
+LICENSE: GPLv2+
+
+PACKAGE NAME: lib32-iptables-module-xt-connsecmark
+PACKAGE VERSION: 1.8.4
+RECIPE NAME: lib32-iptables
+LICENSE: GPLv2+
+
+PACKAGE NAME: lib32-iptables-module-xt-conntrack
+PACKAGE VERSION: 1.8.4
+RECIPE NAME: lib32-iptables
+LICENSE: GPLv2+
+
+PACKAGE NAME: lib32-iptables-module-xt-cpu
+PACKAGE VERSION: 1.8.4
+RECIPE NAME: lib32-iptables
+LICENSE: GPLv2+
+
+PACKAGE NAME: lib32-iptables-module-xt-ct
+PACKAGE VERSION: 1.8.4
+RECIPE NAME: lib32-iptables
+LICENSE: GPLv2+
+
+PACKAGE NAME: lib32-iptables-module-xt-dccp
+PACKAGE VERSION: 1.8.4
+RECIPE NAME: lib32-iptables
+LICENSE: GPLv2+
+
+PACKAGE NAME: lib32-iptables-module-xt-devgroup
+PACKAGE VERSION: 1.8.4
+RECIPE NAME: lib32-iptables
+LICENSE: GPLv2+
+
+PACKAGE NAME: lib32-iptables-module-xt-dscp
+PACKAGE VERSION: 1.8.4
+RECIPE NAME: lib32-iptables
+LICENSE: GPLv2+
+
+PACKAGE NAME: lib32-iptables-module-xt-ecn
+PACKAGE VERSION: 1.8.4
+RECIPE NAME: lib32-iptables
+LICENSE: GPLv2+
+
+PACKAGE NAME: lib32-iptables-module-xt-esp
+PACKAGE VERSION: 1.8.4
+RECIPE NAME: lib32-iptables
+LICENSE: GPLv2+
+
+PACKAGE NAME: lib32-iptables-module-xt-hashlimit
+PACKAGE VERSION: 1.8.4
+RECIPE NAME: lib32-iptables
+LICENSE: GPLv2+
+
+PACKAGE NAME: lib32-iptables-module-xt-helper
+PACKAGE VERSION: 1.8.4
+RECIPE NAME: lib32-iptables
+LICENSE: GPLv2+
+
+PACKAGE NAME: lib32-iptables-module-xt-hmark
+PACKAGE VERSION: 1.8.4
+RECIPE NAME: lib32-iptables
+LICENSE: GPLv2+
+
+PACKAGE NAME: lib32-iptables-module-xt-idletimer
+PACKAGE VERSION: 1.8.4
+RECIPE NAME: lib32-iptables
+LICENSE: GPLv2+
+
+PACKAGE NAME: lib32-iptables-module-xt-ipcomp
+PACKAGE VERSION: 1.8.4
+RECIPE NAME: lib32-iptables
+LICENSE: GPLv2+
+
+PACKAGE NAME: lib32-iptables-module-xt-iprange
+PACKAGE VERSION: 1.8.4
+RECIPE NAME: lib32-iptables
+LICENSE: GPLv2+
+
+PACKAGE NAME: lib32-iptables-module-xt-ipvs
+PACKAGE VERSION: 1.8.4
+RECIPE NAME: lib32-iptables
+LICENSE: GPLv2+
+
+PACKAGE NAME: lib32-iptables-module-xt-led
+PACKAGE VERSION: 1.8.4
+RECIPE NAME: lib32-iptables
+LICENSE: GPLv2+
+
+PACKAGE NAME: lib32-iptables-module-xt-length
+PACKAGE VERSION: 1.8.4
+RECIPE NAME: lib32-iptables
+LICENSE: GPLv2+
+
+PACKAGE NAME: lib32-iptables-module-xt-limit
+PACKAGE VERSION: 1.8.4
+RECIPE NAME: lib32-iptables
+LICENSE: GPLv2+
+
+PACKAGE NAME: lib32-iptables-module-xt-mac
+PACKAGE VERSION: 1.8.4
+RECIPE NAME: lib32-iptables
+LICENSE: GPLv2+
+
+PACKAGE NAME: lib32-iptables-module-xt-mark
+PACKAGE VERSION: 1.8.4
+RECIPE NAME: lib32-iptables
+LICENSE: GPLv2+
+
+PACKAGE NAME: lib32-iptables-module-xt-multiport
+PACKAGE VERSION: 1.8.4
+RECIPE NAME: lib32-iptables
+LICENSE: GPLv2+
+
+PACKAGE NAME: lib32-iptables-module-xt-nfacct
+PACKAGE VERSION: 1.8.4
+RECIPE NAME: lib32-iptables
+LICENSE: GPLv2+
+
+PACKAGE NAME: lib32-iptables-module-xt-nflog
+PACKAGE VERSION: 1.8.4
+RECIPE NAME: lib32-iptables
+LICENSE: GPLv2+
+
+PACKAGE NAME: lib32-iptables-module-xt-nfqueue
+PACKAGE VERSION: 1.8.4
+RECIPE NAME: lib32-iptables
+LICENSE: GPLv2+
+
+PACKAGE NAME: lib32-iptables-module-xt-osf
+PACKAGE VERSION: 1.8.4
+RECIPE NAME: lib32-iptables
+LICENSE: GPLv2+
+
+PACKAGE NAME: lib32-iptables-module-xt-owner
+PACKAGE VERSION: 1.8.4
+RECIPE NAME: lib32-iptables
+LICENSE: GPLv2+
+
+PACKAGE NAME: lib32-iptables-module-xt-physdev
+PACKAGE VERSION: 1.8.4
+RECIPE NAME: lib32-iptables
+LICENSE: GPLv2+
+
+PACKAGE NAME: lib32-iptables-module-xt-pkttype
+PACKAGE VERSION: 1.8.4
+RECIPE NAME: lib32-iptables
+LICENSE: GPLv2+
+
+PACKAGE NAME: lib32-iptables-module-xt-policy
+PACKAGE VERSION: 1.8.4
+RECIPE NAME: lib32-iptables
+LICENSE: GPLv2+
+
+PACKAGE NAME: lib32-iptables-module-xt-quota
+PACKAGE VERSION: 1.8.4
+RECIPE NAME: lib32-iptables
+LICENSE: GPLv2+
+
+PACKAGE NAME: lib32-iptables-module-xt-rateest
+PACKAGE VERSION: 1.8.4
+RECIPE NAME: lib32-iptables
+LICENSE: GPLv2+
+
+PACKAGE NAME: lib32-iptables-module-xt-recent
+PACKAGE VERSION: 1.8.4
+RECIPE NAME: lib32-iptables
+LICENSE: GPLv2+
+
+PACKAGE NAME: lib32-iptables-module-xt-rpfilter
+PACKAGE VERSION: 1.8.4
+RECIPE NAME: lib32-iptables
+LICENSE: GPLv2+
+
+PACKAGE NAME: lib32-iptables-module-xt-sctp
+PACKAGE VERSION: 1.8.4
+RECIPE NAME: lib32-iptables
+LICENSE: GPLv2+
+
+PACKAGE NAME: lib32-iptables-module-xt-secmark
+PACKAGE VERSION: 1.8.4
+RECIPE NAME: lib32-iptables
+LICENSE: GPLv2+
+
+PACKAGE NAME: lib32-iptables-module-xt-set
+PACKAGE VERSION: 1.8.4
+RECIPE NAME: lib32-iptables
+LICENSE: GPLv2+
+
+PACKAGE NAME: lib32-iptables-module-xt-socket
+PACKAGE VERSION: 1.8.4
+RECIPE NAME: lib32-iptables
+LICENSE: GPLv2+
+
+PACKAGE NAME: lib32-iptables-module-xt-standard
+PACKAGE VERSION: 1.8.4
+RECIPE NAME: lib32-iptables
+LICENSE: GPLv2+
+
+PACKAGE NAME: lib32-iptables-module-xt-statistic
+PACKAGE VERSION: 1.8.4
+RECIPE NAME: lib32-iptables
+LICENSE: GPLv2+
+
+PACKAGE NAME: lib32-iptables-module-xt-string
+PACKAGE VERSION: 1.8.4
+RECIPE NAME: lib32-iptables
+LICENSE: GPLv2+
+
+PACKAGE NAME: lib32-iptables-module-xt-synproxy
+PACKAGE VERSION: 1.8.4
+RECIPE NAME: lib32-iptables
+LICENSE: GPLv2+
+
+PACKAGE NAME: lib32-iptables-module-xt-tcp
+PACKAGE VERSION: 1.8.4
+RECIPE NAME: lib32-iptables
+LICENSE: GPLv2+
+
+PACKAGE NAME: lib32-iptables-module-xt-tcpmss
+PACKAGE VERSION: 1.8.4
+RECIPE NAME: lib32-iptables
+LICENSE: GPLv2+
+
+PACKAGE NAME: lib32-iptables-module-xt-tcpoptstrip
+PACKAGE VERSION: 1.8.4
+RECIPE NAME: lib32-iptables
+LICENSE: GPLv2+
+
+PACKAGE NAME: lib32-iptables-module-xt-tee
+PACKAGE VERSION: 1.8.4
+RECIPE NAME: lib32-iptables
+LICENSE: GPLv2+
+
+PACKAGE NAME: lib32-iptables-module-xt-time
+PACKAGE VERSION: 1.8.4
+RECIPE NAME: lib32-iptables
+LICENSE: GPLv2+
+
+PACKAGE NAME: lib32-iptables-module-xt-tos
+PACKAGE VERSION: 1.8.4
+RECIPE NAME: lib32-iptables
+LICENSE: GPLv2+
+
+PACKAGE NAME: lib32-iptables-module-xt-tproxy
+PACKAGE VERSION: 1.8.4
+RECIPE NAME: lib32-iptables
+LICENSE: GPLv2+
+
+PACKAGE NAME: lib32-iptables-module-xt-trace
+PACKAGE VERSION: 1.8.4
+RECIPE NAME: lib32-iptables
+LICENSE: GPLv2+
+
+PACKAGE NAME: lib32-iptables-module-xt-u32
+PACKAGE VERSION: 1.8.4
+RECIPE NAME: lib32-iptables
+LICENSE: GPLv2+
+
+PACKAGE NAME: lib32-iptables-module-xt-udp
+PACKAGE VERSION: 1.8.4
+RECIPE NAME: lib32-iptables
+LICENSE: GPLv2+
+
+PACKAGE NAME: lib32-iptables-modules
+PACKAGE VERSION: 1.8.4
+RECIPE NAME: lib32-iptables
+LICENSE: GPLv2+
+
+PACKAGE NAME: lib32-iptables-rules
+PACKAGE VERSION: 1.0
+RECIPE NAME: lib32-iptables-rules
+LICENSE: CLOSED
+
+PACKAGE NAME: lib32-iso639util
+PACKAGE VERSION: 1.0
+RECIPE NAME: lib32-iso639util
+LICENSE: CLOSED
+
+PACKAGE NAME: lib32-iw
+PACKAGE VERSION: 5.4
+RECIPE NAME: lib32-iw
+LICENSE: BSD-2-Clause
+
+PACKAGE NAME: lib32-jansson
+PACKAGE VERSION: 2.9
+RECIPE NAME: lib32-jansson
+LICENSE: MIT
+
+PACKAGE NAME: lib32-journald-sandbox
+PACKAGE VERSION: 1.0
+RECIPE NAME: lib32-journald-sandbox
+LICENSE: CLOSED
+
+PACKAGE NAME: lib32-json-c
+PACKAGE VERSION: 0.13.1
+RECIPE NAME: lib32-json-c
+LICENSE: MIT
+
+PACKAGE NAME: lib32-json-tool
+PACKAGE VERSION: 1.0
+RECIPE NAME: lib32-json-tool
+LICENSE: CLOSED
+
+PACKAGE NAME: lib32-jsoncpp
+PACKAGE VERSION: 1.7.7
+RECIPE NAME: lib32-jsoncpp
+LICENSE: MIT
+
+PACKAGE NAME: lib32-jsonrpc
+PACKAGE VERSION: 1.3.0
+RECIPE NAME: lib32-jsonrpc
+LICENSE: MIT
+
+PACKAGE NAME: lib32-kernel-oops-proc-logger
+PACKAGE VERSION: 1.0
+RECIPE NAME: lib32-kernel-oops-proc-logger
+LICENSE: CLOSED
+
+PACKAGE NAME: lib32-keyconverter
+PACKAGE VERSION: 1.0
+RECIPE NAME: lib32-keyconverter
+LICENSE: CLOSED
+
+PACKAGE NAME: lib32-keycounter
+PACKAGE VERSION: 1.0
+RECIPE NAME: lib32-keycounter
+LICENSE: CLOSED
+
+PACKAGE NAME: lib32-keyinjector
+PACKAGE VERSION: 1.0
+RECIPE NAME: lib32-keyinjector
+LICENSE: CLOSED
+
+PACKAGE NAME: lib32-keyutils
+PACKAGE VERSION: 1.6.1
+RECIPE NAME: lib32-keyutils
+LICENSE: LGPLv2.1+ & GPLv2.0+
+
+PACKAGE NAME: lib32-kmod
+PACKAGE VERSION: 26
+RECIPE NAME: lib32-kmod
+LICENSE: GPL-2.0+ & LGPL-2.1+
+
+PACKAGE NAME: lib32-lgias
+PACKAGE VERSION: 1.0
+RECIPE NAME: lib32-lgias
+LICENSE: CLOSED
+
+PACKAGE NAME: lib32-lgias-ro
+PACKAGE VERSION: 1.0
+RECIPE NAME: lib32-lgias
+LICENSE: CLOSED
+
+PACKAGE NAME: lib32-lgigetbspass
+PACKAGE VERSION: 1.0
+RECIPE NAME: lib32-lgigetbspass
+LICENSE: CLOSED
+
+PACKAGE NAME: lib32-lgigetpass
+PACKAGE VERSION: 1.0
+RECIPE NAME: lib32-lgigetpass
+LICENSE: CLOSED
+
+PACKAGE NAME: lib32-lgioui
+PACKAGE VERSION: 1.0
+RECIPE NAME: lib32-lgioui
+LICENSE: CLOSED
+
+PACKAGE NAME: lib32-libarchive
+PACKAGE VERSION: 3.4.2
+RECIPE NAME: lib32-libarchive
+LICENSE: BSD-2-Clause
+
+PACKAGE NAME: lib32-libatasmart
+PACKAGE VERSION: 0.19
+RECIPE NAME: lib32-libatasmart
+LICENSE: LGPLv2.1
+
+PACKAGE NAME: lib32-libatomic
+PACKAGE VERSION: 9.3.0
+RECIPE NAME: lib32-gcc-runtime
+LICENSE: GPL-3.0-with-GCC-exception
+
+PACKAGE NAME: lib32-libattr
+PACKAGE VERSION: 2.4.48
+RECIPE NAME: lib32-attr
+LICENSE: LGPLv2.1+
+
+PACKAGE NAME: lib32-libbz2
+PACKAGE VERSION: 1.0.8
+RECIPE NAME: lib32-bzip2
+LICENSE: bzip2-1.0.6
+
+PACKAGE NAME: lib32-libcap
+PACKAGE VERSION: 2.32
+RECIPE NAME: lib32-libcap
+LICENSE: BSD-3-Clause | GPLv2
+
+PACKAGE NAME: lib32-libcomerr
+PACKAGE VERSION: 1.45.7
+RECIPE NAME: lib32-e2fsprogs
+LICENSE: GPLv2 & LGPLv2 & BSD-3-Clause & MIT
+
+PACKAGE NAME: lib32-libconfig
+PACKAGE VERSION: 1.7.2
+RECIPE NAME: lib32-libconfig
+LICENSE: LGPLv2.1
+
+PACKAGE NAME: lib32-libcrypto
+PACKAGE VERSION: 1.1.1l
+RECIPE NAME: lib32-openssl
+LICENSE: openssl
+
+PACKAGE NAME: lib32-libcurl
+PACKAGE VERSION: 7.83.0
+RECIPE NAME: lib32-curl
+LICENSE: MIT-open-group
+
+PACKAGE NAME: lib32-libdash
+PACKAGE VERSION: git-f5b5d991af5fe5f285e8040c997b755d3d456b0d
+RECIPE NAME: lib32-libdash
+LICENSE: LGPLv2.1+
+
+PACKAGE NAME: lib32-libdevmapper
+PACKAGE VERSION: 2.03.06
+RECIPE NAME: lib32-lvm2
+LICENSE: GPLv2 & LGPLv2.1
+
+PACKAGE NAME: lib32-libdrm
+PACKAGE VERSION: 2.4.101
+RECIPE NAME: lib32-libdrm
+LICENSE: MIT
+
+PACKAGE NAME: lib32-libe2p
+PACKAGE VERSION: 1.45.7
+RECIPE NAME: lib32-e2fsprogs
+LICENSE: GPLv2 & LGPLv2 & BSD-3-Clause & MIT
+
+PACKAGE NAME: lib32-libeet
+PACKAGE VERSION: 1.18.0
+RECIPE NAME: lib32-efl
+LICENSE: MIT & BSD
+
+PACKAGE NAME: lib32-libepoxy
+PACKAGE VERSION: 1.5.3
+RECIPE NAME: lib32-libepoxy
+LICENSE: MIT
+
+PACKAGE NAME: lib32-liberation-fonts
+PACKAGE VERSION: 2.00.1
+RECIPE NAME: lib32-liberation-fonts
+LICENSE: OFL-1.1
+
+PACKAGE NAME: lib32-libevdev
+PACKAGE VERSION: 1.8.0
+RECIPE NAME: lib32-libevdev
+LICENSE: MIT-X
+
+PACKAGE NAME: lib32-libevent
+PACKAGE VERSION: 2.1.11
+RECIPE NAME: lib32-libevent
+LICENSE: BSD & MIT
+
+PACKAGE NAME: lib32-libevent-core
+PACKAGE VERSION: 2.1.11
+RECIPE NAME: lib32-libevent
+LICENSE: BSD & MIT
+
+PACKAGE NAME: lib32-libext2fs
+PACKAGE VERSION: 1.45.7
+RECIPE NAME: lib32-e2fsprogs
+LICENSE: GPLv2 & LGPLv2 & BSD-3-Clause & MIT
+
+PACKAGE NAME: lib32-libffi
+PACKAGE VERSION: 3.3
+RECIPE NAME: lib32-libffi
+LICENSE: MIT
+
+PACKAGE NAME: lib32-libflac
+PACKAGE VERSION: 1.3.3
+RECIPE NAME: lib32-flac
+LICENSE: GFDL-1.2 & GPLv2+ & LGPLv2.1+ & BSD
+
+PACKAGE NAME: lib32-libgcc
+PACKAGE VERSION: 9.3.0
+RECIPE NAME: lib32-libgcc
+LICENSE: GPL-3.0-with-GCC-exception
+
+PACKAGE NAME: lib32-libgcrypt
+PACKAGE VERSION: 1.8.5
+RECIPE NAME: lib32-libgcrypt
+LICENSE: LGPLv2.1+
+
+PACKAGE NAME: lib32-libgpg-error
+PACKAGE VERSION: 1.37
+RECIPE NAME: lib32-libgpg-error
+LICENSE: GPLv2+ & LGPLv2.1+
+
+PACKAGE NAME: lib32-libgstadaptivedemux-1.0
+PACKAGE VERSION: 1.18.5
+RECIPE NAME: lib32-gstreamer1.0-plugins-bad
+LICENSE: GPLv2+ & LGPLv2+ & LGPLv2.1+
+
+PACKAGE NAME: lib32-libgstallocators-1.0
+PACKAGE VERSION: 1.18.5
+RECIPE NAME: lib32-gstreamer1.0-plugins-base
+LICENSE: GPLv2+ & LGPLv2+
+
+PACKAGE NAME: lib32-libgstapp-1.0
+PACKAGE VERSION: 1.18.5
+RECIPE NAME: lib32-gstreamer1.0-plugins-base
+LICENSE: GPLv2+ & LGPLv2+
+
+PACKAGE NAME: lib32-libgstaudio-1.0
+PACKAGE VERSION: 1.18.5
+RECIPE NAME: lib32-gstreamer1.0-plugins-base
+LICENSE: GPLv2+ & LGPLv2+
+
+PACKAGE NAME: lib32-libgstaudioplayer
+PACKAGE VERSION: 1.0
+RECIPE NAME: lib32-libgstaudioplayer
+LICENSE: CLOSED
+
+PACKAGE NAME: lib32-libgstbadaudio-1.0
+PACKAGE VERSION: 1.18.5
+RECIPE NAME: lib32-gstreamer1.0-plugins-bad
+LICENSE: GPLv2+ & LGPLv2+ & LGPLv2.1+
+
+PACKAGE NAME: lib32-libgstbasecamerabinsrc-1.0
+PACKAGE VERSION: 1.18.5
+RECIPE NAME: lib32-gstreamer1.0-plugins-bad
+LICENSE: GPLv2+ & LGPLv2+ & LGPLv2.1+
+
+PACKAGE NAME: lib32-libgstcodecparsers-1.0
+PACKAGE VERSION: 1.18.5
+RECIPE NAME: lib32-gstreamer1.0-plugins-bad
+LICENSE: GPLv2+ & LGPLv2+ & LGPLv2.1+
+
+PACKAGE NAME: lib32-libgstcodecs-1.0
+PACKAGE VERSION: 1.18.5
+RECIPE NAME: lib32-gstreamer1.0-plugins-bad
+LICENSE: GPLv2+ & LGPLv2+ & LGPLv2.1+
+
+PACKAGE NAME: lib32-libgstfft-1.0
+PACKAGE VERSION: 1.18.5
+RECIPE NAME: lib32-gstreamer1.0-plugins-base
+LICENSE: GPLv2+ & LGPLv2+
+
+PACKAGE NAME: lib32-libgstinsertbin-1.0
+PACKAGE VERSION: 1.18.5
+RECIPE NAME: lib32-gstreamer1.0-plugins-bad
+LICENSE: GPLv2+ & LGPLv2+ & LGPLv2.1+
+
+PACKAGE NAME: lib32-libgstisoff-1.0
+PACKAGE VERSION: 1.18.5
+RECIPE NAME: lib32-gstreamer1.0-plugins-bad
+LICENSE: GPLv2+ & LGPLv2+ & LGPLv2.1+
+
+PACKAGE NAME: lib32-libgstmpegts-1.0
+PACKAGE VERSION: 1.18.5
+RECIPE NAME: lib32-gstreamer1.0-plugins-bad
+LICENSE: GPLv2+ & LGPLv2+ & LGPLv2.1+
+
+PACKAGE NAME: lib32-libgstpbutils-1.0
+PACKAGE VERSION: 1.18.5
+RECIPE NAME: lib32-gstreamer1.0-plugins-base
+LICENSE: GPLv2+ & LGPLv2+
+
+PACKAGE NAME: lib32-libgstphotography-1.0
+PACKAGE VERSION: 1.18.5
+RECIPE NAME: lib32-gstreamer1.0-plugins-bad
+LICENSE: GPLv2+ & LGPLv2+ & LGPLv2.1+
+
+PACKAGE NAME: lib32-libgstplayer-1.0
+PACKAGE VERSION: 1.18.5
+RECIPE NAME: lib32-gstreamer1.0-plugins-bad
+LICENSE: GPLv2+ & LGPLv2+ & LGPLv2.1+
+
+PACKAGE NAME: lib32-libgstriff-1.0
+PACKAGE VERSION: 1.18.5
+RECIPE NAME: lib32-gstreamer1.0-plugins-base
+LICENSE: GPLv2+ & LGPLv2+
+
+PACKAGE NAME: lib32-libgstrtp-1.0
+PACKAGE VERSION: 1.18.5
+RECIPE NAME: lib32-gstreamer1.0-plugins-base
+LICENSE: GPLv2+ & LGPLv2+
+
+PACKAGE NAME: lib32-libgstrtsp-1.0
+PACKAGE VERSION: 1.18.5
+RECIPE NAME: lib32-gstreamer1.0-plugins-base
+LICENSE: GPLv2+ & LGPLv2+
+
+PACKAGE NAME: lib32-libgstsctp-1.0
+PACKAGE VERSION: 1.18.5
+RECIPE NAME: lib32-gstreamer1.0-plugins-bad
+LICENSE: GPLv2+ & LGPLv2+ & LGPLv2.1+
+
+PACKAGE NAME: lib32-libgstsdp-1.0
+PACKAGE VERSION: 1.18.5
+RECIPE NAME: lib32-gstreamer1.0-plugins-base
+LICENSE: GPLv2+ & LGPLv2+
+
+PACKAGE NAME: lib32-libgsttag-1.0
+PACKAGE VERSION: 1.18.5
+RECIPE NAME: lib32-gstreamer1.0-plugins-base
+LICENSE: GPLv2+ & LGPLv2+
+
+PACKAGE NAME: lib32-libgsttranscoder-1.0
+PACKAGE VERSION: 1.18.5
+RECIPE NAME: lib32-gstreamer1.0-plugins-bad
+LICENSE: GPLv2+ & LGPLv2+ & LGPLv2.1+
+
+PACKAGE NAME: lib32-libgsturidownloader-1.0
+PACKAGE VERSION: 1.18.5
+RECIPE NAME: lib32-gstreamer1.0-plugins-bad
+LICENSE: GPLv2+ & LGPLv2+ & LGPLv2.1+
+
+PACKAGE NAME: lib32-libgstvideo-1.0
+PACKAGE VERSION: 1.18.5
+RECIPE NAME: lib32-gstreamer1.0-plugins-base
+LICENSE: GPLv2+ & LGPLv2+
+
+PACKAGE NAME: lib32-libgstwebrtc-1.0
+PACKAGE VERSION: 1.18.5
+RECIPE NAME: lib32-gstreamer1.0-plugins-bad
+LICENSE: GPLv2+ & LGPLv2+ & LGPLv2.1+
+
+PACKAGE NAME: lib32-libgudev
+PACKAGE VERSION: 233
+RECIPE NAME: lib32-libgudev
+LICENSE: LGPLv2.1
+
+PACKAGE NAME: lib32-libicudata
+PACKAGE VERSION: 72.1
+RECIPE NAME: lib32-icu
+LICENSE: ICU
+
+PACKAGE NAME: lib32-libicui18n
+PACKAGE VERSION: 72.1
+RECIPE NAME: lib32-icu
+LICENSE: ICU
+
+PACKAGE NAME: lib32-libicuuc
+PACKAGE VERSION: 72.1
+RECIPE NAME: lib32-icu
+LICENSE: ICU
+
+PACKAGE NAME: lib32-libinput
+PACKAGE VERSION: 1.15.2
+RECIPE NAME: lib32-libinput
+LICENSE: MIT
+
+PACKAGE NAME: lib32-libjpeg-turbo
+PACKAGE VERSION: 1.5.1
+RECIPE NAME: lib32-libjpeg-turbo
+LICENSE: BSD-3-Clause
+
+PACKAGE NAME: lib32-libkmod
+PACKAGE VERSION: 26
+RECIPE NAME: lib32-kmod
+LICENSE: LGPL-2.1+
+
+PACKAGE NAME: lib32-liblgicerttools
+PACKAGE VERSION: 1.0
+RECIPE NAME: lib32-liblgicerttools
+LICENSE: CLOSED
+
+PACKAGE NAME: lib32-libloader-app
+PACKAGE VERSION: 23.lts.stable
+RECIPE NAME: lib32-libloader-app
+LICENSE: BSD-3-Clause & Apache-2.0
+
+PACKAGE NAME: lib32-liblzma
+PACKAGE VERSION: 5.2.4
+RECIPE NAME: lib32-xz
+LICENSE: PD
+
+PACKAGE NAME: lib32-libmntfsimg
+PACKAGE VERSION: 1.0
+RECIPE NAME: lib32-libmntfsimg
+LICENSE: CLOSED
+
+PACKAGE NAME: lib32-libmxml
+PACKAGE VERSION: 2.12+gitAUTOINC+ba3cca82e1
+RECIPE NAME: lib32-libmxml
+LICENSE: Mini-XML-License
+
+PACKAGE NAME: lib32-libnl
+PACKAGE VERSION: 3.5.0
+RECIPE NAME: lib32-libnl
+LICENSE: LGPLv2.1
+
+PACKAGE NAME: lib32-libnl-genl
+PACKAGE VERSION: 3.5.0
+RECIPE NAME: lib32-libnl
+LICENSE: LGPLv2.1
+
+PACKAGE NAME: lib32-libnss-myhostname
+PACKAGE VERSION: 244.5
+RECIPE NAME: lib32-systemd
+LICENSE: GPLv2 & LGPLv2.1
+
+PACKAGE NAME: lib32-libodherr
+PACKAGE VERSION: 1.0
+RECIPE NAME: lib32-libodherr
+LICENSE: CLOSED
+
+PACKAGE NAME: lib32-libodhott
+PACKAGE VERSION: 1.0
+RECIPE NAME: lib32-libodhott
+LICENSE: CLOSED
+
+PACKAGE NAME: lib32-libogg
+PACKAGE VERSION: 1.3.4
+RECIPE NAME: lib32-libogg
+LICENSE: BSD-3-Clause
+
+PACKAGE NAME: lib32-libopus
+PACKAGE VERSION: 1.3.1
+RECIPE NAME: lib32-libopus
+LICENSE: BSD-3-Clause
+
+PACKAGE NAME: lib32-libpam
+PACKAGE VERSION: 1.3.1
+RECIPE NAME: lib32-libpam
+LICENSE: GPLv2+ | BSD
+
+PACKAGE NAME: lib32-libpam-runtime
+PACKAGE VERSION: 1.3.1
+RECIPE NAME: lib32-libpam
+LICENSE: GPLv2+ | BSD
+
+PACKAGE NAME: lib32-libpci
+PACKAGE VERSION: 3.6.4
+RECIPE NAME: lib32-pciutils
+LICENSE: GPLv2+
+
+PACKAGE NAME: lib32-libpcre
+PACKAGE VERSION: 8.39
+RECIPE NAME: lib32-libpcre
+LICENSE: BSD
+
+PACKAGE NAME: lib32-libpcre2-16
+PACKAGE VERSION: 10.34
+RECIPE NAME: lib32-libpcre2
+LICENSE: BSD-3-Clause
+
+PACKAGE NAME: lib32-libpng
+PACKAGE VERSION: 1.6.37
+RECIPE NAME: lib32-libpng
+LICENSE: Libpng
+
+PACKAGE NAME: lib32-libpwrstatewatcher
+PACKAGE VERSION: 1.0
+RECIPE NAME: lib32-libpwrstatewatcher
+LICENSE: CLOSED
+
+PACKAGE NAME: lib32-libsoup-2.4
+PACKAGE VERSION: 2.58.1
+RECIPE NAME: lib32-libsoup-2.4
+LICENSE: LGPLv2
+
+PACKAGE NAME: lib32-libsqlite3
+PACKAGE VERSION: 3.35.3
+RECIPE NAME: lib32-sqlite3
+LICENSE: PD
+
+PACKAGE NAME: lib32-libssl
+PACKAGE VERSION: 1.1.1l
+RECIPE NAME: lib32-openssl
+LICENSE: openssl
+
+PACKAGE NAME: lib32-libstdc++
+PACKAGE VERSION: 9.3.0
+RECIPE NAME: lib32-gcc-runtime
+LICENSE: GPL-3.0-with-GCC-exception
+
+PACKAGE NAME: lib32-libsystemd
+PACKAGE VERSION: 244.5
+RECIPE NAME: lib32-systemd
+LICENSE: GPLv2 & LGPLv2.1
+
+PACKAGE NAME: lib32-libsyswrapper
+PACKAGE VERSION: 1.0
+RECIPE NAME: lib32-libsyswrapper
+LICENSE: Apache-2.0
+
+PACKAGE NAME: lib32-libtasn1
+PACKAGE VERSION: 4.16.0
+RECIPE NAME: lib32-libtasn1
+LICENSE: LGPLv2.1+
+
+PACKAGE NAME: lib32-libtinyxml
+PACKAGE VERSION: 2.6.2
+RECIPE NAME: lib32-libtinyxml
+LICENSE: Zlib
+
+PACKAGE NAME: lib32-libtinyxml2
+PACKAGE VERSION: 8.0.0
+RECIPE NAME: lib32-libtinyxml2
+LICENSE: Zlib
+
+PACKAGE NAME: lib32-libuapi
+PACKAGE VERSION: 2.0
+RECIPE NAME: lib32-libuapi
+LICENSE: CLOSED
+
+PACKAGE NAME: lib32-libudev
+PACKAGE VERSION: 244.5
+RECIPE NAME: lib32-systemd
+LICENSE: GPLv2 & LGPLv2.1
+
+PACKAGE NAME: lib32-libulockmgr
+PACKAGE VERSION: 2.9.9
+RECIPE NAME: lib32-fuse
+LICENSE: GPLv2 & LGPLv2
+
+PACKAGE NAME: lib32-libunwind
+PACKAGE VERSION: 1.3.1
+RECIPE NAME: lib32-libunwind
+LICENSE: MIT
+
+PACKAGE NAME: lib32-libusb1
+PACKAGE VERSION: 1.0.22
+RECIPE NAME: lib32-libusb1
+LICENSE: LGPLv2.1+
+
+PACKAGE NAME: lib32-libuv
+PACKAGE VERSION: 1.10.2
+RECIPE NAME: lib32-libuv
+LICENSE: MIT
+
+PACKAGE NAME: lib32-libwebp
+PACKAGE VERSION: 0.5.0
+RECIPE NAME: lib32-libwebp
+LICENSE: BSD-3-Clause
+
+PACKAGE NAME: lib32-libx11-compose-data
+PACKAGE VERSION: 1.6.8
+RECIPE NAME: lib32-libx11-compose-data
+LICENSE: MIT & MIT-style & BSD
+
+PACKAGE NAME: lib32-libxcrypt
+PACKAGE VERSION: 4.4.15
+RECIPE NAME: lib32-libxcrypt
+LICENSE: LGPLv2.1
+
+PACKAGE NAME: lib32-libxkbcommon
+PACKAGE VERSION: 0.10.0
+RECIPE NAME: lib32-libxkbcommon
+LICENSE: MIT & MIT-style
+
+PACKAGE NAME: lib32-libxml2
+PACKAGE VERSION: 2.9.10
+RECIPE NAME: lib32-libxml2
+LICENSE: MIT
+
+PACKAGE NAME: lib32-libxslt
+PACKAGE VERSION: 1.1.34
+RECIPE NAME: lib32-libxslt
+LICENSE: MIT
+
+PACKAGE NAME: lib32-libzipir-helper
+PACKAGE VERSION: 1.0.0
+RECIPE NAME: lib32-libzipir-helper
+LICENSE: CLOSED
+
+PACKAGE NAME: lib32-log4c
+PACKAGE VERSION: 1.2.3
+RECIPE NAME: lib32-log4c
+LICENSE: LGPLv2.1
+
+PACKAGE NAME: lib32-logcfg
+PACKAGE VERSION: 1.0
+RECIPE NAME: lib32-logcfg
+LICENSE: CLOSED
+
+PACKAGE NAME: lib32-lvm2-udevrules
+PACKAGE VERSION: 2.03.06
+RECIPE NAME: lib32-lvm2
+LICENSE: GPLv2 & LGPLv2.1
+
+PACKAGE NAME: lib32-lxc
+PACKAGE VERSION: 2.0.6
+RECIPE NAME: lib32-lxc
+LICENSE: LGPLv2.1
+
+PACKAGE NAME: lib32-lxccpid
+PACKAGE VERSION: 1.0
+RECIPE NAME: lib32-lxccpid
+LICENSE: Apache-2.0
+
+PACKAGE NAME: lib32-lzo
+PACKAGE VERSION: 2.10
+RECIPE NAME: lib32-lzo
+LICENSE: GPLv2+
+
+PACKAGE NAME: lib32-mabr-agent
+PACKAGE VERSION: 1.0
+RECIPE NAME: lib32-mabr-agent
+LICENSE: CLOSED
+
+PACKAGE NAME: lib32-mfrlib-vip7002w
+PACKAGE VERSION: 0.6
+RECIPE NAME: lib32-mfrlib-vip7002w
+LICENSE: CLOSED
+
+PACKAGE NAME: lib32-mongoose
+PACKAGE VERSION: 2.6
+RECIPE NAME: lib32-mongoose
+LICENSE: MIT
+
+PACKAGE NAME: lib32-mpg123
+PACKAGE VERSION: 1.25.13
+RECIPE NAME: lib32-mpg123
+LICENSE: LGPLv2.1
+
+PACKAGE NAME: lib32-mtd-utils
+PACKAGE VERSION: 2.1.3
+RECIPE NAME: lib32-mtd-utils
+LICENSE: GPLv2+
+
+PACKAGE NAME: lib32-mtdev
+PACKAGE VERSION: 1.1.6
+RECIPE NAME: lib32-mtdev
+LICENSE: MIT
+
+PACKAGE NAME: lib32-ncurses-libncursesw
+PACKAGE VERSION: 6.2
+RECIPE NAME: lib32-ncurses
+LICENSE: MIT
+
+PACKAGE NAME: lib32-ncurses-libtinfo
+PACKAGE VERSION: 6.2
+RECIPE NAME: lib32-ncurses
+LICENSE: MIT
+
+PACKAGE NAME: lib32-ncurses-terminfo-base
+PACKAGE VERSION: 6.2
+RECIPE NAME: lib32-ncurses
+LICENSE: MIT
+
+PACKAGE NAME: lib32-ndisc6-rdnssd
+PACKAGE VERSION: 1.0.3
+RECIPE NAME: lib32-ndisc6
+LICENSE: GPL-2.0
+
+PACKAGE NAME: lib32-ne10
+PACKAGE VERSION: 1.2.1gitr+AUTOINC+18c4c982a5
+RECIPE NAME: lib32-ne10
+LICENSE: BSD-3-Clause
+
+PACKAGE NAME: lib32-netbase
+PACKAGE VERSION: 6.1
+RECIPE NAME: lib32-netbase
+LICENSE: GPLv2
+
+PACKAGE NAME: lib32-netdiagnostics
+PACKAGE VERSION: 1.00
+RECIPE NAME: lib32-netdiagnostics
+LICENSE: CLOSED
+
+PACKAGE NAME: lib32-netflix
+PACKAGE VERSION: 6.1.1
+RECIPE NAME: lib32-netflix
+LICENSE: CLOSED
+
+PACKAGE NAME: lib32-netflix-launcher
+PACKAGE VERSION: git
+RECIPE NAME: lib32-netflix-launcher
+LICENSE: Apache-2.0
+
+PACKAGE NAME: lib32-netflix-rdk-appmodule
+PACKAGE VERSION: 1.0.0
+RECIPE NAME: lib32-netflix-rdk-appmodule
+LICENSE: CLOSED
+
+PACKAGE NAME: lib32-netflixgibbon
+PACKAGE VERSION: 6.1
+RECIPE NAME: lib32-netflixgibbon
+LICENSE: CLOSED
+
+PACKAGE NAME: lib32-nghttp2
+PACKAGE VERSION: 1.26.0
+RECIPE NAME: lib32-nghttp2
+LICENSE: MIT
+
+PACKAGE NAME: lib32-nginx
+PACKAGE VERSION: 1.21.1
+RECIPE NAME: lib32-nginx
+LICENSE: BSD-2-Clause
+
+PACKAGE NAME: lib32-nginxcfg
+PACKAGE VERSION: 0.5.1
+RECIPE NAME: lib32-nginxcfg
+LICENSE: CLOSED
+
+PACKAGE NAME: lib32-nodejs
+PACKAGE VERSION: 12.22.12
+RECIPE NAME: lib32-nodejs
+LICENSE: MIT
+
+PACKAGE NAME: lib32-nodejs-modules
+PACKAGE VERSION: 1.0
+RECIPE NAME: lib32-nodejs-modules
+LICENSE: MIT & ISC & Apache-2 & FIPL-1.0 & BSD-2-Clause
+
+PACKAGE NAME: lib32-nopoll
+PACKAGE VERSION: 0.3.2.b232
+RECIPE NAME: lib32-nopoll
+LICENSE: LGPL-2.1
+
+PACKAGE NAME: lib32-oemdatatool-powercheck
+PACKAGE VERSION: 1.0
+RECIPE NAME: lib32-oemdatatool-powercheck
+LICENSE: CLOSED
+
+PACKAGE NAME: lib32-om-netconfig
+PACKAGE VERSION: 1.0
+RECIPE NAME: lib32-om-netconfig
+LICENSE: CLOSED
+
+PACKAGE NAME: lib32-omni-libsci
+PACKAGE VERSION: 1.0
+RECIPE NAME: lib32-omni-libsci
+LICENSE: CLOSED
+
+PACKAGE NAME: lib32-omni-libsimplesetup
+PACKAGE VERSION: 1.0
+RECIPE NAME: lib32-omni-libsimplesetup
+LICENSE: CLOSED
+
+PACKAGE NAME: lib32-onesdk
+PACKAGE VERSION: 1.7.0
+RECIPE NAME: lib32-onesdk
+LICENSE: CLOSED
+
+PACKAGE NAME: lib32-onetmonitor
+PACKAGE VERSION: 1.0
+RECIPE NAME: lib32-onetmonitor
+LICENSE: CLOSED
+
+PACKAGE NAME: lib32-openntpd
+PACKAGE VERSION: 6.1p1
+RECIPE NAME: lib32-openntpd
+LICENSE: BSD
+
+PACKAGE NAME: lib32-openssl
+PACKAGE VERSION: 1.1.1l
+RECIPE NAME: lib32-openssl
+LICENSE: openssl
+
+PACKAGE NAME: lib32-openssl-bin
+PACKAGE VERSION: 1.1.1l
+RECIPE NAME: lib32-openssl
+LICENSE: openssl
+
+PACKAGE NAME: lib32-openssl-conf
+PACKAGE VERSION: 1.1.1l
+RECIPE NAME: lib32-openssl
+LICENSE: openssl
+
+PACKAGE NAME: lib32-os-release
+PACKAGE VERSION: 1.0
+RECIPE NAME: lib32-os-release
+LICENSE: MIT
+
+PACKAGE NAME: lib32-packagegroup-base
+PACKAGE VERSION: 1.0
+RECIPE NAME: lib32-packagegroup-base
+LICENSE: MIT
+
+PACKAGE NAME: lib32-packagegroup-base-extended
+PACKAGE VERSION: 1.0
+RECIPE NAME: lib32-packagegroup-base
+LICENSE: MIT
+
+PACKAGE NAME: lib32-packagegroup-base-ipv6
+PACKAGE VERSION: 1.0
+RECIPE NAME: lib32-packagegroup-base
+LICENSE: MIT
+
+PACKAGE NAME: lib32-packagegroup-base-usbhost
+PACKAGE VERSION: 1.0
+RECIPE NAME: lib32-packagegroup-base
+LICENSE: MIT
+
+PACKAGE NAME: lib32-packagegroup-base-wifi
+PACKAGE VERSION: 1.0
+RECIPE NAME: lib32-packagegroup-base
+LICENSE: MIT
+
+PACKAGE NAME: lib32-packagegroup-core-boot
+PACKAGE VERSION: 1.0
+RECIPE NAME: lib32-packagegroup-core-boot
+LICENSE: MIT
+
+PACKAGE NAME: lib32-packagegroup-distro-base
+PACKAGE VERSION: 1.0
+RECIPE NAME: lib32-packagegroup-base
+LICENSE: MIT
+
+PACKAGE NAME: lib32-packagegroup-lgi-app
+PACKAGE VERSION: 1.0
+RECIPE NAME: lib32-packagegroup-lgi-app
+LICENSE: CLOSED
+
+PACKAGE NAME: lib32-packagegroup-lgi-om
+PACKAGE VERSION: 1.0
+RECIPE NAME: lib32-packagegroup-lgi-om
+LICENSE: CLOSED
+
+PACKAGE NAME: lib32-packagegroup-lgi-platform
+PACKAGE VERSION: 1.0
+RECIPE NAME: lib32-packagegroup-lgi-platform
+LICENSE: CLOSED
+
+PACKAGE NAME: lib32-packagegroup-lgi-rdk
+PACKAGE VERSION: 1.0
+RECIPE NAME: lib32-packagegroup-lgi-rdk
+LICENSE: CLOSED
+
+PACKAGE NAME: lib32-packagegroup-lgi-tr69
+PACKAGE VERSION: 1.0
+RECIPE NAME: lib32-packagegroup-lgi-tr69
+LICENSE: CLOSED
+
+PACKAGE NAME: lib32-packagegroup-machine-base
+PACKAGE VERSION: 1.0
+RECIPE NAME: lib32-packagegroup-base
+LICENSE: MIT
+
+PACKAGE NAME: lib32-pam-plugin-deny
+PACKAGE VERSION: 1.3.1
+RECIPE NAME: lib32-libpam
+LICENSE: GPLv2+ | BSD
+
+PACKAGE NAME: lib32-pam-plugin-env
+PACKAGE VERSION: 1.3.1
+RECIPE NAME: lib32-libpam
+LICENSE: GPLv2+ | BSD
+
+PACKAGE NAME: lib32-pam-plugin-faildelay
+PACKAGE VERSION: 1.3.1
+RECIPE NAME: lib32-libpam
+LICENSE: GPLv2+ | BSD
+
+PACKAGE NAME: lib32-pam-plugin-group
+PACKAGE VERSION: 1.3.1
+RECIPE NAME: lib32-libpam
+LICENSE: GPLv2+ | BSD
+
+PACKAGE NAME: lib32-pam-plugin-keyinit
+PACKAGE VERSION: 1.3.1
+RECIPE NAME: lib32-libpam
+LICENSE: GPLv2+ | BSD
+
+PACKAGE NAME: lib32-pam-plugin-lastlog
+PACKAGE VERSION: 1.3.1
+RECIPE NAME: lib32-libpam
+LICENSE: GPLv2+ | BSD
+
+PACKAGE NAME: lib32-pam-plugin-limits
+PACKAGE VERSION: 1.3.1
+RECIPE NAME: lib32-libpam
+LICENSE: GPLv2+ | BSD
+
+PACKAGE NAME: lib32-pam-plugin-loginuid
+PACKAGE VERSION: 1.3.1
+RECIPE NAME: lib32-libpam
+LICENSE: GPLv2+ | BSD
+
+PACKAGE NAME: lib32-pam-plugin-mail
+PACKAGE VERSION: 1.3.1
+RECIPE NAME: lib32-libpam
+LICENSE: GPLv2+ | BSD
+
+PACKAGE NAME: lib32-pam-plugin-motd
+PACKAGE VERSION: 1.3.1
+RECIPE NAME: lib32-libpam
+LICENSE: GPLv2+ | BSD
+
+PACKAGE NAME: lib32-pam-plugin-nologin
+PACKAGE VERSION: 1.3.1
+RECIPE NAME: lib32-libpam
+LICENSE: GPLv2+ | BSD
+
+PACKAGE NAME: lib32-pam-plugin-permit
+PACKAGE VERSION: 1.3.1
+RECIPE NAME: lib32-libpam
+LICENSE: GPLv2+ | BSD
+
+PACKAGE NAME: lib32-pam-plugin-rootok
+PACKAGE VERSION: 1.3.1
+RECIPE NAME: lib32-libpam
+LICENSE: GPLv2+ | BSD
+
+PACKAGE NAME: lib32-pam-plugin-securetty
+PACKAGE VERSION: 1.3.1
+RECIPE NAME: lib32-libpam
+LICENSE: GPLv2+ | BSD
+
+PACKAGE NAME: lib32-pam-plugin-shells
+PACKAGE VERSION: 1.3.1
+RECIPE NAME: lib32-libpam
+LICENSE: GPLv2+ | BSD
+
+PACKAGE NAME: lib32-pam-plugin-unix
+PACKAGE VERSION: 1.3.1
+RECIPE NAME: lib32-libpam
+LICENSE: GPLv2+ | BSD
+
+PACKAGE NAME: lib32-pam-plugin-warn
+PACKAGE VERSION: 1.3.1
+RECIPE NAME: lib32-libpam
+LICENSE: GPLv2+ | BSD
+
+PACKAGE NAME: lib32-passphrase-proxy
+PACKAGE VERSION: 1.0
+RECIPE NAME: lib32-passphrase-proxy
+LICENSE: CLOSED
+
+PACKAGE NAME: lib32-pciutils
+PACKAGE VERSION: 3.6.4
+RECIPE NAME: lib32-pciutils
+LICENSE: GPLv2+
+
+PACKAGE NAME: lib32-pciutils-ids
+PACKAGE VERSION: 3.6.4
+RECIPE NAME: lib32-pciutils
+LICENSE: GPLv2+
+
+PACKAGE NAME: lib32-pinfo
+PACKAGE VERSION: 0.0
+RECIPE NAME: lib32-pinfo
+LICENSE: CLOSED
+
+PACKAGE NAME: lib32-pixman
+PACKAGE VERSION: 0.38.4
+RECIPE NAME: lib32-pixman
+LICENSE: MIT & MIT-style & PD
+
+PACKAGE NAME: lib32-platform-drivers
+PACKAGE VERSION: 1.0
+RECIPE NAME: lib32-platform-drivers
+LICENSE: CLOSED
+
+PACKAGE NAME: lib32-playready-platform-brcm
+PACKAGE VERSION: 1.0
+RECIPE NAME: lib32-playready-platform-brcm
+LICENSE: CLOSED
+
+PACKAGE NAME: lib32-polkit
+PACKAGE VERSION: 0.119
+RECIPE NAME: lib32-polkit
+LICENSE: LGPL-2.0-or-later
+
+PACKAGE NAME: lib32-popt
+PACKAGE VERSION: 1.16
+RECIPE NAME: lib32-popt
+LICENSE: MIT
+
+PACKAGE NAME: lib32-powerstatetracker
+PACKAGE VERSION: 1.0
+RECIPE NAME: lib32-powerstatetracker
+LICENSE: CLOSED
+
+PACKAGE NAME: lib32-procps
+PACKAGE VERSION: 3.3.16
+RECIPE NAME: lib32-procps
+LICENSE: GPLv2+ & LGPLv2+
+
+PACKAGE NAME: lib32-protobuf
+PACKAGE VERSION: 3.11.4
+RECIPE NAME: lib32-protobuf
+LICENSE: BSD-3-Clause
+
+PACKAGE NAME: lib32-protobuf-lite
+PACKAGE VERSION: 3.11.4
+RECIPE NAME: lib32-protobuf
+LICENSE: BSD-3-Clause
+
+PACKAGE NAME: lib32-pwrprechangewatcher
+PACKAGE VERSION: 1.0
+RECIPE NAME: lib32-pwrprechangewatcher
+LICENSE: CLOSED
+
+PACKAGE NAME: lib32-qtbase
+PACKAGE VERSION: 5.14.2+gitAUTOINC+3a6d8df521
+RECIPE NAME: lib32-qtbase
+LICENSE: GFDL-1.3 & BSD & ( & The-Qt-Company-GPL-Exception-1.0 | The-Qt-Company-Commercial) & (GPL-2.0+ | The-Qt-Company-Commercial)
+
+PACKAGE NAME: lib32-qtbase-plugins
+PACKAGE VERSION: 5.14.2+gitAUTOINC+3a6d8df521
+RECIPE NAME: lib32-qtbase
+LICENSE: GFDL-1.3 & BSD & ( & The-Qt-Company-GPL-Exception-1.0 | The-Qt-Company-Commercial) & (GPL-2.0+ | The-Qt-Company-Commercial)
+
+PACKAGE NAME: lib32-qtbase-qmlplugins
+PACKAGE VERSION: 5.14.2+gitAUTOINC+3a6d8df521
+RECIPE NAME: lib32-qtbase
+LICENSE: GFDL-1.3 & BSD & ( & The-Qt-Company-GPL-Exception-1.0 | The-Qt-Company-Commercial) & (GPL-2.0+ | The-Qt-Company-Commercial)
+
+PACKAGE NAME: lib32-rcu-firmware
+PACKAGE VERSION: 1.0
+RECIPE NAME: lib32-rcu-firmware
+LICENSE: CLOSED
+
+PACKAGE NAME: lib32-rdk-gstreamer-utils
+PACKAGE VERSION: 1.0
+RECIPE NAME: lib32-rdk-gstreamer-utils
+LICENSE: Apache-2.0
+
+PACKAGE NAME: lib32-rdk-logger
+PACKAGE VERSION: RDKV_2022Q3_DUNFELL
+RECIPE NAME: lib32-rdk-logger
+LICENSE: LGPLv2.1+
+
+PACKAGE NAME: lib32-rdkservice-deviceidentification
+PACKAGE VERSION: 3.0+gitAUTOINC+9fa3eb9a0c
+RECIPE NAME: lib32-rdkservice-deviceidentification
+LICENSE: Apache-2.0
+
+PACKAGE NAME: lib32-rdkservice-displayinfo
+PACKAGE VERSION: 3.0+gitAUTOINC+9fa3eb9a0c
+RECIPE NAME: lib32-rdkservice-displayinfo
+LICENSE: Apache-2.0
+
+PACKAGE NAME: lib32-rdkservice-displaysettings
+PACKAGE VERSION: 3.0+gitAUTOINC+9fa3eb9a0c
+RECIPE NAME: lib32-rdkservice-displaysettings
+LICENSE: Apache-2.0
+
+PACKAGE NAME: lib32-rdkservice-hdcpprofile
+PACKAGE VERSION: 3.0+gitAUTOINC+9fa3eb9a0c
+RECIPE NAME: lib32-rdkservice-hdcpprofile
+LICENSE: Apache-2.0
+
+PACKAGE NAME: lib32-rdkservice-hdmicec
+PACKAGE VERSION: 3.0+gitAUTOINC+9fa3eb9a0c
+RECIPE NAME: lib32-rdkservice-hdmicec
+LICENSE: Apache-2.0
+
+PACKAGE NAME: lib32-rdkservice-lgi-network
+PACKAGE VERSION: 3.0+gitAUTOINC+9fa3eb9a0c
+RECIPE NAME: lib32-rdkservice-lgi-network
+LICENSE: Apache-2.0
+
+PACKAGE NAME: lib32-rdkservice-lgi-system
+PACKAGE VERSION: 3.0+gitAUTOINC+9fa3eb9a0c
+RECIPE NAME: lib32-rdkservice-lgi-system
+LICENSE: Apache-2.0
+
+PACKAGE NAME: lib32-rdkservice-lgi-texttospeech
+PACKAGE VERSION: 3.0+gitAUTOINC+9fa3eb9a0c
+RECIPE NAME: lib32-rdkservice-lgi-texttospeech
+LICENSE: Apache-2.0
+
+PACKAGE NAME: lib32-rdkservice-ocdm
+PACKAGE VERSION: 3.0+gitAUTOINC+9fa3eb9a0c
+RECIPE NAME: lib32-rdkservice-ocdm
+LICENSE: Apache-2.0
+
+PACKAGE NAME: lib32-rdkservice-playerinfo
+PACKAGE VERSION: 3.0+gitAUTOINC+9fa3eb9a0c
+RECIPE NAME: lib32-rdkservice-playerinfo
+LICENSE: Apache-2.0
+
+PACKAGE NAME: lib32-rdkservice-xcast
+PACKAGE VERSION: 3.0+gitAUTOINC+9fa3eb9a0c
+RECIPE NAME: lib32-rdkservice-xcast
+LICENSE: Apache-2.0
+
+PACKAGE NAME: lib32-rdkservices
+PACKAGE VERSION: 3.0+git999
+RECIPE NAME: lib32-rdkservices
+LICENSE: Apache-2.0
+
+PACKAGE NAME: lib32-rdnssd
+PACKAGE VERSION: 1.0
+RECIPE NAME: lib32-rdnssd
+LICENSE: CLOSED
+
+PACKAGE NAME: lib32-read-only-mounts
+PACKAGE VERSION: 1.0
+RECIPE NAME: lib32-read-only-mounts
+LICENSE: CLOSED
+
+PACKAGE NAME: lib32-rescueloader-setcurrenttimeepoch
+PACKAGE VERSION: 1.0
+RECIPE NAME: lib32-rescueloader-setcurrenttimeepoch
+LICENSE: CLOSED
+
+PACKAGE NAME: lib32-rf4ce-srv
+PACKAGE VERSION: 0.0
+RECIPE NAME: lib32-rf4ce-srv
+LICENSE: CLOSED
+
+PACKAGE NAME: lib32-rfc
+PACKAGE VERSION: RDKV_2022Q3_DUNFELL
+RECIPE NAME: lib32-rfc
+LICENSE: Apache-2.0
+
+PACKAGE NAME: lib32-rfkill
+PACKAGE VERSION: 0.5
+RECIPE NAME: lib32-rfkill
+LICENSE: BSD-0-Clause
+
+PACKAGE NAME: lib32-rmfgeneric
+PACKAGE VERSION: RDKV_2022Q3_DUNFELL
+RECIPE NAME: lib32-rmfgeneric
+LICENSE: RDK & Broadcom & BSD-3-Clause & MIT & OpenSSL & CLOSED
+
+PACKAGE NAME: lib32-rmfosal
+PACKAGE VERSION: RDKV_2022Q3_DUNFELL
+RECIPE NAME: lib32-rmfosal
+LICENSE: RDK & Broadcom & BSD-3-Clause & MIT & OpenSSL & CLOSED
+
+PACKAGE NAME: lib32-rmfstreamer
+PACKAGE VERSION: rdkv-2022q3-dunfell
+RECIPE NAME: lib32-rmfstreamer
+LICENSE: RDK & MIT & CLOSED
+
+PACKAGE NAME: lib32-rpcserver
+PACKAGE VERSION: 1.0
+RECIPE NAME: lib32-rpcserver
+LICENSE: CLOSED
+
+PACKAGE NAME: lib32-rtcore
+PACKAGE VERSION: 2.x+gitAUTOINC+01f10647d2
+RECIPE NAME: lib32-rtcore
+LICENSE: Apache-2.0
+
+PACKAGE NAME: lib32-rtremote
+PACKAGE VERSION: 2.x+gitAUTOINC+3db90b4881
+RECIPE NAME: lib32-rtremote
+LICENSE: Apache-2.0
+
+PACKAGE NAME: lib32-run-postinsts
+PACKAGE VERSION: 1.0
+RECIPE NAME: lib32-run-postinsts
+LICENSE: MIT
+
+PACKAGE NAME: lib32-sbc
+PACKAGE VERSION: 1.4
+RECIPE NAME: lib32-sbc
+LICENSE: LGPLv2.1+
+
+PACKAGE NAME: lib32-serpkgupdate
+PACKAGE VERSION: 1.0
+RECIPE NAME: lib32-serpkgupdate
+LICENSE: CLOSED
+
+PACKAGE NAME: lib32-servicemanager
+PACKAGE VERSION: rdkv-2022q3-dunfell
+RECIPE NAME: lib32-servicemanager
+LICENSE: CLOSED
+
+PACKAGE NAME: lib32-sessionmgr
+PACKAGE VERSION: 1.0
+RECIPE NAME: lib32-sessionmgr
+LICENSE: RDK
+
+PACKAGE NAME: lib32-set-hostname
+PACKAGE VERSION: 1.0
+RECIPE NAME: lib32-set-hostname
+LICENSE: CLOSED
+
+PACKAGE NAME: lib32-shadow
+PACKAGE VERSION: 4.8.1
+RECIPE NAME: lib32-shadow
+LICENSE: BSD-3-Clause | Artistic-1.0
+
+PACKAGE NAME: lib32-shadow-base
+PACKAGE VERSION: 4.8.1
+RECIPE NAME: lib32-shadow
+LICENSE: BSD-3-Clause | Artistic-1.0
+
+PACKAGE NAME: lib32-shadow-securetty
+PACKAGE VERSION: 4.6
+RECIPE NAME: lib32-shadow-securetty
+LICENSE: MIT
+
+PACKAGE NAME: lib32-shared-mime-info
+PACKAGE VERSION: 1.10
+RECIPE NAME: lib32-shared-mime-info
+LICENSE: GPLv2
+
+PACKAGE NAME: lib32-shell-executor
+PACKAGE VERSION: 1.0
+RECIPE NAME: lib32-shell-executor
+LICENSE: CLOSED
+
+PACKAGE NAME: lib32-slauncher
+PACKAGE VERSION: 1.0
+RECIPE NAME: lib32-slauncher
+LICENSE: CLOSED
+
+PACKAGE NAME: lib32-smartrcu
+PACKAGE VERSION: 0.0
+RECIPE NAME: lib32-smartrcu
+LICENSE: CLOSED
+
+PACKAGE NAME: lib32-smartrcu-ble-data-storage
+PACKAGE VERSION: 0.0
+RECIPE NAME: lib32-smartrcu
+LICENSE: CLOSED
+
+PACKAGE NAME: lib32-speex
+PACKAGE VERSION: 1.2.0
+RECIPE NAME: lib32-speex
+LICENSE: BSD-3-Clause
+
+PACKAGE NAME: lib32-splash-image
+PACKAGE VERSION: 1.0
+RECIPE NAME: lib32-splash-image
+LICENSE: CLOSED
+
+PACKAGE NAME: lib32-ssh-callback-tunnel
+PACKAGE VERSION: 1.0
+RECIPE NAME: lib32-ssh-callback-tunnel
+LICENSE: CLOSED
+
+PACKAGE NAME: lib32-subttxrend-app
+PACKAGE VERSION: 1.0
+RECIPE NAME: lib32-subttxrend-app
+LICENSE: CLOSED
+
+PACKAGE NAME: lib32-subttxrend-cc
+PACKAGE VERSION: 1.0
+RECIPE NAME: lib32-subttxrend-cc
+LICENSE: CLOSED
+
+PACKAGE NAME: lib32-subttxrend-common
+PACKAGE VERSION: 1.0
+RECIPE NAME: lib32-subttxrend-common
+LICENSE: CLOSED
+
+PACKAGE NAME: lib32-subttxrend-dbus
+PACKAGE VERSION: 1.0
+RECIPE NAME: lib32-subttxrend-dbus
+LICENSE: CLOSED
+
+PACKAGE NAME: lib32-subttxrend-dvbsub
+PACKAGE VERSION: 1.0
+RECIPE NAME: lib32-subttxrend-dvbsub
+LICENSE: CLOSED
+
+PACKAGE NAME: lib32-subttxrend-gfx
+PACKAGE VERSION: 1.0
+RECIPE NAME: lib32-subttxrend-gfx
+LICENSE: CLOSED
+
+PACKAGE NAME: lib32-subttxrend-protocol
+PACKAGE VERSION: 1.0
+RECIPE NAME: lib32-subttxrend-protocol
+LICENSE: CLOSED
+
+PACKAGE NAME: lib32-subttxrend-scte
+PACKAGE VERSION: 1.0
+RECIPE NAME: lib32-subttxrend-scte
+LICENSE: CLOSED
+
+PACKAGE NAME: lib32-subttxrend-socksrc
+PACKAGE VERSION: 1.0
+RECIPE NAME: lib32-subttxrend-socksrc
+LICENSE: CLOSED
+
+PACKAGE NAME: lib32-subttxrend-ttml
+PACKAGE VERSION: 1.0
+RECIPE NAME: lib32-subttxrend-ttml
+LICENSE: CLOSED
+
+PACKAGE NAME: lib32-subttxrend-ttxt
+PACKAGE VERSION: 1.0
+RECIPE NAME: lib32-subttxrend-ttxt
+LICENSE: CLOSED
+
+PACKAGE NAME: lib32-subttxrend-webvtt
+PACKAGE VERSION: 1.0
+RECIPE NAME: lib32-subttxrend-webvtt
+LICENSE: CLOSED
+
+PACKAGE NAME: lib32-swupdate-logger
+PACKAGE VERSION: 1.0
+RECIPE NAME: lib32-swupdate-logger
+LICENSE: CLOSED
+
+PACKAGE NAME: lib32-sysint
+PACKAGE VERSION: rdkv-2022q3-dunfell
+RECIPE NAME: lib32-sysint
+LICENSE: Apache-2.0 & BSD-3-Clause
+
+PACKAGE NAME: lib32-system-time-service
+PACKAGE VERSION: 1.0
+RECIPE NAME: lib32-system-time-service
+LICENSE: CLOSED
+
+PACKAGE NAME: lib32-systemd
+PACKAGE VERSION: 244.5
+RECIPE NAME: lib32-systemd
+LICENSE: GPLv2 & LGPLv2.1
+
+PACKAGE NAME: lib32-systemd-compat-units
+PACKAGE VERSION: 1.0
+RECIPE NAME: lib32-systemd-compat-units
+LICENSE: MIT
+
+PACKAGE NAME: lib32-systemd-conf
+PACKAGE VERSION: 244.3
+RECIPE NAME: lib32-systemd-conf
+LICENSE: MIT
+
+PACKAGE NAME: lib32-systemd-extra-utils
+PACKAGE VERSION: 244.5
+RECIPE NAME: lib32-systemd
+LICENSE: GPLv2 & LGPLv2.1
+
+PACKAGE NAME: lib32-systemd-journal-upload
+PACKAGE VERSION: 244.5
+RECIPE NAME: lib32-systemd
+LICENSE: GPLv2 & LGPLv2.1
+
+PACKAGE NAME: lib32-systemd-serialgetty
+PACKAGE VERSION: 1.0
+RECIPE NAME: lib32-systemd-serialgetty
+LICENSE: GPLv2+
+
+PACKAGE NAME: lib32-thunderjs
+PACKAGE VERSION: 1.0
+RECIPE NAME: lib32-thunderjs
+LICENSE: Apache-2
+
+PACKAGE NAME: lib32-tr69cpp
+PACKAGE VERSION: 0.0
+RECIPE NAME: lib32-tr69cpp
+LICENSE: CLOSED
+
+PACKAGE NAME: lib32-tr69hostif
+PACKAGE VERSION: rdkv-2022q3-dunfell
+RECIPE NAME: lib32-tr69hostif
+LICENSE: Apache-2.0
+
+PACKAGE NAME: lib32-tr69hostif-conf
+PACKAGE VERSION: rdkv-2022q3-dunfell
+RECIPE NAME: lib32-tr69hostif
+LICENSE: Apache-2.0
+
+PACKAGE NAME: lib32-tr69hostifdataprovider
+PACKAGE VERSION: 0.0
+RECIPE NAME: lib32-tr69hostifdataprovider
+LICENSE: CLOSED
+
+PACKAGE NAME: lib32-tr69logger
+PACKAGE VERSION: 0.0
+RECIPE NAME: lib32-tr69logger
+LICENSE: CLOSED
+
+PACKAGE NAME: lib32-tr69otpgetchipid
+PACKAGE VERSION: 1.0
+RECIPE NAME: lib32-tr69otpgetchipid
+LICENSE: CLOSED
+
+PACKAGE NAME: lib32-trower-base64
+PACKAGE VERSION: git+AUTOINC+714345b1de
+RECIPE NAME: lib32-trower-base64
+LICENSE: Apache-2.0
+
+PACKAGE NAME: lib32-ttf-bitstream-vera
+PACKAGE VERSION: 1.10
+RECIPE NAME: lib32-ttf-bitstream-vera
+LICENSE: BitstreamVera
+
+PACKAGE NAME: lib32-tts
+PACKAGE VERSION: 1.0
+RECIPE NAME: lib32-tts
+LICENSE: CLOSED
+
+PACKAGE NAME: lib32-ttxdecoder
+PACKAGE VERSION: 1.0
+RECIPE NAME: lib32-ttxdecoder
+LICENSE: CLOSED
+
+PACKAGE NAME: lib32-tunerctrl-noop
+PACKAGE VERSION: 1.0
+RECIPE NAME: lib32-tunerctrl-noop
+LICENSE: CLOSED
+
+PACKAGE NAME: lib32-tz-update
+PACKAGE VERSION: 1.0
+RECIPE NAME: lib32-tz-update
+LICENSE: CLOSED
+
+PACKAGE NAME: lib32-tzdata
+PACKAGE VERSION: 2019a
+RECIPE NAME: lib32-tzdata
+LICENSE: PD & BSD & BSD-3-Clause
+
+PACKAGE NAME: lib32-udev
+PACKAGE VERSION: 244.5
+RECIPE NAME: lib32-systemd
+LICENSE: GPLv2 & LGPLv2.1
+
+PACKAGE NAME: lib32-udev-hwdb
+PACKAGE VERSION: 244.5
+RECIPE NAME: lib32-systemd
+LICENSE: GPLv2 & LGPLv2.1
+
+PACKAGE NAME: lib32-udev-rules
+PACKAGE VERSION: 1.0
+RECIPE NAME: lib32-udev-rules
+LICENSE: CLOSED
+
+PACKAGE NAME: lib32-udhcpc
+PACKAGE VERSION: 1.0
+RECIPE NAME: lib32-udhcpc
+LICENSE: CLOSED
+
+PACKAGE NAME: lib32-uei-qscloud-app
+PACKAGE VERSION: 1.0
+RECIPE NAME: lib32-uei-qscloud-app
+LICENSE: CLOSED
+
+PACKAGE NAME: lib32-update-alternatives-opkg
+PACKAGE VERSION: 0.4.2
+RECIPE NAME: lib32-opkg-utils
+LICENSE: GPLv2+
+
+PACKAGE NAME: lib32-update-rc.d
+PACKAGE VERSION: 0.8
+RECIPE NAME: lib32-update-rc.d
+LICENSE: GPLv2+
+
+PACKAGE NAME: lib32-util-linux-fdisk
+PACKAGE VERSION: 2.35.1
+RECIPE NAME: lib32-util-linux
+LICENSE: GPLv2+ & LGPLv2.1+ & BSD-3-Clause & BSD-4-Clause
+
+PACKAGE NAME: lib32-util-linux-fsck
+PACKAGE VERSION: 2.35.1
+RECIPE NAME: lib32-util-linux
+LICENSE: GPLv2+ & LGPLv2.1+ & BSD-3-Clause & BSD-4-Clause
+
+PACKAGE NAME: lib32-util-linux-libblkid
+PACKAGE VERSION: 2.35.1
+RECIPE NAME: lib32-util-linux
+LICENSE: GPLv2+ & LGPLv2.1+ & BSD-3-Clause & BSD-4-Clause
+
+PACKAGE NAME: lib32-util-linux-libfdisk
+PACKAGE VERSION: 2.35.1
+RECIPE NAME: lib32-util-linux
+LICENSE: GPLv2+ & LGPLv2.1+ & BSD-3-Clause & BSD-4-Clause
+
+PACKAGE NAME: lib32-util-linux-libmount
+PACKAGE VERSION: 2.35.1
+RECIPE NAME: lib32-util-linux
+LICENSE: GPLv2+ & LGPLv2.1+ & BSD-3-Clause & BSD-4-Clause
+
+PACKAGE NAME: lib32-util-linux-libsmartcols
+PACKAGE VERSION: 2.35.1
+RECIPE NAME: lib32-util-linux
+LICENSE: GPLv2+ & LGPLv2.1+ & BSD-3-Clause & BSD-4-Clause
+
+PACKAGE NAME: lib32-util-linux-libuuid
+PACKAGE VERSION: 2.35.1
+RECIPE NAME: lib32-util-linux
+LICENSE: GPLv2+ & LGPLv2.1+ & BSD-3-Clause & BSD-4-Clause
+
+PACKAGE NAME: lib32-util-linux-mount
+PACKAGE VERSION: 2.35.1
+RECIPE NAME: lib32-util-linux
+LICENSE: GPLv2+ & LGPLv2.1+ & BSD-3-Clause & BSD-4-Clause
+
+PACKAGE NAME: lib32-util-linux-umount
+PACKAGE VERSION: 2.35.1
+RECIPE NAME: lib32-util-linux
+LICENSE: GPLv2+ & LGPLv2.1+ & BSD-3-Clause & BSD-4-Clause
+
+PACKAGE NAME: lib32-version-marker
+PACKAGE VERSION: 1.0
+RECIPE NAME: lib32-version-marker
+LICENSE: CLOSED
+
+PACKAGE NAME: lib32-vmtouch
+PACKAGE VERSION: 1.3.1
+RECIPE NAME: lib32-vmtouch
+LICENSE: BSD
+
+PACKAGE NAME: lib32-volatile-binds
+PACKAGE VERSION: 1.0
+RECIPE NAME: lib32-volatile-binds
+LICENSE: MIT
+
+PACKAGE NAME: lib32-vrex
+PACKAGE VERSION: 1.0
+RECIPE NAME: lib32-vrex
+LICENSE: CLOSED
+
+PACKAGE NAME: lib32-watermarking-service
+PACKAGE VERSION: 1.0
+RECIPE NAME: lib32-watermarking-service
+LICENSE: CLOSED
+
+PACKAGE NAME: lib32-wayland
+PACKAGE VERSION: 1.11.0
+RECIPE NAME: lib32-wayland
+LICENSE: MIT
+
+PACKAGE NAME: lib32-wayland-egl
+PACKAGE VERSION: stable2
+RECIPE NAME: lib32-wayland-egl
+LICENSE: CLOSED
+
+PACKAGE NAME: lib32-webkitbrowser-plugin
+PACKAGE VERSION: 3.0+git999
+RECIPE NAME: lib32-webkitbrowser-plugin
+LICENSE: Apache-2.0
+
+PACKAGE NAME: lib32-websocket-ipplayer2
+PACKAGE VERSION: 1.0
+RECIPE NAME: lib32-websocket-ipplayer2
+LICENSE: CLOSED
+
+PACKAGE NAME: lib32-websocketclient
+PACKAGE VERSION: 1.0
+RECIPE NAME: lib32-websocketclient
+LICENSE: CLOSED
+
+PACKAGE NAME: lib32-weston
+PACKAGE VERSION: 1.11.0
+RECIPE NAME: lib32-weston
+LICENSE: MIT
+
+PACKAGE NAME: lib32-weston-nsc-backend
+PACKAGE VERSION: stable2
+RECIPE NAME: lib32-weston-nsc-backend
+LICENSE: CLOSED
+
+PACKAGE NAME: lib32-wireless-regdb-static
+PACKAGE VERSION: 2022.02.18
+RECIPE NAME: lib32-wireless-regdb
+LICENSE: ISC
+
+PACKAGE NAME: lib32-wpa-supplicant
+PACKAGE VERSION: 2.10
+RECIPE NAME: lib32-wpa-supplicant
+LICENSE: BSD-3-Clause
+
+PACKAGE NAME: lib32-wpa-supplicant-cli
+PACKAGE VERSION: 2.10
+RECIPE NAME: lib32-wpa-supplicant
+LICENSE: BSD-3-Clause
+
+PACKAGE NAME: lib32-wpa-supplicant-config
+PACKAGE VERSION: 1.0
+RECIPE NAME: lib32-wpa-supplicant-config
+LICENSE: CLOSED
+
+PACKAGE NAME: lib32-wpa-supplicant-passphrase
+PACKAGE VERSION: 2.10
+RECIPE NAME: lib32-wpa-supplicant
+LICENSE: BSD-3-Clause
+
+PACKAGE NAME: lib32-wpe-appmodule
+PACKAGE VERSION: 1.0.0
+RECIPE NAME: lib32-wpe-appmodule
+LICENSE: CLOSED
+
+PACKAGE NAME: lib32-wpe-backend-rdk
+PACKAGE VERSION: 0.3+gitAUTOINC+013a7a4889
+RECIPE NAME: lib32-wpe-backend-rdk
+LICENSE: BSD-2-Clause & Apache-2.0
+
+PACKAGE NAME: lib32-wpe-ipplayer
+PACKAGE VERSION: 1.0
+RECIPE NAME: lib32-wpe-ipplayer
+LICENSE: CLOSED
+
+PACKAGE NAME: lib32-wpe-webkit
+PACKAGE VERSION: 2.22.1+git
+RECIPE NAME: lib32-wpe-webkit
+LICENSE: BSD-2-Clause & BSD-3-Clause & LGPL-2.0 & LGPL-2.1
+
+PACKAGE NAME: lib32-wpeframework
+PACKAGE VERSION: rdkv-2022q3-dunfell+gitAUTOINC+82d4791478
+RECIPE NAME: lib32-wpeframework
+LICENSE: Apache-2.0
+
+PACKAGE NAME: lib32-wpeframework-clientlibraries
+PACKAGE VERSION: rdkv-2022q3-dunfell+gitAUTOINC+dd3670015c
+RECIPE NAME: lib32-wpeframework-clientlibraries
+LICENSE: Apache-2.0
+
+PACKAGE NAME: lib32-wpeframework-interfaces
+PACKAGE VERSION: rdkv-2022q3-dunfell+gitAUTOINC+65bdaa2073
+RECIPE NAME: lib32-wpeframework-interfaces
+LICENSE: Apache-2.0
+
+PACKAGE NAME: lib32-wpeframework-ocdm-playready-nexus-svp
+PACKAGE VERSION: git
+RECIPE NAME: lib32-wpeframework-ocdm-playready-nexus-svp
+LICENSE: Apache-2.0
+
+PACKAGE NAME: lib32-wpeframework-ocdm-widevine-nexus-svp
+PACKAGE VERSION: git
+RECIPE NAME: lib32-wpeframework-ocdm-widevine-nexus-svp
+LICENSE: Apache-2.0
+
+PACKAGE NAME: lib32-wpeframework-ui
+PACKAGE VERSION: git
+RECIPE NAME: lib32-wpeframework-ui
+LICENSE: Apache-2.0
+
+PACKAGE NAME: lib32-ws-link
+PACKAGE VERSION: 1.0
+RECIPE NAME: lib32-ws-link
+LICENSE: CLOSED
+
+PACKAGE NAME: lib32-xdialserver
+PACKAGE VERSION: 2.1+git69dcf9b5fd52b6872df9735b46d032d163ed8f83
+RECIPE NAME: lib32-xdialserver
+LICENSE: Apache-2.0
+
+PACKAGE NAME: lib32-xfsprogs-fsck
+PACKAGE VERSION: 5.2.1
+RECIPE NAME: lib32-xfsprogs
+LICENSE: GPLv2 & LGPLv2.1
+
+PACKAGE NAME: lib32-xfsprogs-mkfs
+PACKAGE VERSION: 5.2.1
+RECIPE NAME: lib32-xfsprogs
+LICENSE: GPLv2 & LGPLv2.1
+
+PACKAGE NAME: lib32-xfsprogs-xfsrepair
+PACKAGE VERSION: 5.2.1
+RECIPE NAME: lib32-xfsprogs
+LICENSE: GPLv2 & LGPLv2.1
+
+PACKAGE NAME: lib32-xkeyboard-config-mini
+PACKAGE VERSION: 2.28
+RECIPE NAME: lib32-xkeyboard-config
+LICENSE: MIT & MIT-style
+
+PACKAGE NAME: lib32-xmlsec
+PACKAGE VERSION: 1.2.30
+RECIPE NAME: lib32-xmlsec
+LICENSE: MIT
+
+PACKAGE NAME: lib32-yajl
+PACKAGE VERSION: 2.1.0
+RECIPE NAME: lib32-yajl
+LICENSE: ISC
+
+PACKAGE NAME: lib32-yajl-tools
+PACKAGE VERSION: 2.1.0
+RECIPE NAME: lib32-yajl
+LICENSE: ISC
+
+PACKAGE NAME: lib32-zlib
+PACKAGE VERSION: 1.2.11
+RECIPE NAME: lib32-zlib
+LICENSE: Zlib
+
+PACKAGE NAME: wobt
+PACKAGE VERSION: 1.0
+RECIPE NAME: wobt
+LICENSE: CLOSED
+

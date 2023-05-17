@@ -1,0 +1,5 @@
+The code within this repository is subject to the RDK License.
+Please refer to the RDK License signed by your company.
+In addition, the following licenses apply to some content within the repository.
+
+------------------------------------------------------------------------------

@@ -1,0 +1,8 @@
+lib32-busybox-initramfs
+lib32-cryptsetup
+lib32-libc6
+lib32-libdevmapper
+lib32-libjson-c4
+lib32-libpopt0
+lib32-libudev1
+lib32-libuuid1
